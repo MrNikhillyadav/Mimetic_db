@@ -11,7 +11,7 @@ const ResearchLandingPage = () => {
             Available Now
           </p>
           <h1 className="text-6xl font-bold mb-6">
-            Let's explore breakthrough <br /> mimetic therapies, together.
+            Let&apos;s explore breakthrough <br /> mimetic therapies, together.
           </h1>
           <p className="text-xl text-gray-300 mb-8">
             Pioneering research in carbohydrate and protein mimetics for targeted therapeutic interventions in cancer, diabetes, and beyond.

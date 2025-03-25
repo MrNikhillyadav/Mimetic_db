@@ -1,7 +1,17 @@
 "use client"
-import React, { useState } from 'react';
+import React, { ReactNode, useState, isValidElement } from 'react';
 
-const Dropdown = ({ Label, children }) => {
+interface DropDownInterface {
+  Label: string; // Corrected type here
+  children: ReactNode
+}
+
+type ChildrenProps = {
+  className?: string;
+  onClick?: () => void;
+};
+
+const Dropdown = ({ Label, children }: DropDownInterface) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
@@ -23,15 +33,17 @@ const Dropdown = ({ Label, children }) => {
         className={`absolute ${isOpen ? 'block' : 'hidden'} bg-gray-800 text-white rounded-md shadow-lg py-2 z-50 min-w-[200px] mt-2`}
       >
         {React.Children.map(children, (child) => 
-          React.cloneElement(child, {
-            className: "px-4 py-2 hover:bg-gray-700 text-left w-full block",
-            onClick: () => {
-              setIsOpen(false);
-              if (child.props.onClick) {
-                child.props.onClick();
+          isValidElement(child) ? 
+            React.cloneElement(child as React.ReactElement<ChildrenProps>, {
+              className: "px-4 py-2 hover:bg-gray-700 text-left w-full block",
+              onClick: () => {
+                setIsOpen(false);
+                if (child.props.onClick) {
+                  child.props.onClick();
+                }
               }
-            }
-          })
+            }) 
+            : child // Return the child as is if it's not a valid React element
         )}
       </div>
     </div>
