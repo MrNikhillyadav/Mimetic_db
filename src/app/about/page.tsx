@@ -1,8 +1,11 @@
 import type { FC } from "react";
+import Image from "next/image";
+import profilePic from "@/assets/image.png";
 
 const teamMembers = [
 	{
 		name: "Akanksha Kulshreshtha",
+		image : './assets/image.png',
 		title: "Assistant Professor",
 		department: "Department of Biological Sciences and Engineering",
 		institution: "Netaji Subhas University of Technology (NSUT)",
@@ -12,6 +15,7 @@ const teamMembers = [
 	},
 	{
 		name: "Avinash Pandey",
+		image : './assets/image.png',
 		title: "B.Tech (BIOTECHNOLOGY)",
 		institution: "Netaji Subhas University of Technology (NSUT)",
 		location: "New Delhi-110078, India",
@@ -20,6 +24,7 @@ const teamMembers = [
 	{
 		name: "Aditi Gupta",
 		title: "B.Tech (BIOTECHNOLOGY)",
+		image : './assets/image.png',
 		institution: "Netaji Subhas University of Technology (NSUT)",
 		location: "New Delhi-110078, India",
 		email: "aditigupta.ug21@nsut.ac.in",
@@ -27,6 +32,7 @@ const teamMembers = [
 	{
 		name: "Harsh Mishra",
 		title: "B.Tech (BIOTECHNOLOGY)",
+		image : './assets/image.png',
 		institution: "Netaji Subhas University of Technology (NSUT)",
 		location: "New Delhi-110078, India",
 		email: "harsh.mishra.ug21@nsut.ac.in",
@@ -44,6 +50,13 @@ const page: FC<pageProps> = () => {
 			<div className='grid gap-8 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2'>
 				{teamMembers.map((member, index) => (
 					<div key={index} className='bg-white p-6 rounded-lg shadow-md'>
+						<Image
+						src={ profilePic}
+						alt={`${member.title} image`}
+						width={200}
+						height={400}
+						className="self-center my-2 rounded-lg"
+      />
 						<h2 className='text-xl font-semibold text-gray-800 mb-2'>{member.name}</h2>
 						<p className='text-gray-700 mb-1'>
 							<strong>{member.title}</strong>
