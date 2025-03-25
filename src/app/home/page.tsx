@@ -3,7 +3,7 @@ import ImagePreviewer from "@/components/ui/ImagePreviewer";
 export default function Home() {
 	return (
 		<main className='flex flex-col justify-center lg:flex-row gap-16 lg:justify-between container py-8'>
-			<div className='lg:w-[40%] text-justify leading-7 tracking-wider text-secondary'>
+			<div className='lg:w-[40%] text-justify leading-6 tracking-normal text-foreground/70'>
 				<p>
 					Welcome to the Carbohydrate and Protein Mimetic Database, a comprehensive
 					resource for researchers and scientists exploring the fascinating world of

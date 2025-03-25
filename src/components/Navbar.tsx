@@ -54,7 +54,7 @@ export default function Navbar() {
 
         <div className="hidden lg:flex items-center space-x-6">
           <a href="/home" className="hover:text-gray-300">
-            Home
+              Home
           </a>
 
           <Dropdown Label="Mimetic">
