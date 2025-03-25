@@ -1,18 +1,36 @@
-import React from 'react';
+"use client"
+import React, { useState } from 'react';
 
 const Dropdown = ({ Label, children }) => {
+  const [isOpen, setIsOpen] = useState(false);
+
   return (
-    <div className="group relative">
-      <button className="hover:text-gray-300 flex items-center">
+    <div 
+      className="group relative"
+      onMouseEnter={() => setIsOpen(true)}
+      onMouseLeave={() => setIsOpen(false)}
+    >
+      <button 
+        className="hover:text-gray-300 flex items-center"
+        onClick={() => setIsOpen(!isOpen)}
+      >
         {Label}
         <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
         </svg>
       </button>
-      <div className="absolute hidden group-hover:block bg-gray-800 text-white rounded-md shadow-lg py-2 z-50 min-w-[200px] mt-2">
+      <div 
+        className={`absolute ${isOpen ? 'block' : 'hidden'} bg-gray-800 text-white rounded-md shadow-lg py-2 z-50 min-w-[200px] mt-2`}
+      >
         {React.Children.map(children, (child) => 
           React.cloneElement(child, {
-            className: "px-4 py-2 hover:bg-gray-700 text-left w-full block"
+            className: "px-4 py-2 hover:bg-gray-700 text-left w-full block",
+            onClick: () => {
+              setIsOpen(false);
+              if (child.props.onClick) {
+                child.props.onClick();
+              }
+            }
           })
         )}
       </div>
@@ -35,7 +53,7 @@ export default function Navbar() {
         </div>
 
         <div className="hidden lg:flex items-center space-x-6">
-          <a href="/" className="hover:text-gray-300">
+          <a href="/home" className="hover:text-gray-300">
             Home
           </a>
 
