@@ -1,13 +1,19 @@
 import Navbar from "@/components/Navbar";
 import { DriverProvider } from "@/contexts/DriverContext";
+import { Bricolage_Grotesque } from "next/font/google";
 import "driver.js/dist/driver.css";
+import { cn } from '@/lib/utils';
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "react-photo-view/dist/react-photo-view.css";
 import "./globals.css";
 import Script from "next/script";
 
-const inter = Inter({ subsets: ["latin"] });
+const bricolage = Bricolage_Grotesque({
+	variable: "--bricolage-font",
+	subsets: ["latin"],
+	display: "swap",
+  });
 
 declare global {
 	interface Window {
@@ -28,7 +34,12 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang='en' className='dark'>
-			<body className={inter.className}>
+			<body 
+				suppressHydrationWarning={true}
+				className={cn(
+					'font-bricolage antialiased',
+					bricolage.variable,
+				  )}>
 				<Navbar />
 				<DriverProvider>{children}</DriverProvider>
 				<Script
