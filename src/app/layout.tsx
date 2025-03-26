@@ -8,6 +8,7 @@ import { Inter } from "next/font/google";
 import "react-photo-view/dist/react-photo-view.css";
 import "./globals.css";
 import Script from "next/script";
+import Footer from "@/components/Footer";
 
 const bricolage = Bricolage_Grotesque({
 	variable: "--bricolage-font",
@@ -41,7 +42,12 @@ export default function RootLayout({
 					bricolage.variable,
 				  )}>
 				<Navbar />
-				<DriverProvider>{children}</DriverProvider>
+				<DriverProvider>
+					<div className="max-w-6xl  mx-auto px-8 "> 
+					{children}
+					<Footer/>
+					</div>
+				</DriverProvider>
 				<Script
 					src='https://www.gstatic.com/charts/loader.js'
 					strategy='beforeInteractive'

@@ -2,7 +2,7 @@ import ImagePreviewer from "@/components/ui/ImagePreviewer";
 
 export default function Home() {
 	return (
-		<main className=" max-w-6xl mx-auto px-8 flex flex-col lg:flex-row rounded-lg justify-between items-center gap-16 container py-16 bg-gray-50">
+		<main className=" max-w-6xl mx-auto px-8 flex flex-col lg:flex-row rounded-t-lg justify-between items-center gap-16 container py-16 bg-gray-50">
 			{/* Left Content Section */}
 			<div className="lg:w-[45%] text-left leading-7 text-gray-600">
 				<h1 className="text-4xl font-bold text-gray-800 mb-6">

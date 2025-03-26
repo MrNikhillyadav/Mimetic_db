@@ -41,7 +41,7 @@ const teamMembers = [
 
 const TeamPage: FC = () => {
     return (
-        <div className="max-w-6xl rounded-lg mx-auto px-6  py-16 bg-gray-50">
+        <div className="max-w-6xl rounded-t-lg mx-auto px-6  py-16 bg-gray-50">
             <h1 className="text-center text-4xl font-bold text-gray-900 mb-8">
                 We are the people who make up Our Team
             </h1>
