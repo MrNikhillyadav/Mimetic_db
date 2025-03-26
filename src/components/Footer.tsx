@@ -1,3 +1,4 @@
+import React from 'react'
 import { ArrowUpRight } from 'lucide-react';
 import { Twitter, Instagram, Youtube, Linkedin } from 'lucide-react';
 
