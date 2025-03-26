@@ -41,12 +41,12 @@ const teamMembers = [
 
 const TeamPage: FC = () => {
     return (
-        <div className="max-w-7xl mx-auto px-4 py-16 bg-gray-50">
+        <div className="max-w-6xl rounded-lg mx-auto px-6  py-16 bg-gray-50">
             <h1 className="text-center text-4xl font-bold text-gray-900 mb-8">
                 We are the people who make up Our Team
             </h1>
             <p className="text-center text-lg text-gray-700 mb-12">
-                Our philosophy is simple: hire great people and give them the resources and support to do their best work.
+            Research in carbohydrate and protein mimetics for targeted therapeutic interventions in cancer, diabetes, and beyond..
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
