@@ -1,9 +1,9 @@
 "use client"
-import React, { ReactNode, useState, isValidElement } from 'react';
+import React, { ReactNode, useState, useEffect } from 'react';
 
 interface DropDownInterface {
-  Label: string; // Corrected type here
-  children: ReactNode
+  Label: string;
+  children: ReactNode;
 }
 
 type ChildrenProps = {
@@ -13,12 +13,25 @@ type ChildrenProps = {
 
 const Dropdown = ({ Label, children }: DropDownInterface) => {
   const [isOpen, setIsOpen] = useState(false);
+  const [isHovering, setIsHovering] = useState(false);
+
+  // Use effect to manage the dropdown state based on hover
+  useEffect(() => {
+    let timer: NodeJS.Timeout;
+    if (isHovering) {
+      setIsOpen(true);
+    } else {
+      // Delay closing to allow for mouse movement between dropdown and its items
+      timer = setTimeout(() => setIsOpen(false), 200);
+    }
+    return () => clearTimeout(timer);
+  }, [isHovering]);
 
   return (
     <div 
       className="group relative"
-      onMouseEnter={() => setIsOpen(true)}
-      onMouseLeave={() => setIsOpen(false)}
+      onMouseEnter={() => setIsHovering(true)}
+      onMouseLeave={() => setIsHovering(false)}
     >
       <button 
         className="hover:text-gray-300 flex items-center"
@@ -31,19 +44,22 @@ const Dropdown = ({ Label, children }: DropDownInterface) => {
       </button>
       <div 
         className={`absolute ${isOpen ? 'block' : 'hidden'} bg-gray-800 text-white rounded-md shadow-lg py-2 z-50 min-w-[200px] mt-2`}
+        onMouseEnter={() => setIsHovering(true)}
+        onMouseLeave={() => setIsHovering(false)}
       >
         {React.Children.map(children, (child) => 
-          isValidElement(child) ? 
+          React.isValidElement(child) ? 
             React.cloneElement(child as React.ReactElement<ChildrenProps>, {
               className: "px-4 py-2 hover:bg-gray-700 text-left w-full block",
-              onClick: () => {
+              onClick: (e: React.MouseEvent) => {
+                e.stopPropagation(); // Prevent event from bubbling up to parent
                 setIsOpen(false);
                 if (child.props.onClick) {
                   child.props.onClick();
                 }
               }
             }) 
-            : child // Return the child as is if it's not a valid React element
+            : child
         )}
       </div>
     </div>
