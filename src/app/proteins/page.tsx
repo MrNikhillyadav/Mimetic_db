@@ -27,9 +27,9 @@ const page: FC<pageProps> = ({}) => {
 	};
 
 	return (
-		<main className='py-8 container'>
+		<main className='max-w-6xl bg-white mx-auto py-8 rounded-t-lg container'>
 			<article className='space-y-6'>
-				<h1 className='scroll-m-20 text-center text-4xl font-extrabold tracking-tight lg:text-5xl'>
+				<h1 className='scroll-m-20 text-black text-center text-4xl font-extrabold tracking-tight lg:text-5xl'>
 					Protein Data
 				</h1>
 			</article>
