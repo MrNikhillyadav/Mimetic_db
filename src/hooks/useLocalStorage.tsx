@@ -13,7 +13,7 @@ export function useLocalStorage<T>(id: string, initialValue: T) {
 		if (storedValue) {
 			setValue(JSON.parse(storedValue));
 		}
-	}, []);
+	}, [prefixedId]);
 
 	function setLocalStorage(value: T) {
 		localStorage.setItem(prefixedId, JSON.stringify(value));

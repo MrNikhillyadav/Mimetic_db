@@ -20,7 +20,7 @@ const ImagePreviewer: FC<ImagePreviewerProps> = (props) => {
 			</p>
 
 			<PhotoView src={props.src}>
-				<Image {...props} className={cn("cursor-pointer", props.className)} id='step2' />
+				<Image  {...props} className={cn("cursor-pointer", props.className)} id='step2' />
 			</PhotoView>
 		</PhotoProvider>
 	);

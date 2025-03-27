@@ -45,7 +45,7 @@ const Table: FC<TableProps> = ({
 			setData(_data);
 			setLoading(false);
 		})();
-	}, [page, filters]);
+	}, [page, filters,loadData]);
 
 	useEffect(() => {
 		(async () => {
