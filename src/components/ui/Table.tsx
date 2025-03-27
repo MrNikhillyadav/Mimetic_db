@@ -57,15 +57,15 @@ const Table: FC<TableProps> = ({
 
 	return (
 		<section className='my-6 scroll-m-20' id='tableStart'>
-			<div className='bg-white dark:bg-gray-800 relative shadow-md sm:rounded-lg overflow-hidden'>
+			<div className='bg-black text-white relative shadow-md sm:rounded-lg overflow-hidden'>
 				<div className='flex flex-col md:flex-row items-center justify-end space-y-3 md:space-y-0 md:space-x-4 p-4'>
-					{/* Buttons	 */}
+					{/* Buttons */}
 					<div className='w-full md:w-auto flex flex-col md:flex-row space-y-2 md:space-y-0 items-stretch md:items-center md:space-x-3 flex-shrink-0'>
 						<div className='flex items-center space-x-3 w-full md:w-auto'>
 							<a
 								href={`/data/${filePath}`}
 								id='step6'
-								className='cursor-pointer w-full md:w-auto flex items-center justify-center py-2 px-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700'>
+								className='cursor-pointer w-full md:w-auto flex items-center justify-center py-2 px-4 text-sm font-medium text-white focus:outline-none bg-gray-800 rounded-lg border border-gray-700 hover:bg-gray-700 focus:z-10 focus:ring-4 focus:ring-gray-600'>
 								Download
 								<ArrowBigDown
 									className='h-4 w-4 ml-1 text-gray-400'
@@ -78,9 +78,9 @@ const Table: FC<TableProps> = ({
 
 				{/* Table */}
 				<div className='overflow-x-auto'>
-					<table className='w-full text-sm text-left text-gray-500 dark:text-gray-400'>
+					<table className='w-full text-sm text-left text-gray-400'>
 						{showHeaders && (
-							<thead className='text-sm text-gray-700 bg-gray-50 dark:bg-gray-700 dark:text-gray-400'>
+							<thead className='text-sm text-white bg-gray-900'>
 								<tr>
 									{headers.map((header, index) => {
 										function updateFilters(conditions: Condition[]) {
@@ -118,15 +118,15 @@ const Table: FC<TableProps> = ({
 								<tr>
 									<td
 										colSpan={headers.length}
-										className='px-4 py-3 text-center text-gray-500 dark:text-gray-400'>
-										<Loader2 className='h-6 w-6 animate-spin mx-auto' />
+										className='px-4 py-3 text-center text-gray-400'>
+										<Loader2 className='h-6 w-6 animate-spin mx-auto text-white' />
 									</td>
 								</tr>
 							)}
 
 							{/* Data */}
 							{data.map((row, index) => (
-								<tr key={index} className='border-b dark:border-gray-700'>
+								<tr key={index} className='border-b border-gray-700'>
 									{headers.map((header, index) => (
 										<td className='px-4 py-3 text-nowrap' key={index}>
 											{row[header]}
@@ -141,13 +141,13 @@ const Table: FC<TableProps> = ({
 				<nav
 					className='flex flex-col md:flex-row justify-between items-start md:items-center space-y-3 md:space-y-0 p-4'
 					aria-label='Table navigation'>
-					<span className='text-sm font-normal text-gray-500 dark:text-gray-400'>
+					<span className='text-sm font-normal text-gray-400'>
 						Showing{" "}
-						<span className='font-semibold text-gray-900 dark:text-white'>
+						<span className='font-semibold text-white'>
 							{(page - 1) * ROW_PER_PAGE + 1}-{Math.min(page * ROW_PER_PAGE, length)}
 						</span>{" "}
 						of{" "}
-						<span className='font-semibold text-gray-900 dark:text-white'>
+						<span className='font-semibold text-white'>
 							{length}
 						</span>
 					</span>
@@ -157,8 +157,8 @@ const Table: FC<TableProps> = ({
 							<a
 								href='#tableStart'
 								className={cn(
-									"flex items-center justify-center h-full py-1.5 px-3 ml-0 text-gray-500 bg-white rounded-l-lg border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white",
-									{ "pointer-events-none": page === 1 }
+									"flex items-center justify-center h-full py-1.5 px-3 ml-0 text-gray-400 bg-black rounded-l-lg border border-gray-700 hover:bg-gray-800 hover:text-white",
+									{ "pointer-events-none opacity-50": page === 1 }
 								)}
 								aria-disabled={page === 1}
 								onClick={() => {
@@ -190,13 +190,13 @@ const Table: FC<TableProps> = ({
 									<a
 										href='#tableStart'
 										className={cn(
-											"flex items-center justify-center text-sm py-2 px-3 leading-tight hover:bg-primary-100 hover:text-primary-700 dark:hover:bg-gray-700 dark:hover:text-white",
+											"flex items-center justify-center text-sm py-2 px-3 leading-tight hover:bg-gray-800 hover:text-white",
 											{
-												"z-10 text-primary-600 bg-primary-50 border border-primary-300 dark:border-gray-700 dark:bg-gray-700 dark:text-white":
+												"z-10 text-white bg-gray-700 border border-gray-600":
 													page === 1,
 											},
 											{
-												"text-gray-500 bg-white border border-gray-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400":
+												"text-gray-400 bg-black border border-gray-700":
 													page !== 1,
 											}
 										)}
@@ -225,14 +225,14 @@ const Table: FC<TableProps> = ({
 										<a
 											href='#tableStart'
 											className={cn(
-												"flex items-center justify-center text-sm py-2 px-3 leading-tight hover:bg-primary-100 hover:text-primary-700 dark:hover:bg-gray-700 dark:hover:text-white",
+												"flex items-center justify-center text-sm py-2 px-3 leading-tight hover:bg-gray-800 hover:text-white",
 												{
-													"z-10 text-primary-600 bg-primary-50 border border-primary-300 dark:border-gray-700 dark:bg-gray-700 dark:text-white":
+													"z-10 text-white bg-gray-700 border border-gray-600":
 														page !== 1 &&
 														(Num_Pages === 2 || page !== Num_Pages),
 												},
 												{
-													"text-gray-500 bg-white border border-gray-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400":
+													"text-gray-400 bg-black border border-gray-700":
 														page === 1 ||
 														(Num_Pages !== 2 && page === Num_Pages),
 												}
@@ -263,13 +263,13 @@ const Table: FC<TableProps> = ({
 										<a
 											href='#tableStart'
 											className={cn(
-												"flex items-center justify-center text-sm py-2 px-3 leading-tight hover:bg-primary-100 hover:text-primary-700 dark:hover:bg-gray-700 dark:hover:text-white",
+												"flex items-center justify-center text-sm py-2 px-3 leading-tight hover:bg-gray-800 hover:text-white",
 												{
-													"z-10 text-primary-600 bg-primary-50 border border-primary-300 dark:border-gray-700 dark:bg-gray-700 dark:text-white":
+													"z-10 text-white bg-gray-700 border border-gray-600":
 														page === Num_Pages,
 												},
 												{
-													"text-gray-500 bg-white border border-gray-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400":
+													"text-gray-400 bg-black border border-gray-700":
 														page !== Num_Pages,
 												}
 											)}
@@ -291,7 +291,7 @@ const Table: FC<TableProps> = ({
 							{Num_Pages > 3 && (
 								<>
 									<li>
-										<span className='flex items-center justify-center text-sm py-2 px-3 leading-tight text-gray-500 bg-white border border-gray-300 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400'>
+										<span className='flex items-center justify-center text-sm py-2 px-3 leading-tight text-gray-400 bg-black border border-gray-700'>
 											...
 										</span>
 									</li>
@@ -299,7 +299,7 @@ const Table: FC<TableProps> = ({
 									<li>
 										<a
 											href='#tableStart'
-											className='flex items-center justify-center text-sm py-2 px-3 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white'
+											className='flex items-center justify-center text-sm py-2 px-3 leading-tight text-gray-400 bg-black border border-gray-700 hover:bg-gray-800 hover:text-white'
 											onClick={() =>
 												setPage((page) =>
 													page > Num_Pages / 2 ? 1 : Num_Pages
@@ -316,8 +316,8 @@ const Table: FC<TableProps> = ({
 							<a
 								href='#tableStart'
 								className={cn(
-									"flex items-center justify-center h-full py-1.5 px-3 ml-0 text-gray-500 bg-white rounded-r-lg border border-gray-300 hover:bg-gray-100 hover:text-gray-700 dark:bg-gray-800 dark:border-gray-700 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white",
-									{ "pointer-events-none": page === Num_Pages }
+									"flex items-center justify-center h-full py-1.5 px-3 ml-0 text-gray-400 bg-black rounded-r-lg border border-gray-700 hover:bg-gray-800 hover:text-white",
+									{ "pointer-events-none opacity-50": page === Num_Pages }
 								)}
 								aria-disabled={page === Num_Pages}
 								onClick={() => {
