@@ -3,10 +3,9 @@ import ImagePreviewer from "@/components/ui/ImagePreviewer";
 export default function Home() {
 	return (
 		<main className=" max-w-6xl mx-auto px-8 flex flex-col lg:flex-row rounded-t-lg justify-between items-center gap-16 container py-16 bg-gray-50">
-			{/* Left Content Section */}
 			<div className="lg:w-[45%] text-left leading-7 text-gray-600">
 				<h1 className="text-4xl font-bold text-gray-800 mb-6">
-					Welcome to the Carbohydrate and Protein Mimetic Database
+					Welcome to Carbohydrate and Protein Mimetic Database
 				</h1>
 				<p className="mb-6">
 					A comprehensive resource for researchers and scientists exploring the fascinating world of molecular mimicry. Carbohydrate-mimetic peptides (CMPs) and protein mimetics represent a cutting-edge approach in drug discovery and vaccine development, offering exciting new therapeutic opportunities.
