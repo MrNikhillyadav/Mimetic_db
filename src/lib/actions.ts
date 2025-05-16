@@ -37,3 +37,16 @@ export async function getProteinDataLength(filters: Record<string, Condition[]> 
 	const filteredData = await applyFilters(data, filters);
 	return filteredData.length;
 }
+
+export async function getCarbohydrateData(page: number = 1, filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/carbohydrate.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	const pageData = await paginateData(filteredData, page);
+	return pageData;
+}
+
+export async function getCarbohydrateDataLength(filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/carbohydrate.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	return filteredData.length;
+}
