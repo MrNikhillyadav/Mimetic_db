@@ -1,11 +1,10 @@
 import type { FC } from "react";
 import Image from "next/image";
-import profilePic from "@/assets/image.png";
 
 const teamMembers = [
     {
         name: "Akanksha Kulshreshtha",
-        image: './assets/image.png',
+        image: '/assets/1.png',
         title: "Assistant Professor",
         department: "Department of Biological Sciences and Engineering",
         institution: "Netaji Subhas University of Technology (NSUT)",
@@ -15,7 +14,7 @@ const teamMembers = [
     },
     {
         name: "Avinash Pandey",
-        image: './assets/image.png',
+        image: '/assets/2.png',
         title: "B.Tech (BIOTECHNOLOGY)",
         institution: "Netaji Subhas University of Technology (NSUT)",
         location: "New Delhi-110078, India",
@@ -24,7 +23,7 @@ const teamMembers = [
     {
         name: "Aditi Gupta",
         title: "B.Tech (BIOTECHNOLOGY)",
-        image: './assets/image.png',
+        image: '/assets/1.png',
         institution: "Netaji Subhas University of Technology (NSUT)",
         location: "New Delhi-110078, India",
         email: "aditi.gupta.ug21@nsut.ac.in",
@@ -32,7 +31,7 @@ const teamMembers = [
     {
         name: "Harsh Mishra",
         title: "B.Tech (BIOTECHNOLOGY)",
-        image: './assets/image.png',
+        image: '/assets/3.png',
         institution: "Netaji Subhas University of Technology (NSUT)",
         location: "New Delhi-110078, India",
         email: "harsh.mishra.ug21@nsut.ac.in",
@@ -56,13 +55,16 @@ const TeamPage: FC = () => {
                         className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300"
                     >
                         <div className="relative w-full h-56">
-                            <Image
-                                src={profilePic}
+                           <Image
+                                src={member.image}
                                 alt={`${member.name} profile`}
-                                layout="fill"
-                                objectFit="cover"
-                                className="w-full h-full"
-                            />
+                                width={300}
+                                height={224}
+                                style={{ objectFit: "cover", width: "100%", height: "224px" }}
+                                className="w-full"
+                                />
+
+
                         </div>
                         <div className="p-6">
                             <h2 className="text-xl font-semibold text-gray-800 mb-2">
