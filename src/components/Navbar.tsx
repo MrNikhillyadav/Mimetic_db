@@ -89,7 +89,7 @@ export default function Navbar() {
             <rect x="15" y="15" width="15" height="15" />
           </svg>
           <a href="/" className="font-bold text-lg">
-            Database on Carbohydrate & Protein Mimetic
+            Database on Carbohydrate & Protein Mimetics
           </a>
         </div>
 
@@ -100,7 +100,7 @@ export default function Navbar() {
 
           <Dropdown Label="Mimetic">
             <a href="/carbohydrate">Carbohydrate</a>
-            <a href="/proteins">Protein / Peptide</a>
+            <a href="/proteins">Protein</a>
           </Dropdown>
 
           <Dropdown Label="Therapeutics Action">

@@ -1,5 +1,6 @@
 import type { FC } from "react";
 import Image from "next/image";
+import { Linkedin } from "lucide-react";
 
 const teamMembers = [
     {
@@ -10,7 +11,6 @@ const teamMembers = [
         institution: "Netaji Subhas University of Technology (NSUT)",
         location: "New Delhi-110078, India",
         email: "akankshak@nsut.ac.in",
-        phone: "+919818896326",
     },
     {
         name: "Avinash Pandey",
@@ -19,6 +19,7 @@ const teamMembers = [
         institution: "Netaji Subhas University of Technology (NSUT)",
         location: "New Delhi-110078, India",
         email: "avinash.pandey.ug21@nsut.ac.in",
+        linkedin : "https://github.com/MrNikhillyadav"
     },
     {
         name: "Aditi Gupta",
@@ -86,10 +87,10 @@ const TeamPage: FC = () => {
                                 >
                                     {member.email}
                                 </a>
-                                {member.phone && (
-                                    <p className="text-gray-500 text-sm mt-1">
-                                        {member.phone}
-                                    </p>
+                                {member.linkedin && (
+                                    <div className="text-gray-500 p-1 max-w-fit shadow-md cursor-pointer hover:scale-105 duration-200 text-sm mt-1">
+                                       <a href={`${member.linkedin}`}>  <Linkedin/> </a>
+                                    </div>
                                 )}
                             </div>
                         </div>
