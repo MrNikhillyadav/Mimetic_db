@@ -18,7 +18,7 @@ const page: FC<pageProps> = ({}) => {
 			dataType: "string",
 		},
 		"Mimic of which Carbohydrate": { displayName: "Mimic of which carbodydrate", dataType: "string" },
-		"Name of the carbodydrate mimetic": {
+		"Name of the Carbohydrate Mimetic": {
 			displayName: "Name of the carbodydrate mimetic",
 			dataType: "string",
 		},
