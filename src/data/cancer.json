@@ -1,0 +1,2812 @@
+[
+  {
+    "Paper Publish Year": 2005,
+    "DOI": "https://doi.org/10.1016/j.bmc.2005.06.059",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "",
+    "Mimic of which Protein/Carbohydrate": "Neu5Ac2en, which is a sialic acid derivative",
+    "Name of the Mimetic": "β-O-glycosides of 4,5-unsaturated 2-acetamido-D-glucuronic acid",
+    "Functions": "The function of β-O-glycosides of 4,5-unsaturated 2-acetamido-D-glucuronic acid is to act as mimetics and inhibitors of influenza virus sialidase",
+    "Activity": "Mucopolysaccharidoses/Cancer: Disrupts glycosaminoglycan pathways"
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "https://doi.org/10.1016/j.tet.2006.05.080",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosidases",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "1-cyano-2-phthalimidederivative",
+    "Functions": "1-Cyano-2-phthalimidederivatives are versatile compounds with a wide range of applications. They are primarily used as intermediates in organic synthesis, particularly in the preparation of various pharmaceuticals, agrochemicals, and dyes2. These derivatives exhibit significant biological activities, including anticancer, antibacterial, anti-inflammatory, and antifungal properties",
+    "Activity": "Cancer Phthalimide derivatives like thalidomide and lenalidomide are used for multiple myeloma and autoimmune diseases"
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "https://doi.org/10.2174/138620706778249703",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosidases",
+    "Mimic of which Protein/Carbohydrate": "aglycon moiety",
+    "Name of the Mimetic": "Tetrahydropyridoimidazole",
+    "Functions": "Tetrahydropyridoimidazole is a heterocyclic scaffold with diverse pharmacological functions, primarily in anticancer therapy, antimicrobial action, and ion channel modulation. Its biological activity stems from structural interactions with key cellular targets, modulated by substituents and stereochemistry.",
+    "Activity": "Cancer: Targets EGFR mutants in non-small cell lung cancer (NSCLC)"
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "https://doi.org/10.1080/07328300600733020",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycoproteins",
+    "Mimic of which Protein/Carbohydrate": "cyclic peptide cRGDFV",
+    "Name of the Mimetic": "vitronectins, avb3",
+    "Functions": "a class of extracellular proteins that facilitate cell-cell recognition",
+    "Activity": "Cancer/Angiogenesis: Inhibitors (e.g., cilengitide) target tumor vasculature and metastasis"
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "https://doi.org/10.1021/jo051989g",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "carbasugar",
+    "Mimic of which Protein/Carbohydrate": "pyranose",
+    "Name of the Mimetic": "cyclooctane-1,2,3-triols",
+    "Functions": "Glycosidase inhibitors",
+    "Activity": "Explored as intermediates for glycoconjugates with potential antiviral/anticancer activity."
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "https://doi.org/10.1016/j.tet.2006.05.080",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Miscellaneous",
+    "Mimic of which Protein/Carbohydrate": "D- glucose",
+    "Name of the Mimetic": "b(1/6)-amide-linked oligomer",
+    "Functions": "The ( \\beta (1/6) )-amide-linked oligomer is part of a new class of carbohydrate mimetics that are resistant to glycosidases. These oligomers have been investigated for their biological activities, such as anti-HIV activity and inhibition of sialyl Lewis x-mediated cell adhesion. The O-sulfated oligomers effectively inhibited HIV infection, sialyl Lewis x-mediated cell adhesion, and heparanase activity in a linkage-specific manner. Therefore, these molecules have potential applications as drugs that block protein–protein interactions and inhibit enzyme catalysis",
+    "Activity": "Cancer Immunotherapy:(1→6)-β-glucose-branched poly-amido-saccharides (PASs) mimic β-glucans, stimulating macrophage polarization and enhancing antitumor immunity."
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "https://doi.org/10.1016/j.tet.2006.05.080",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosides",
+    "Mimic of which Protein/Carbohydrate": "O-glycoside",
+    "Name of the Mimetic": "S-glycosides",
+    "Functions": "S-Glycosides serve as robust tools in glycan synthesis and enzyme inhibition studies, leveraging their chemical stability and stereochemical control. While therapeutic applications are emerging, their resistance to degradation positions them as promising candidates for drug development and targeted delivery systems.",
+    "Activity": "Cancer: Compound S-2 (β-D-xylopyranosyl derivative) showed moderate cytotoxicity against lung carcinoma (A-549 cells, IC₅₀ = 74 µM) by inducing apoptosis"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1039/B700034K",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosaminoglycan",
+    "Mimic of which Protein/Carbohydrate": "heparin",
+    "Name of the Mimetic": "PI88",
+    "Functions": "under phase II clinical trials to treat herpes simplex viral infections,",
+    "Activity": "Hepatocellular carcinoma (Phase III trials)"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1093/glycob/cwm020",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Polymer mimetic",
+    "Mimic of which Protein/Carbohydrate": "GM3",
+    "Name of the Mimetic": "GM3-p (GM3 mimetic polymer)",
+    "Functions": "Inhibits NIH3T3 cell proliferation",
+    "Activity": "Potential use in metastatic cancers"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1093/glycob/cwm020",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Polymer mimetic",
+    "Mimic of which Protein/Carbohydrate": "LacCer",
+    "Name of the Mimetic": "LacCer-p (LacCer mimetic polymer)",
+    "Functions": "Lactosylceramide mimetic polymer (LacCer-p) is a synthetic analog designed to replicate the structure of natural lactosylceramide (LacCer), a glycosphingolipid involved in membrane organization and signaling.",
+    "Activity": "Potential use in metastatic cancers"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.2174/156802607779318325",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "cyclic peptide",
+    "Mimic of which Protein/Carbohydrate": "extracellular matrix proteins that contain the Arg-Gly-Asp (RGD) sequence",
+    "Name of the Mimetic": "c(RGDfV)",
+    "Functions": "Integrin antagonist : blocks integrin αVβ3 receptor binding",
+    "Activity": "Inhibits angiogenesis : prevents tumor-induced blood vessel formation"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.2174/156802607779318325",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "cyclic peptide",
+    "Mimic of which Protein/Carbohydrate": "Disintegrins",
+    "Name of the Mimetic": "ACDCRGDCFCG",
+    "Functions": "acts as an integrin antagonist by blocking the binding of natural ligands to integrin receptors like αVβ3 and αIIbβ3.",
+    "Activity": "It inhibits cell adhesion and migration, disrupting processes such as angiogenesis and tumor progression."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.2174/156802607779318325",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "clic pentapeptide",
+    "Name of the Mimetic": "diketopiperazine (DKP)",
+    "Functions": "Mimics peptide structures to support functional side chains.",
+    "Activity": "Acts as an antagonist (specifically for CXCR4)."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1039/b710425a",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic backbone scaffold",
+    "Mimic of which Protein/Carbohydrate": "α-helices peptides",
+    "Name of the Mimetic": "Terphenyl scaffold",
+    "Functions": "Designed to project sidechain functionality similar to that found in α-helices.",
+    "Activity": "Used as inhibitors of protein–protein interactions"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1039/b710425a",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "Respiratory syncytial virus (RSV) protein",
+    "Name of the Mimetic": "Cyclic pentapeptide scaffold",
+    "Functions": "Mimics the α-turns of the RSV protein.",
+    "Activity": "Inhibits fusion of viral and cell membranes, preventing viral entry into cells."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1039/b710425a",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "α-helices peptides",
+    "Name of the Mimetic": "Hydrazone-linked peptides",
+    "Functions": "To stabilize α-helical structures by replacing the N-terminal i and i + 4 hydrogen bond with a covalent link",
+    "Activity": "Forms well-defined short α-helices with minimal perturbations to molecular recognition surfaces."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1039/b710425a",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "α-helices peptides",
+    "Name of the Mimetic": "Carbon–Carbon Linked Peptides",
+    "Functions": "Introduces a carbon–carbon bond to stabilize the helical structure.",
+    "Activity": "Results in well-defined short α-helices from sequences that do not spontaneously form helices, with minimal perturbations to their molecular recognition surfaces"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1152/ajpcell.00097.2007",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Connexin mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "Cx43",
+    "Name of the Mimetic": "43Gap27",
+    "Functions": "Inhibits gap junction channel formation",
+    "Activity": "No acute effect but moderate long-term attenuation of membrane conductance"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1152/ajpcell.00097.2007",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Pannexin mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "Pannexin-1",
+    "Name of the Mimetic": "10Panx1",
+    "Functions": "Blocks pannexin-1 channel activity",
+    "Activity": "Inhibits pannexin-1 channels; used to study ATP release and intercellular calcium wave propagation"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1002/anie.200700657",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "α-helix mimetic",
+    "Mimic of which Protein/Carbohydrate": "Bak BH3 domain",
+    "Name of the Mimetic": "2,3’,3’’-trisubstituted terphenyls",
+    "Functions": "Mimics i, i+4, and i+7 residues of an α-helix",
+    "Activity": "Inhibits protein–helix interactions, such as Bcl-xL/Bak and MDM2/p53"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.4161/auto.4237",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BH3 mimetic",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "ABT737",
+    "Functions": "Competitively inhibits the interaction between Beclin 1 and Bcl-2/Bcl-XL, which stimulates autophagy",
+    "Activity": "ABT737 disrupts the inhibitory complex between Beclin 1 and Bcl-2/Bcl-XL, thus promoting autophagy by liberating Beclin 1 from its inhibition"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1158/0008-5472.CAN-07-5173",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Smac mimetic compound",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "LBW242",
+    "Functions": "argets inhibitor of apoptosis proteins (IAPs) such as XIAP and cIAP1, leading to the induction of apoptosis in cancer cells",
+    "Activity": "induces apoptosis in cancer cells by activating caspase-8, increasing TNFa expression, and overcoming drug resistance."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1002/pbc.21433",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "ABT-263",
+    "Functions": "limited single agent in vivo activity against the PPTP’s solid tumor panels but showed significant activity against xenografts in the ALL panel",
+    "Activity": "inhibits the antiapoptotic proteins Bcl-2, Bcl-xL and Bcl-w, demonstrated in vitro activity against a range of cell lines, with the\nALL cell lines showing the greatest sensitivity"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1002/pbc.21433",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "ABT-737",
+    "Functions": "exhibits single-agent preclinical activity against lymphoma, small-cell lung carcinoma, and chronic lymphocytic leukemia and displays synergistic cytotoxicity with chemotherapeutics and radiation.",
+    "Activity": "Bcl-2 inhibitor"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1371/journal.pmed.0040316",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "ABT-737",
+    "Functions": "its addition significantly enhances killing of NSCLC cells by\nthe EGFR tyrosine kinase inhibitor gefitinib",
+    "Activity": "EGFR tyrosine kinase inhibitor gefitinib."
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.tetlet.2008.05.040",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "NA",
+    "Mimic of which Protein/Carbohydrate": "a-L-rhamnopyranose",
+    "Name of the Mimetic": "3,5-di-O-benzyl-D-pinitol",
+    "Functions": "Mimics α-L-rhamnopyranose unit in bioactive saccharides, interacts with dendritic cells, potential use in stable mimic of capsular polysaccharide in Streptococcus pneumoniae",
+    "Activity": "Inhibits breast and prostate cancer growth via NF-κB/MMP-9 and FAK/c-Src pathways"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.bmc.2007.11.036",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "α-D-mannose",
+    "Name of the Mimetic": "Swainsonine",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Cancer Therapy:Swainsonine inhibits α-mannosidase II, disrupting N-glycan processing and suppressing tumor metastasis"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1042/BST0361414",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "proteomimetic inhibitors",
+    "Mimic of which Protein/Carbohydrate": "Bak/Bim BH3 Domains",
+    "Name of the Mimetic": "Trisubstituted 3,2,2-terphenyl derivatives",
+    "Functions": "Mimics α-helical structure to disrupt protein–protein interactions",
+    "Activity": "central aryl ring adopts a staggered conformation, effectively mimicking the position and projection of i, i + 3 or i + 4 and i + 7 residues on one face of the helix"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1042/BST0361414",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "proteomimetic inhibitors",
+    "Mimic of which Protein/Carbohydrate": "smMLCK (smooth muscle myosin light-chain kinase)",
+    "Name of the Mimetic": "The terphenyl scaffold",
+    "Functions": "Disrupts protein–protein interactions",
+    "Activity": "binds to calmodulin using an α-helical domain"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.2174/187152708783885174",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic",
+    "Mimic of which Protein/Carbohydrate": "pharmacophores of mAb 5C3 and NGF peptide analogues",
+    "Name of the Mimetic": "C59",
+    "Functions": "C59 (Wnt-C59) is a small-molecule inhibitor of the Wnt signaling pathway. It functions by targeting Porcupine (PORCN), a membrane-bound O-acyltransferase essential for the palmitoylation and secretion of Wnt proteins, thereby preventing both canonical and non-canonical Wnt-mediated signaling.",
+    "Activity": "Lacked neurotrophic effects"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1158/1535-7163.MCT-08-0285",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small molecule mimetic",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "ABT-737",
+    "Functions": "restores sensitivity of Bcl-2-overexpressing cells but not Mcl-1- overexpressing cells to apoptotic stimuli",
+    "Activity": "binds Bcl-2 and Bcl-xL but not Mcl-1"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1158/1535-7163.MCT-08-0285",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "phosphomimetic",
+    "Mimic of which Protein/Carbohydrate": "phosphorylated state of Mcl-1",
+    "Name of the Mimetic": "phosphomimetic Mcl-1 protein (S64E)",
+    "Functions": "use of the S64E protein is biologically relevant, as mouse and rat Mcl-1 wild-type proteins contain a glutamic acid at this position",
+    "Activity": "Noxa binds much more strongly to S64E Mcl-1 than the unphosphorylatable S64A protein"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1039/B914356D",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Miscellaneous",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "1,2-oxazines syn-8 ( Bicyclic ketones 15)",
+    "Functions": "Bicyclic ketone 15 serves as an ideal starting point for the preparation of suitable substrates for the copper-catalyzed 1,3-dipolar cycloaddition of azides with alkynes, which is a key step in the synthesis of oligosaccharide mimetics",
+    "Activity": "Cancer: Serve as intermediates for polyoxygenated oxepanes, which target cancer cell proliferation"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1039/B914356D",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Miscellaneous",
+    "Mimic of which Protein/Carbohydrate": "glucosamine",
+    "Name of the Mimetic": "1,2-oxazines anti syn-8 ( Bicyclic ketones 17)",
+    "Functions": "The 1,2-oxazines syn-8, when exposed to Lewis acids, can be transformed into either bicyclic ketones 15 or tricyclic compounds 16, depending on the nature of the 4-alkoxy group [1]. Additionally, the 1,2-oxazines syn-8 and anti-8 can undergo Lewis acid-promoted rearrangements leading to bi- and tricyclic products",
+    "Activity": "Cancer: Serve as intermediates for polyoxygenated oxepanes, which target cancer cell proliferation"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1021/ja810025g",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "α-helix mimetic",
+    "Mimic of which Protein/Carbohydrate": "Bak bh3 domain",
+    "Name of the Mimetic": "Hamilton Terphenyl Motif",
+    "Functions": "mimics the structural and recognition features of an R-helix, facilitating the design of various derivatives.",
+    "Activity": "effectively present side chains at the i, i + 4, and i + 7 positions, which are critical for mimicking the natural interactions of R-helices in proteins"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "ApoA-I",
+    "Name of the Mimetic": "L-4F",
+    "Functions": "ability to resist enzymatic degradation",
+    "Activity": "inhibit atherosclerotic lesions , binds niclosamide forming a very tight association that protects the peptide from trypsin digestion allowing L-4F absorption and biological activity after oral administration"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "4–8 N-terminal residues of Smac",
+    "Functions": "targets MCF-7 breast cancer cells",
+    "Activity": "combines with Paclitaxel, etoposide, SN-38,\nor doxorubicin"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "4 or 7 N-terminal residues of Smac",
+    "Functions": "targets  Human acute leukemia Jurkat T cells",
+    "Activity": "combines with Epothilone B derivative\n(BMS 247550) or Apo-2L/TRAIL"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "7 N-terminal residues of Smac",
+    "Functions": "targets  L428 and L540 human Hodgkin lymphoma cells",
+    "Activity": "combines with Granzyme B"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "7 N-terminal residues of Smac with antenopedia sequence",
+    "Functions": "targets Caki-1 renal carcinoma cells",
+    "Activity": "combines with None or cisplatin"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "7 N-terminal residues of Smac conjugated to 8 arginine residues",
+    "Functions": "targets Suit-2, CFPAC-1, Panc1, and BxPC-3 pancreatic cancer cells (a) H460 non-small-cell lung cancer, (b) H460 xenograft mouse model",
+    "Activity": "combines with (a) Cisplatin or taxol, (b) cisplatin"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "7 N-terminal residues of Smac conjugated to the protein transduction domain of TAT protein",
+    "Functions": "targets (a) SHEP/Bcl-2 neuroblastoma, SH-SY5Y\nneuroblastoma, Mel-HO melanoma, Panc1\npancreatic carcinoma, (b) U87 MG human\nmalignant glioma xenograft mouse model",
+    "Activity": "combines with (a) TRAIL or doxorubicin, (b) TRAIL"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "Polyvalent naı¨ve phage-derived peptide sequences based on N-terminus of Smac with natural and unnatural amino acid substitutions",
+    "Functions": "targets ML-IAP-overexpressing melanoma cell lines",
+    "Activity": "The polyvalent naïve phage-derived peptide sequences based on the N-terminus of Smac (Second Mitochondrial Activator of Caspases) with natural and unnatural amino acid substitutions are designed to antagonize Inhibitor of Apoptosis Proteins (IAPs), such as XIAP, to restore caspase-mediated apoptosis in cancer cells"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Polynucleotides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "Flag-C-tagged mature Smac pcDNA3.1",
+    "Functions": "targets K562 and CEM human leukaemic cells",
+    "Activity": "combines with Ultraviolet light or TRAIL"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Polynucleotides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "Flag-C-tagged full-length Smac",
+    "Functions": "targets NC65 and Caki-1 renal carcinoma cells",
+    "Activity": "combines with TRAIL or cisplatin"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1097/CAD.0b013e32832ced78",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Polynucleotides",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "pcDNA3.1",
+    "Functions": "targets Human acute leukemia Jurkat T cells",
+    "Activity": "combines with Epothilone B derivative (BMS 247550) or Apo-2L/TRAIL"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "homopolymers or copolymers",
+    "Mimic of which Protein/Carbohydrate": "Elastin",
+    "Name of the Mimetic": "VPGVG",
+    "Functions": "Mimics the natural flexibility and biocompatibility of elastin for implant-related applications",
+    "Activity": "Does not induce significant inflammatory or allergic reactions; not recognized as an antigenic epitope of elastin"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1007/s11883-009-0008-8",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "Apolipoprotein A-I (apoA-I)",
+    "Name of the Mimetic": "4F Peptides",
+    "Functions": "Increases formation of pre-β HDL; enhances cholesterol efflux; reduces lipoprotein oxidation; improves antioxidants and vascular repair; reduces renal inflammation",
+    "Activity": "Improves vasodilation, oxidative stress, myocardial inflammation, and angiogenic potential in various models; reduces adiposity and improves insulin sensitivity in obese mice; improves HDL inflammatory properties in humans with coronary heart disease"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/bip.21164",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Cyclic ligand-mimetic",
+    "Mimic of which Protein/Carbohydrate": "Arg-Gly-Asp (RGD) peptide",
+    "Name of the Mimetic": "Cilengitide",
+    "Functions": "Binds to and inhibits avβ3 and avβ5 integrins, inhibiting endothelial interactions and angiogenesis",
+    "Activity": "Currently in clinical trials for the treatment of glioblastoma"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900599",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "β-Substituted amino acids",
+    "Mimic of which Protein/Carbohydrate": "tryptophan residues in α-helical domains of proteins,",
+    "Name of the Mimetic": "β-MeTrp",
+    "Functions": "an increased biological stability of the modified peptides",
+    "Activity": "comparably higher activity"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900599",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "side-chain-modified amino acids",
+    "Mimic of which Protein/Carbohydrate": "tryptophan (Trp) or phenylalanine (Phe)",
+    "Name of the Mimetic": "2-naphthylalanine",
+    "Functions": "This compound in combination with other unnatural amino acids can be used for the synthesis of Gonadotropin-releasing hormone (GnRH) antagonists",
+    "Activity": "show a high affinity to the receptor"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900599",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "naturally occurring protease inhibitor",
+    "Mimic of which Protein/Carbohydrate": "NA",
+    "Name of the Mimetic": "OF4949-III",
+    "Functions": "exhibits immunopotentiating activity and were confirmed to have antitumor activity, without showing toxicity",
+    "Activity": "competitive inhibitor for aminopeptidase B"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1158/1535-7163.MCT-09-0493",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small-molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "HA14-1",
+    "Functions": "promising anticancer agent",
+    "Activity": "able to inhibit the activity of antiapoptotic Bcl-2 family proteins"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1517/17460441.2010.497811",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "iminosugar",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "swainsonine",
+    "Functions": "anticancer drug with the potential of treating glioma [120] and gastric carcinoma",
+    "Activity": "Lung cancer: Inhibits A549 cell growth in vitro and reduces xenograft tumor volume in vivo"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugars",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "Swainsonine",
+    "Functions": "Swainsonine functions as a glycosidase inhibitor",
+    "Activity": "Cancer:Inhibits α-mannosidase II, disrupting N-glycan processing and suppressing tumor metastasis in preclinical models"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.8",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "inhibitor",
+    "Mimic of which Protein/Carbohydrate": "glucosidase",
+    "Name of the Mimetic": "Swainsonine",
+    "Functions": "used as an anticancer drug with potential for treating glicoma and stomach cancer",
+    "Activity": "Cancer:Inhibits α-mannosidase II, disrupting N-glycan processing and suppressing tumor metastasis in preclinical models"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2010.07.017",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic receptor",
+    "Mimic of which Protein/Carbohydrate": "Mutant p53 (p53-R337H)",
+    "Name of the Mimetic": "amphiphilic calixarenes embedded in chromatic phospholipid/polydiacetylene (PDA) vesicles",
+    "Functions": "Induces changes in vesicle absorption spectra",
+    "Activity": "Multivalent interactions"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2010.07.017",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Porphyrin-based receptor",
+    "Mimic of which Protein/Carbohydrate": "Metaloproteins (e.g., cytochrome c, myoglobin)",
+    "Name of the Mimetic": "TCPP-based receptors",
+    "Functions": "Binding to protein surfaces",
+    "Activity": "Fluorescence quenching upon binding"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2010.07.017",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Nanoparticle-based receptor",
+    "Mimic of which Protein/Carbohydrate": "TAT (HIV transactivator of transcription)",
+    "Name of the Mimetic": "Gold nanoparticles conjugated to b-galactosidase",
+    "Functions": "Nanoparticle-based receptor",
+    "Activity": "Disruption of enzyme-NP interaction"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2010.07.017",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Nucleic acid-based receptor",
+    "Mimic of which Protein/Carbohydrate": "red fluorescent protein",
+    "Name of the Mimetic": "DNA G-quadruplexes",
+    "Functions": "Monitoring changes in fluorescence",
+    "Activity": "Changes in emission of fluorophores"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.259",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Venom-derived peptide",
+    "Mimic of which Protein/Carbohydrate": "NA",
+    "Name of the Mimetic": "Chlorotoxin",
+    "Functions": "capable of blocking chloride channels",
+    "Activity": "binds exclusively to glioma cells, opening the possibility for treatment and diagnosis of particular cancers."
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.2174/138920310791330622",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide",
+    "Mimic of which Protein/Carbohydrate": "β-Strand Motifs (PCSK9/LDLR Interaction)",
+    "Name of the Mimetic": "Trisubstituted imidazole scaffolds",
+    "Functions": "inhibition of Bcl proteinprotein interactions",
+    "Activity": "disrupt the interaction of Bcl-w and Bak-BH3"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.2174/138920310791330622",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Helical mimetic",
+    "Mimic of which Protein/Carbohydrate": "Bak BH3 domain",
+    "Name of the Mimetic": "Trispyridylamide scaffold",
+    "Functions": "antagonist of Bcl-xL,",
+    "Activity": "bifurcated hydrogen-bonding network as well as the minimization of destabilizing conformations allows for the observed geometry"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.2174/138920310791330622",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Helical mimetic",
+    "Mimic of which Protein/Carbohydrate": "α-helical BH3 domain of the pro-apoptotic protein Bak",
+    "Name of the Mimetic": "Terephthalamide scaffold",
+    "Functions": "antagonist of Bcl-xL",
+    "Activity": "stablilized by an intramolecular hydrogen bond"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.2174/138920310791330622",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small molecule mimetic",
+    "Mimic of which Protein/Carbohydrate": "α-helical BH3 domain of the pro-apoptotic protein Bak",
+    "Name of the Mimetic": "1,4-benzodiazepine-2,5-dione derivatives (BZD)",
+    "Functions": "mimics the critical helical peptide side chains of a known peptide substrate of HDM2",
+    "Activity": "bind to HDM2"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.2174/138920310791330622",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small molecule mimetic",
+    "Mimic of which Protein/Carbohydrate": "CDK6",
+    "Name of the Mimetic": "3-hydroxymethylindole",
+    "Functions": "block ligand binding to MAGI3-PDZ2",
+    "Activity": "to block the interaction of PTEN-MAGI3-PDZ2 was investigated via fluorescence polarization"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.2174/138920310791330622",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "alpha-helix mimetics",
+    "Mimic of which Protein/Carbohydrate": "hydrophobic helix D region of CD81",
+    "Name of the Mimetic": "Bisimidazole scaffolds",
+    "Functions": "intramolecular hydrogen bond stabilizes the amide group substituents in a conformation which closely matches the side chain separations on one face of an \u0001-helix",
+    "Activity": "utilized to disrupt the interaction of CD81 and HCV-E2."
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/j.addr.2010.04.007",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "elastin-mimetic triblock copolymer",
+    "Mimic of which Protein/Carbohydrate": "elastin",
+    "Name of the Mimetic": "B9",
+    "Functions": "Drug delivery",
+    "Activity": "Monodisperse size distribution, spherical shape"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1039/C1OB05583F",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "d-fructose",
+    "Name of the Mimetic": "acyclic aminopolyols",
+    "Functions": "Acyclic aminopolyols function as carbohydrate mimetics used to enhance selectin binding properties. They are attached to gold colloids and sulfated to improve ligand-receptor interactions. These sulfated colloids exhibit strong selectin binding properties and no signs of cytotoxicity, serving as a valuable example of improved ligand-receptor interactions when presented multivalently",
+    "Activity": "Diabetes, Viral Infections, Cancer: Synthesized via biocatalytic amination of sugars, these compounds act as carbohydrate mimetics for diabetes management, antiviral therapies, and antitumor agents"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1073/pnas.1105057108",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "Lewis A carbohydrate",
+    "Name of the Mimetic": "I-peptide, which is a 7-mer peptide",
+    "Functions": "The function of I-peptide, which is a 7-mer peptide, is to inhibit sialyl Lewis X-dependent colonization by binding to a receptor distinct from E- or P-selectins. It was found to bind to a 15 kDa fragment of annexin 1 (Anxa1), which is a highly specific marker of the tumor vasculature surface",
+    "Activity": "Cancer: Targets annexin 1 (Anxa1) on tumor vasculature for drug delivery. Conjugated to SN-38 (chemotherapy drug), it suppresses colon cancer (HCT116) growth in mice"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://sci-hub.se/10.1055/s-0030-1260139",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "imino sugar derivative",
+    "Mimic of which Protein/Carbohydrate": "oligosaccharide",
+    "Name of the Mimetic": "2,6-functionalized pyranoid glycoaminoxy acid",
+    "Functions": "The 2,6-functionalized pyranoid glycoaminoxy acid serves as a building block for the construction of novel 2,6-linked oligosaccharide mimetics. It is used for chemical ligations with various amines, carboxylic acids, or aldehydes through amide, oxime, or oxyamine bonds, respectively. This makes it a useful tool for the synthesis of oligosaccharide mimetics with potentially diverse practical application",
+    "Activity": "Cancer: Used to synthesize oligosaccharide mimetics that inhibit tumor growth and metastasis"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1134/S1068162011060100",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "heparinoids",
+    "Name of the Mimetic": "Sulfated Phosphomannan PI88",
+    "Functions": "Sulfated phosphomannan PI88 functions as a heparanase inhibitor and an angiogenesis inhibitor. It blocks the action of heparanase, which is involved in cancer cell metastasis, and interacts with growth factors (FGF-1, FGF-2, VEGF) and their receptors (FGFR) to inhibit angiogenesis",
+    "Activity": "Hepatocellular Carcinoma (HCC): Inhibits heparanase, reducing tumor growth and metastasis in clinical trials"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1134/S1068162011060100",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "heparinoids",
+    "Name of the Mimetic": "sulfated hexasaccharide",
+    "Functions": "Sulfated hexasaccharides play diverse biological roles due to their structural and sulfation patterns. Neurodevelopment: Promote cerebellar Purkinje cell growth and neurite outgrowth by interacting with neurotrophic factors like pleiotrophin.Growth Factor Modulation: Mimic heparan sulfate to regulate fibroblast growth factor 2 (FGF-2) activity, influencing cell proliferation and disease pathways.Immune Regulation: Inhibit selectins (L-, E-, and P-selectins) to modulate inflammation, lymphocyte homing, and tumor metastasis.",
+    "Activity": "Cancer Metastasis: Dual inhibition of heparanase and selectins, blocking tumor cell spread"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2011.02.015",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "b-hairpin mimetics",
+    "Mimic of which Protein/Carbohydrate": "LptD (outer membrane protein)",
+    "Name of the Mimetic": "Bcl-2",
+    "Functions": "Targets outer membrane biogenesis",
+    "Activity": "Inhibits LPS transport to the outer membrane"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2011.02.015",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "CAMP Mimetics",
+    "Mimic of which Protein/Carbohydrate": "Defensins",
+    "Name of the Mimetic": "Oligomeric aryl ureas",
+    "Functions": "Antimicrobial properties",
+    "Activity": "mechanisms differ in effectiveness"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small-molecule BH3 mimetics",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "HA14-1",
+    "Functions": "Targets leukemia, myeloma, glioblastoma, prostate cancer",
+    "Activity": "Inhibits Bcl-2"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small-molecule BH3 mimetics",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "BH3-Is",
+    "Functions": "Targets leukemia, prostate cancer, non-small cell lung cancer",
+    "Activity": "Inhibits Bcl-XL"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small-molecule BH3 mimetics",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "Antimycin A",
+    "Functions": "Targets leukemia and cervical cancer",
+    "Activity": "Inhibits Bcl-2, Bcl-XL"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small-molecule BH3 mimetics",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "Gossypol",
+    "Functions": "Targets leukemia, lymphoma, glioblastoma, prostate cancer",
+    "Activity": "Inhibits Bcl-2, Bcl-XL, Mcl-1"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small-molecule BH3 mimetics",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "Apogossypol",
+    "Functions": "Targets leukemia, lymphoma, glioblastoma, prostate cancer",
+    "Activity": "Inhibits Bcl-2, Bcl-XL, Mcl-1"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small-molecule BH3 mimetics",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "TW-37",
+    "Functions": "Targets leukemia, lymphoma, glioblastoma, prostate cancer",
+    "Activity": "Inhibits Bcl-2, Bcl-XL, Mcl-1"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small-molecule BH3 mimetics",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "GX015-070",
+    "Functions": "Targets leukemia, lymphoma, myeloma, lung cancer",
+    "Activity": "Inhibits Bcl-2, Bcl-XL, Mcl-1"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.drup.2007.08.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small-molecule BH3 mimetics",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "ABT-737",
+    "Functions": "Targets leukemia, lymphoma, lung cancer, breast cancer",
+    "Activity": "Inhibits Bcl-2, Bcl-XL, Bcl-w"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1021/jm101651b",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bivalent",
+    "Mimic of which Protein/Carbohydrate": "smac",
+    "Name of the Mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(1,4- phenylenebis(methylene))bis(1H-1,2,3-triazole-4,1- diyl))bis(phenylmethylene))bis(6-((S)-2-(methylamino)propanamido)-5- oxodecahydropyrrolo[1,2-a]azocine-3-carboxamide)",
+    "Functions": "Induces degradation of cIAP2",
+    "Activity": "Fails to induce caspase-3 processing at 30 nM"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1021/jm101651b",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bivalent",
+    "Mimic of which Protein/Carbohydrate": "smac",
+    "Name of the Mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(1,4-phenylenebis(ethane-2,1- diyl))bis(1H-1,2,3-triazole-4,1-diyl))bis(phenylmethylene))bis(6-((S)-2- (methylamino)propanamido)-5-oxodecahydropyrrolo[1,2-a]azocine-3- carboxamide)",
+    "Functions": "Induces degradation of cIAP1/2",
+    "Activity": "Limited effect on cIAP1 degradation at 30 nM"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1021/jm101651b",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bivalent",
+    "Mimic of which Protein/Carbohydrate": "smac",
+    "Name of the Mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(1,4- phenylenebis(propane-3,1-diyl))bis(1H-1,2,3-triazole-4,1- diyl))bis(phenylmethylene))bis(6-((S)-2-(methylamino)propanamido)-5- oxodecahydropyrrolo[1,2-a]azocine-3-carboxamide)",
+    "Functions": "Induces degradation of cIAP1",
+    "Activity": "Induces PARP cleavage and caspase-3 processing"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1021/jm101651b",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bivalent",
+    "Mimic of which Protein/Carbohydrate": "smac",
+    "Name of the Mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(1,4-phenylenebis(hexane-6,1-\ndiyl))bis(1H-1,2,3-triazole-4,1-diyl))bis(phenylmethylene))bis(6-((S)-2-\n(methylamino)propanamido)-5-oxodecahydropyrrolo[1,2-a]azocine-3-\ncarboxamide)",
+    "Functions": "Induces degradation of cIAP1/2",
+    "Activity": "Robust activity at low concentrations"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1021/jm101651b",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bivalent",
+    "Mimic of which Protein/Carbohydrate": "smac",
+    "Name of the Mimetic": "(S,3S,3′S,6S,6′S,10aS,10a′S)-N,N′-((1S,1′S)-(1,1′-(oxybis(pentane-5,1- diyl))bis(1H-1,2,3-triazole-4,1-diyl))bis(phenylmethylene))bis(6-((S)-2- (methylamino)propanamido)-5-oxodecahydropyrrolo[1,2-a]azocine-3- carboxamide)",
+    "Functions": "Antagonist of IAPs",
+    "Activity": "Completely inhibits tumor growth in MDA-MB-231 xenografts"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1021/jm101651b",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bivalent",
+    "Mimic of which Protein/Carbohydrate": "smac",
+    "Name of the Mimetic": "(3S,6S,10aS)-6-((R)-2-acetamido-3-(1H-indol-3-yl)propanamido)-N-((S)-(1-(4-(4- (4-(4-((S)-((3S,6S,10aS)-6-((R)-2-(methylamino)propanamido)-5- oxodecahydropyrrolo[1,2-a]azocine-3-carboxamido)(phenyl)methyl)-1H-1,2,3- triazol-1-yl)butyl)phenyl)butyl)-1H-1,2,3-triazol-4-yl)(phenyl)methyl)-5- oxodecahydropyrrolo[1,2-a]azocine-3-carboxamide",
+    "Functions": "Several times less potent than the most potent bivalent mimetics",
+    "Activity": "The compound (3S,6S,10aS)-6-((R)-2-acetamido-3-(1H-indol-3-yl)propanamido)-N-((S)-(1-(4-(4-(4-(4-((S)-((3S,6S,10aS)-6-((R)-2-(methylamino)propanamido)-5-oxodecahydropyrrolo[1,2-a]azocine-3-carboxamido)(phenyl)methyl)-1H-1,2,3-triazol-1-yl)butyl)phenyl)butyl)-1H-1,2,3-triazol-4-yl)(phenyl)methyl)-5-oxodecahydropyrrolo[1,2-a]azocine-3-carboxamide is a bivalent Smac mimetic designed to antagonize inhibitor of apoptosis proteins (IAPs) such as XIAP, cIAP1, and cIAP2. Its activity centers on restoring apoptosis in cancer cells by mimicking the AVPI tetrapeptide motif of the Smac protein, which naturally binds IAPs to neutralize their anti-apoptotic effects."
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1038/onc.2011.104",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small molecule mimetic",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "ABT737",
+    "Functions": "induces autophagy by competitively disrupting the inhibitory interaction between the BH3 domain of Beclin 1 and the anti-apoptotic proteins Bcl-2 and Bcl-XL, thereby stimulating the Beclin 1-dependent allosteric activation of the pro-autophagic lipid kinase VPS34",
+    "Activity": "caused the activating phosphorylation of AMP-dependent kinase (AMPK) and of the AMPK substrate acetyl CoA carboxylase, the activating phosphorylation of several subunits of the inhibitor of NF-jB (IjB) kinase (IKK) and the hyperphosphorylation of the IKK substrate IjB, inhibition of the activity of mammalian target of rapamycin (mTOR) and consequent dephosphorylation of the mTOR substrate S6 kinase. In addition, ABT737 treatment dephosphorylates (and hence likewise inhibits) p53, glycogen synthase kinase-3 and Akt"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1038/onc.2011.104",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small molecule mimetic",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "HA14-1",
+    "Functions": "highly efficient in inducing autophagy including in U2OS and HeLa cells",
+    "Activity": "induced LC3 lipidation, p62 degradation and GFP-LC3 redistribution to autophagic dots in control and Bax/Bak/ double-knockout MEFs similarly"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1177/1947601911417177",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "ABT-737",
+    "Functions": "Phases I and II: leukemia, lymphoma, myeloma, small cell lung cancer, cervical cancer, breast cancer",
+    "Activity": "Binding to BCL-2 Members: Ki for BCL-2 = 1 nM\nKi for BCL-xL = 0.5 nM\nKi for BCL-w = 1 nM\nKi for MCL-1 = 550 nM"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1177/1947601911417177",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "Apogossypol",
+    "Functions": "Preclinical",
+    "Activity": ". BCL-2 Family Inhibitor: Ki\n for BCL-2 = 35 nM\nKi\n for BCL-xL = 660 nM\nKi\n for MCL-1 = 25 nM"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1177/1947601911417177",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "(–)Gossypol",
+    "Functions": "Phases I and II: chronic lymphocytic leukemia, non-Hodgkin lymphoma, glioblastoma, head and neck, prostate cancer, small cell lung cancer",
+    "Activity": "bind BCL-2, BCL-xL, and MCL-1 although with affinities\nthat are much lower than of the BH3-only proteins to these\nproteins, BCL-2 Family Inhibitor: Ki\n for BCL-2 = 320 nM\nKi\n for BCL-xL = 480 nM\nKi\n for MCL-1 = 180 nM"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1177/1947601911417177",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "GX-15-070",
+    "Functions": "Phase I: leukemia, lymphoma, multiple myeloma, non–small cell lung cancer",
+    "Activity": ". BCL-2 Family Inhibitor: Ki\n for BCL-2 = 220 nM\nKi\n for BCL-xL = 0.5 µM\nKi\n for MCL-1 = 0.5 µM"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1177/1947601911417177",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3",
+    "Name of the Mimetic": "TW-37",
+    "Functions": "Phases I and II: chronic lymphocytic leukemia, non-Hodgkin lymphoma, glioblastoma, head and neck cancer, prostate cancer, small cell lung cancer",
+    "Activity": ". BCL-2 Family Inhibitor: Ki\n for BCL-2 = 290 nM\nKi\n for MCL-1 = 260 nM"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.bmcl.2012.04.014",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycomemitics",
+    "Mimic of which Protein/Carbohydrate": "Heparan Sulphate",
+    "Name of the Mimetic": "PI-88",
+    "Functions": "a highly sulfonated oligosaccharide that mimics heparan sulfate and has potent anti-angiogenic activity, currently in clinical trials",
+    "Activity": "Inhibits heparanase activity and angiogenesis, showing potential as an anti-cancer and anti-metastatic agent."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.bmcl.2012.04.014",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycomemitics",
+    "Mimic of which Protein/Carbohydrate": "Heparan Sulphate",
+    "Name of the Mimetic": "Small molecule fluoro-xylosides",
+    "Functions": "small molecules that mimic heparan sulfate and potently reduce tumor-associated angiogenesis by inhibiting HS biosynthesis in vitro, requiring cellular entry to be effective",
+    "Activity": "Disrupts HS biosynthesis, leading to reduced tumor angiogenesis and potential anti-cancer applications."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.bmcl.2012.04.014",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycomemitics",
+    "Mimic of which Protein/Carbohydrate": "Heparan Sulphate",
+    "Name of the Mimetic": "Polysulfonated small molecules",
+    "Functions": "these mimic heparin/heparan sulfate and act as inhibitors of angiogenesis, identified as promising in vitro tube formation assay inhibitors and can be easily synthesized",
+    "Activity": "Prevents angiogenesis by inhibiting heparan sulfate interactions, making them potential therapeutic agents for cancer treatment."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1155/2012/740982",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "GD1α-mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "GD1α (a ganglioside)",
+    "Name of the Mimetic": "GD1 α-mimetic peptides",
+    "Functions": "These peptides functionally mimic GD1α, which is an adhesion molecule involved in tumor metastasis.",
+    "Activity": "GD1α-replica peptides suppress tumor metastasis."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1593/neo.111544",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate-based galectin inhibitor",
+    "Mimic of which Protein/Carbohydrate": "Galactoside-containing polysaccharide",
+    "Name of the Mimetic": "Modified Citrus Pectin (MCP)",
+    "Functions": "Inhibits galectin-3, blocking its antiapoptotic function and tumor cell clonogenic survival",
+    "Activity": "Shown to inhibit experimental metastasis in various animal models, including melanoma and prostate carcinoma"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1593/neo.111544",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Synthetic β-galactoside disaccharide/amino acid conjugate",
+    "Mimic of which Protein/Carbohydrate": "Cancer-associated Thomsen-Friedenreich antigen (TF-Ag)",
+    "Name of the Mimetic": "Glycoamine Lactulose-L-leucine (Lac-L-Leu)",
+    "Functions": "Binds and inhibits galectin-3, mimicking TF-Ag",
+    "Activity": "Impedes metastasis-associated tumor cell adhesive interactions and inhibits the formation of early metastatic deposits in lungs and bones"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1371/journal.pone.0035457",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "GD2 ganglioside",
+    "Name of the Mimetic": "Peptides mimicking GD2 ganglioside",
+    "Functions": "These peptides are designed to mimic the structure of GD2 ganglioside, which is a tumor-associated antigen.",
+    "Activity": "They elicit immune responses, including cellular and humoral immunity, and can potentially be used in cancer immunotherapy"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1371/journal.pone.0035457",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "GD3 ganglioside",
+    "Name of the Mimetic": "Peptides mimicking GD3 ganglioside",
+    "Functions": "Similar to GD2 mimics, these peptides replicate the structure of GD3 ganglioside, facilitating recognition by specific antibodies.",
+    "Activity": "They can induce anti-ganglioside immune responses, contributing to the development of therapeutic strategies against cancers expressing GD3"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "DOI: 10.2174/138955712803832753",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Synthetic carbohydrate mimetic",
+    "Mimic of which Protein/Carbohydrate": "GDP-fucose",
+    "Name of the Mimetic": "GDP-hexanolamine",
+    "Functions": "Inhibitors of fucosyltransferases",
+    "Activity": "Potential treatment for cancer and inflammatory diseases by inhibiting fucosylation processes involved in cell-cell recognition, cell adhesion, and signaling pathways"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "DOI: 10.2174/138955712803832753",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Synthetic carbohydrate mimetic",
+    "Mimic of which Protein/Carbohydrate": "Trisaccharide",
+    "Name of the Mimetic": "Azatrisaccharide containing a piperidine ring",
+    "Functions": "Inhibitor of glycosyltransferases",
+    "Activity": "Potential treatment for cancer and inflammatory diseases by inhibiting aberrant glycosylation processes"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "DOI: 10.2174/138955712803832753",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Synthetic carbohydrate mimetic",
+    "Mimic of which Protein/Carbohydrate": "N-Ac-lactosamine",
+    "Name of the Mimetic": "N-Ac-lactosamine mimetics",
+    "Functions": "Inhibitor of glycosyltransferases",
+    "Activity": "Potential treatment for cancer and inflammatory diseases by inhibiting aberrant glycosylation processes"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1093/glycob/cwr140",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate-Mimetic Peptides",
+    "Mimic of which Protein/Carbohydrate": "Non-reducing terminal galactose structure.",
+    "Name of the Mimetic": "9-mer Peptides",
+    "Functions": "Recognized by monoclonal antibodies directed to lacto-tetraosylceramide and neolactotetraosylceramide. Bind to Ricinus lectin and inhibit Jack bean β-galactosidase activity toward neolactotetraosylceramide",
+    "Activity": "Potential applications in cancer therapy and treatment of infectious diseases by mimicking carbohydrate antigens and modulating galactose-mediated cellular processes"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1093/glycob/cwr140",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate-Mimetic Peptides",
+    "Mimic of which Protein/Carbohydrate": "Lewis Y antigen.",
+    "Name of the Mimetic": "PWLY Peptide",
+    "Functions": "Induces an immune response against the Lewis Y antigen.",
+    "Activity": "Can elicit an immune response in rabbits and mice, demonstrating its potential as a vaccine component"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1093/glycob/cwr140",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate-Mimetic Peptides",
+    "Mimic of which Protein/Carbohydrate": "Sialyl Lewis X (a carbohydrate ligand).",
+    "Name of the Mimetic": "I-Peptide (IELLQAR)",
+    "Functions": "Inhibits the binding of sialyl Lewis X to E-selectin.",
+    "Activity": "Inhibits lung colonization of melanoma cells, potentially useful for cancer metastasis prevention. May also have applications in treating inflammatory conditions and modulating immune responses."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1158/1535-7163.MCT-13-0058",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BH3 mimetic",
+    "Mimic of which Protein/Carbohydrate": "BH3 proteins( BAD)",
+    "Name of the Mimetic": "ABT-737",
+    "Functions": "Induces proapoptotic and anti-tumour effects",
+    "Activity": "Binds to BCL-2, BCL-XL, and BCL-W proteins and disrupt interaction with BECLIN 1 causing autophagy. Induce BX/BAK dependent apoptosis"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1158/1535-7163.MCT-13-0058",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Inhibitor molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3 proteins",
+    "Name of the Mimetic": "BIM-SAHB",
+    "Functions": "Restricts mitochondria ,activates caspases-3 and 7 , reactivates cell death in leukaemia and lymphoma cells which are resistant to ABT-737",
+    "Activity": "Binds with BCL-XL, BCL-W, MCL-1 and A-1 while blocks the sequestration of BAX by BCL-XL and BAK by MCL-1 and instead triggers direct release of BAX/BAK dependent mitochondrial cytochrome C"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1158/1535-7163.MCT-13-0058",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BAD-like BH3 mimetic",
+    "Mimic of which Protein/Carbohydrate": "BH3 proteins(BAD)",
+    "Name of the Mimetic": "ABT-263(Navitoclax)",
+    "Functions": "Induces proapoptotic and anti-tumour effects (oral derivative of ABT-737)",
+    "Activity": "Binds to BCL-2, BCL-XL, and BCL-W proteins and disrupt interaction with BECLIN 1 causing autophagy. Induce BX/BAK dependent apoptosis"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1158/1535-7163.MCT-13-0058",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Inhibitor molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3 proteins",
+    "Name of the Mimetic": "MIM 1",
+    "Functions": "Inhibits MCL-1 and is hence used in malignant cells with MCL-1",
+    "Activity": "Targets hydrophobic pockets of MCL-1 and induces BAX/BAK apoptosis in MCL-1 dependent but not BCL-XL dependent leukaemia cells"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1158/1535-7163.MCT-13-0058",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Activator molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3 proteins",
+    "Name of the Mimetic": "BMP 7",
+    "Functions": "Induces apoptosis by directly activation of BAX in BAK deficient cells",
+    "Activity": "Selectively interacts with BAX triggering sites while not interacting with BH3 binding groove of BCL-2 proteins"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1158/1535-7163.MCT-13-0058",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Inhibitor molecule",
+    "Mimic of which Protein/Carbohydrate": "BH3 proteins(inhibit BCL-2)",
+    "Name of the Mimetic": "ABT-199",
+    "Functions": "Induces apoptosis of haematological tumour lines while sparing platelet cells( derivative of ABT-263)",
+    "Activity": "Specifically targets BCL-2 and not BCL-XL hence avoiding thrombocytopenia at the same time induce BX/BAK dependent apoptosis"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.ddtec.2011.07.006",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "PEM scaffold",
+    "Mimic of which Protein/Carbohydrate": "Polyphemusin II",
+    "Name of the Mimetic": "POL3026",
+    "Functions": "CXCR4 antagonist",
+    "Activity": "harvests peripheral blood HSCs by disrupting the SDF-1/CXCR4 interaction"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.ddtec.2011.07.006",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "PEM scaffold",
+    "Mimic of which Protein/Carbohydrate": "Polyphemusin II",
+    "Name of the Mimetic": "POL5551",
+    "Functions": "CXCR4 antagonist",
+    "Activity": "POL5551 as a CXCR4 antagonist in acute lymphoblastic leukemia"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.ddtec.2011.07.006",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "PEM scaffold",
+    "Mimic of which Protein/Carbohydrate": "Polyphemusin II",
+    "Name of the Mimetic": "POL6326",
+    "Functions": "CXCR4 antagonist",
+    "Activity": "POL6326 (balixafortide) as a CXCR4 antagonist in clinical trials for breast cancer"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1021/bc400246z",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "antibody mimetic (FPF)",
+    "Mimic of which Protein/Carbohydrate": "IgG",
+    "Name of the Mimetic": "Anti-VEGF",
+    "Functions": "inhibits angiogenesis",
+    "Activity": "provides bivalent binding properties similar to IgG antibodies"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1021/bc400246z",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "antibody mimetic (FPF)",
+    "Mimic of which Protein/Carbohydrate": "IgG",
+    "Name of the Mimetic": "Anti-Her2",
+    "Functions": "inhibits angiogenesis",
+    "Activity": "provides bivalent binding properties similar to IgG antibodies"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "MEK2 (N-terminal region)",
+    "Name of the Mimetic": "Antp-MEK2",
+    "Functions": "Inhibits ERK2 activation",
+    "Activity": "Potential anti-cancer activity by inhibiting cell proliferation signaling"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "MEK2 (N-terminal region)",
+    "Name of the Mimetic": "Tat-MEK2",
+    "Functions": "Inhibits ERK2 activation",
+    "Activity": "Potential anti-cancer activity by inhibiting cell proliferation signaling"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "p14ARF (N-terminal)",
+    "Name of the Mimetic": "(D-Arg)9-ARF26-44",
+    "Functions": "Promotes apoptosis",
+    "Activity": "Potential anti-cancer activity by inducing programmed cell death"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "c-Myc (C-terminal helix 1)",
+    "Name of the Mimetic": "Int-Hi-S6A, F8A",
+    "Functions": "Inhibits proliferation and promotes apoptosis",
+    "Activity": "Anti-cancer activity by inhibiting cell growth and inducing cell death"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "p53 (C-terminal region)",
+    "Name of the Mimetic": "RI-TAT p53C’",
+    "Functions": "Promotes apoptosis",
+    "Activity": "Activates p53 in cancer cells"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "Smac/Diablo (N-terminal)",
+    "Name of the Mimetic": "SmacDiablo Penetratin peptide",
+    "Functions": "Promotes apoptosis",
+    "Activity": "Chemotherapy induces apoptosis"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "Shepherdin",
+    "Name of the Mimetic": "Penetratin- Shepherdin79–83",
+    "Functions": "Selective apoptosis of acute myeloid leukaemia cells",
+    "Activity": "Potential treatment for acute myeloid leukemia"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "ELK1 (DEF docking site)",
+    "Name of the Mimetic": "Tat-DEF-Elk1",
+    "Functions": "Regulates cytonuclear trafficking of ELK1",
+    "Activity": "Potential modulator of gene expression in various diseases"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "B-Raf (Dimer interface)",
+    "Name of the Mimetic": "Tat-DI2",
+    "Functions": "Inhibits Raf dimerization and proliferation of NSCLC cell lines",
+    "Activity": "Potential treatment for non-small cell lung cancer"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "S100C/A11 (N-terminal)",
+    "Name of the Mimetic": "TAT-MAK19",
+    "Functions": "Promotes apoptosis",
+    "Activity": "Potential anti-cancer activity by inducing programmed cell death"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "p21(WAF1/CIP1)",
+    "Name of the Mimetic": "Tat48–60-P10",
+    "Functions": "Promotes apoptosis",
+    "Activity": "Potential anti-cancer activity by inducing programmed cell death"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "Cyt c (77–101)",
+    "Name of the Mimetic": "Nup153-Cyt c",
+    "Functions": "Potent Apoptogenic analogue of Cyt c77–101",
+    "Activity": "Potential anti-cancer activity by inducing apoptosis"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "Mastoparan analogue",
+    "Name of the Mimetic": "Mitoparan",
+    "Functions": "Promotes apoptosis and mitochriotoxic",
+    "Activity": "Potential anti-cancer activity by targeting mitochondria"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "Cytochrome c",
+    "Name of the Mimetic": "Cyt c77–101",
+    "Functions": "Promotes apoptosis",
+    "Activity": "Potential anti-cancer activity by inducing programmed cell death"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "p14ARF (N-terminal)",
+    "Name of the Mimetic": "ARF (1–22)",
+    "Functions": "Promotes apoptosis in cancer cells",
+    "Activity": "Potential anti-cancer activity by inducing programmed cell death"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1073/pnas.1312473110",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "ligand of CH1",
+    "Mimic of which Protein/Carbohydrate": "HIF-1α C-TAD",
+    "Name of the Mimetic": "HBS1",
+    "Functions": "reduces tumour volume",
+    "Activity": "disrupts the HIF-1α/p300-CH1 complex in vitro, down-regulates hypoxia-inducible gene expression, and reduces VEGF protein levels in hypoxic cells"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1016/j.bmc.2012.09.053",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "N-alkylated oligobenzamide",
+    "Mimic of which Protein/Carbohydrate": "α-Helix",
+    "Name of the Mimetic": "4,4-dicarboxamide",
+    "Functions": "targets protein-protein interactions",
+    "Activity": "Potential inhibitor of Bcl-xL/Bak interaction, which may induce apoptosis in cancer cells"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1016/j.bmc.2012.09.053",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "N-alkylated oligobenzamide",
+    "Mimic of which Protein/Carbohydrate": "α-Helix",
+    "Name of the Mimetic": "terephthalamide",
+    "Functions": "targets protein-protein interactions",
+    "Activity": "Disrupts Bcl-xL/Bak complex formation, potentially inducing apoptosis in cancer cells"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3392204/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "phosphoserine mimetics",
+    "Mimic of which Protein/Carbohydrate": "14-3-3 binding motifs",
+    "Name of the Mimetic": "Oxirane ring opening by α,α-difluoromethylenephosphonate anion to furnish γ-hydroxy-α,α-difluoromethylenephosphonates",
+    "Functions": "14-3-3 Protein Inhibitory Activity",
+    "Activity": "targets including the tumor suppressor p53, Raf family kinases, FOXO transcription factors, the proapoptotic protein BAD, and Cdc25 phosphatases through these recognition sequences. Upon binding, 14-3-3 acts as an adaptor, leading to changes in enzymatic activity or subcellular localization .These characteristics make the 14-3-3 family an interesting target for cancer therapeutics"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3392204/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "phosphoserine mimetics",
+    "Mimic of which Protein/Carbohydrate": "14-3-3 binding motifs",
+    "Name of the Mimetic": "WW domains",
+    "Functions": "14-3-3 Protein Inhibitory Activity",
+    "Activity": "targets including the tumor suppressor p53, Raf family kinases, FOXO transcription factors, the proapoptotic protein BAD, and Cdc25 phosphatases through these recognition sequences. Upon binding, 14-3-3 acts as an adaptor, leading to changes in enzymatic activity or subcellular localization .These characteristics make the 14-3-3 family an interesting target for cancer therapeutics"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3392204/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "phosphoserine mimetics",
+    "Mimic of which Protein/Carbohydrate": "14-3-3 binding motifs",
+    "Name of the Mimetic": "Forkhead-associated (FHA) domains",
+    "Functions": "14-3-3 Protein Inhibitory Activity",
+    "Activity": "targets including the tumor suppressor p53, Raf family kinases, FOXO transcription factors, the proapoptotic protein BAD, and Cdc25 phosphatases through these recognition sequences. Upon binding, 14-3-3 acts as an adaptor, leading to changes in enzymatic activity or subcellular localization .These characteristics make the 14-3-3 family an interesting target for cancer therapeutics"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3392204/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "phosphoserine mimetics",
+    "Mimic of which Protein/Carbohydrate": "14-3-3 binding motifs",
+    "Name of the Mimetic": "WD40",
+    "Functions": "14-3-3 Protein Inhibitory Activity",
+    "Activity": "targets including the tumor suppressor p53, Raf family kinases, FOXO transcription factors, the proapoptotic protein BAD, and Cdc25 phosphatases through these recognition sequences. Upon binding, 14-3-3 acts as an adaptor, leading to changes in enzymatic activity or subcellular localization .These characteristics make the 14-3-3 family an interesting target for cancer therapeutics"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3392204/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "phosphoserine mimetics",
+    "Mimic of which Protein/Carbohydrate": "14-3-3 binding motifs",
+    "Name of the Mimetic": "LRR domains of F-box protein",
+    "Functions": "14-3-3 Protein Inhibitory Activity",
+    "Activity": "targets including the tumor suppressor p53, Raf family kinases, FOXO transcription factors, the proapoptotic protein BAD, and Cdc25 phosphatases through these recognition sequences. Upon binding, 14-3-3 acts as an adaptor, leading to changes in enzymatic activity or subcellular localization .These characteristics make the 14-3-3 family an interesting target for cancer therapeutics"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.3389/fimmu.2014.00308",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "natural peptides derived from proteins, such as those from the Mucin 1 cell surface receptor (MUC1), which are considered mimics of carbohydrate antigens like the Gal-epitope",
+    "Mimic of which Protein/Carbohydrate": "Gal-epitope",
+    "Name of the Mimetic": "carbohydrate-mimetic peptides (CMPs)",
+    "Functions": "inducing immune responses to glycan antigens expressed on cancer cells and pathogens, mediating cognate B and T-cell interactions, and potentially functioning as probes to understand the structural basis for the dual recognition properties of antibodies, lectins, and T cells",
+    "Activity": "inducing immune responses that can inhibit tumor growth in vivo, generating antibodies capable of neutralizing pathogens such as HIV-1, and mediating cytotoxic activity against tumor cells."
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://link.springer.com/chapter/10.1007/7355_2014_50",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "swainsonine",
+    "Functions": "Modulates the action of enzymes involved in carbohydrate synthesis and metabolism, specifically as an inhibitor of α-mannosidase.",
+    "Activity": "1. Potential anti-cancer agent: Inhibits tumor cell growth, reduces metastasis, and enhances cellular immune responses"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.4161/hv.34300",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate Mimetic Peptide (CMP)",
+    "Mimic of which Protein/Carbohydrate": "Lewis Y (LeY) carbohydrate antigens",
+    "Name of the Mimetic": "P10s",
+    "Functions": "Induces anti-tumor antibody response and is hypothesized to interfere with cellular pathways involved in tumor cell survival.",
+    "Activity": "The P10s vaccine resulted in responses to P10s, with serum and plasma antibodies that were reactive with and cytotoxic to human breast cancer cells in vitro, including a Trastuzumab-resistant cell line. It also suggested sensitization of tumor cells for more efficient killing upon administration of chemotherapy (docetaxel)"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/17425247.2014.902048",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycopolymers",
+    "Mimic of which Protein/Carbohydrate": "Naturally occurring polysaccharides (e.g., glycosaminoglycans, chondroitin sulfate)",
+    "Name of the Mimetic": "Glycopolymers",
+    "Functions": "Anticoagulant, anti-inflammatory, anti-tumor properties",
+    "Activity": "Potential applications in treating cardiovascular diseases, inflammatory conditions, and cancer by mimicking biological activities of natural polysaccharides. May also be used as drug delivery systems and protein stabilizers in pharmaceutical formulations."
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/cr400698c",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptidomimetic",
+    "Mimic of which Protein/Carbohydrate": "MLL1",
+    "Name of the Mimetic": "MM-101",
+    "Functions": "treatment of certain forms of leukemia",
+    "Activity": "Potential treatment for certain leukemias by binding to WD40 propeller of MLL1"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/cr400698c",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptidomimetic",
+    "Mimic of which Protein/Carbohydrate": "MLL1",
+    "Name of the Mimetic": "MM-102",
+    "Functions": "treatment of certain forms of leukemia",
+    "Activity": "inhibits cell growth and induces apoptosis in leukemia cells bearing MLL1 fusion proteins"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1073/pnas.1402393111",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "a helix mimetic",
+    "Mimic of which Protein/Carbohydrate": "HIF1α",
+    "Name of the Mimetic": "Oxopiperazine helix mimetics (OHMs)",
+    "Functions": "modulate the target interaction in cell culture and suppress hypoxia-inducible gene expression",
+    "Activity": "Potential anti-cancer activity by suppressing hypoxia-inducible gene expression"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1039/C3BM60293A",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "VEGF mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "VEGF",
+    "Name of the Mimetic": "QK peptide",
+    "Functions": "retains its bioactivity when tethered and effectively promotes endothelial cell attachment and proliferation",
+    "Activity": "It enhances the growth of human umbilical vein endothelial cells (HUVECs) when used in soluble form or when conjugated to ELP gels, maintaining a constant concentration for prolonged signaling, potentially promoting angiogenesis in ischemic or wound healing conditions"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1158/1541-7786.MCR-13-0611",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptidomimetic",
+    "Mimic of which Protein/Carbohydrate": "α-helix",
+    "Name of the Mimetic": "D2",
+    "Functions": "inhibits androgen-induced multiplication of prostate cancer cells",
+    "Activity": "Inhibits prostate cancer cell growth by blocking AR nuclear translocation"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1158/1541-7786.MCR-13-0611",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptidomimetic",
+    "Mimic of which Protein/Carbohydrate": "α-helix",
+    "Name of the Mimetic": "anthracene scaffold",
+    "Functions": "induce cell apoptosis",
+    "Activity": "Induces cancer cell apoptosis by inhibiting Bcl-2 family interactions"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/ejoc.201403186",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "C-Glycosides",
+    "Mimic of which Protein/Carbohydrate": "D-talose",
+    "Name of the Mimetic": "Aryl C-glycosides",
+    "Functions": "Enhanced stability against enzymatic degradation\nImproved oral bioavailability",
+    "Activity": "Potential anticancer, antioxidant, antiviral, and hypoglycemic effects; May act as enzyme inhibitors for various diseases"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/ejoc.201403186",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "C-Glycosides",
+    "Mimic of which Protein/Carbohydrate": "D-talose.",
+    "Name of the Mimetic": "Bicyclic 1,2-oxazines",
+    "Functions": "Enhanced stability against enzymatic degradation\nImproved oral bioavailability",
+    "Activity": "Potential anticancer, antioxidant, antiviral, and hypoglycemic effects; May act as enzyme inhibitors for various diseases"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1016/j.copbio.2014.11.016",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Synthetic Receptor",
+    "Mimic of which Protein/Carbohydrate": "Beta-mannosides",
+    "Name of the Mimetic": "Pyrrolic Tripodal Receptor",
+    "Functions": "Specifically recognizes beta-mannosides.",
+    "Activity": "Potential for targeted drug delivery, biosensing, and diagnostic applications related to mannoside-mediated processes. May be used to target cancer cells that overexpress mannose receptors or to modulate immune responses."
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1021/acs.orglett.5b02223",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "S-linked hexasaccharide",
+    "Mimic of which Protein/Carbohydrate": "Hexasaccharide subunit of landomycin A",
+    "Name of the Mimetic": "S-linked hexasaccharide of landomycin A",
+    "Functions": "Designed to be resistant to acid-mediated or enzymatic hydrolysis",
+    "Activity": "The mimetic is associated with antitumor activity against cancer cell lines, as landomycin A possesses a broad spectrum of antitumor activity"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/chem.201500831",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycomimetic drug",
+    "Mimic of which Protein/Carbohydrate": "Sialyl Lewis x (sLe^x)",
+    "Name of the Mimetic": "GMI-1271",
+    "Functions": "Specific E-selectin inhibitor",
+    "Activity": "Evaluated in clinical trials in combination with chemotherapy for treating acute myeloid leukemia"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/chem.201500831",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycan-based therapeutic",
+    "Mimic of which Protein/Carbohydrate": "Various carbohydrate structures (often mimicking natural glycan epitopes)",
+    "Name of the Mimetic": "Multivalent Glycoconjugates",
+    "Functions": "Designed to enhance affinity for protein targets by mimicking the multivalent nature of interactions between lectins and their natural carbohydrate ligands",
+    "Activity": "Developed to improve the overall affinity of glycan therapeutics, with examples including glycodendrimers and glycoclusters."
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/chem.201500831",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycolipid mimic",
+    "Mimic of which Protein/Carbohydrate": "a-GalCer",
+    "Name of the Mimetic": "Synthetic C-glycoside analogues of a-GalCer glycolipid",
+    "Functions": "Stimulates human NKT cells",
+    "Activity": "activity in malaria and melanoma models"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1021/jm501440q",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "inhibitor",
+    "Mimic of which Protein/Carbohydrate": "BH3 protein",
+    "Name of the Mimetic": "JY-1-106",
+    "Functions": "indues apoptosis",
+    "Activity": "Potential anti-cancer activity by inducing apoptosis through disruption of Bcl-xL and Mcl-1 interactions with Bak"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1038/cdd.2015.50",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "inhibitor",
+    "Mimic of which Protein/Carbohydrate": "BH3 protein",
+    "Name of the Mimetic": "ABT-199/venetoclax",
+    "Functions": "treatment of CLL",
+    "Activity": "Treatment of chronic lymphocytic leukemia (CLL) by selectively inhibiting BCL-2"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-natural sugar",
+    "Mimic of which Protein/Carbohydrate": "N-acetylglucosamine",
+    "Name of the Mimetic": "GlcNAz (N-acetylglucosamine azide)",
+    "Functions": "Metabolically incorporated into cells for labeling and detection.",
+    "Activity": "Used in glycobiology research to study glycosylation processes in cancer and immune responses"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-natural sugar",
+    "Mimic of which Protein/Carbohydrate": "N-acetylmannosamine",
+    "Name of the Mimetic": "ManNAz (N-acetylmannosamine azide)",
+    "Functions": "Metabolically incorporated into cells.",
+    "Activity": "Used in glycobiology research to study glycosylation processes in cancer and immune responses"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-natural sugar",
+    "Mimic of which Protein/Carbohydrate": "N-acetylgalactosamine",
+    "Name of the Mimetic": "GalNAz (N-acetylgalactosamine azide)",
+    "Functions": "Metabolically incorporated into cells.",
+    "Activity": "Facilitates the labeling of glycoproteins and tracking of glycosylation"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-natural sugar",
+    "Mimic of which Protein/Carbohydrate": "N-acetylmannosamine",
+    "Name of the Mimetic": "ManNAl (N-acetylmannosamine alkyne)",
+    "Functions": "Used for metabolic incorporation and subsequent 'click' reactions.",
+    "Activity": "Allows for the study of cell surface glycans and their role in diseases"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-natural sugar",
+    "Mimic of which Protein/Carbohydrate": "N-acetylmannosamine",
+    "Name of the Mimetic": "ManNCyoc (N-acetylmannosamine cyano)",
+    "Functions": "Metabolically incorporated into cells.",
+    "Activity": "Used in studies of glycosylation and cellular interactions, impacting diseases processes"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-natural sugar",
+    "Mimic of which Protein/Carbohydrate": "N-acetylmannosamine",
+    "Name of the Mimetic": "ManNMCp (N-acetylmannosamine methylcyclopropene)",
+    "Functions": "Metabolically incorporated into cells.",
+    "Activity": "Facilitates the study of glycosylation patterns"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-natural sugar",
+    "Mimic of which Protein/Carbohydrate": "N-acetylmannosamine",
+    "Name of the Mimetic": "ManNCp (N-acetylmannosamine cyclopropene)",
+    "Functions": "Used for metabolic incorporation.",
+    "Activity": "Allows for the tracking of modified glycans in the context of cancer and other diseases"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-natural sugar",
+    "Mimic of which Protein/Carbohydrate": "Sialic acid",
+    "Name of the Mimetic": "BCNSia (a specific sialic acid mimic)",
+    "Functions": "Used in studies of glycosylation.",
+    "Activity": "Helps in understanding the role of sialylation in cellular processes related to cancer and immune responses"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Nucleotide sugar",
+    "Mimic of which Protein/Carbohydrate": "Xylose",
+    "Name of the Mimetic": "UDP-4-XylAz (uridine diphosphate 4-xylose azide)",
+    "Functions": "Used for metabolic incorporation into glycan structures.",
+    "Activity": "Facilitates the study of glycan biosynthesis"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2016.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-natural sugar",
+    "Mimic of which Protein/Carbohydrate": "Glucosamine",
+    "Name of the Mimetic": "GlcN-n-Iso",
+    "Functions": "Used for metabolic incorporation into cellular processes.",
+    "Activity": "it can be utilized in studies related to glycosylation and may serve as a tool for investigating glycan interactions and modifications in biological systems, particularly within cancer cells."
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fbioe.2015.00211",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Stimuli-responsive peptide",
+    "Mimic of which Protein/Carbohydrate": "β-hairpin",
+    "Name of the Mimetic": "Max3",
+    "Functions": "potential cancer drug, antimicrobials and wound healing",
+    "Activity": "folding triggered by UV light , changes in pH, electronegative cancer cell membranes"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/27267699/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "small molecule ligand",
+    "Mimic of which Protein/Carbohydrate": "Nutlins",
+    "Name of the Mimetic": "Mdm2",
+    "Functions": "targets protein-protein interactions",
+    "Activity": "Potential cancer treatment by inhibiting p53-Mdm2 interaction"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "http://dx.doi.org/10.1016/j.cell.2016.03.045",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "styryl- benzyl sulfone",
+    "Mimic of which Protein/Carbohydrate": "RAS-mimetic",
+    "Name of the Mimetic": "rigosertib",
+    "Functions": "disrupts RAF activation, and inhibits the RAS-RAF-MEK pathway",
+    "Activity": "Potential cancer treatment by disrupting RAF activation and inhibiting RAS-RAF-MEK pathway"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/27915971/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "bivalent mimetic",
+    "Mimic of which Protein/Carbohydrate": "SMAC mimetic",
+    "Name of the Mimetic": "TL32711 (birinapant)",
+    "Functions": "Promotes apoptosis",
+    "Activity": "suppresses cIAP1 and increases apoptosis in peripheral blood mononuclear cells and tumor tissue in some patients."
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/27915971/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "monovalent mimetic",
+    "Mimic of which Protein/Carbohydrate": "SMAC mimetic",
+    "Name of the Mimetic": "LCL161",
+    "Functions": "treatment of solid tumours",
+    "Activity": "Potential treatment for solid tumors by inducing cIAP1 degradation and caspase-3 cleavage"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/27915971/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "monovalent mimetic",
+    "Mimic of which Protein/Carbohydrate": "SMAC mimetic",
+    "Name of the Mimetic": "DEBIO1143/AT-406",
+    "Functions": "treatment of solid tumours",
+    "Activity": "Potential treatment for solid tumors by degrading cIAP1 and increasing cytokine levels"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/27194727/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "inhibitor",
+    "Mimic of which Protein/Carbohydrate": "smac mimetic",
+    "Name of the Mimetic": "birinapant",
+    "Functions": "induces necroptosis and treat acute myeloid leukemia",
+    "Activity": "Caspase inhibitors might sensitize cells to SMAC mimetics by inhibiting caspase-8 and promoting necroptotic cell death"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1002/chem.201703129",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "five-membered heterocycles containing one double bond, \none oxygen and one phosphorus atom",
+    "Mimic of which Protein/Carbohydrate": "Furanose carbohydrate",
+    "Name of the Mimetic": "Oxaphospholenes \n3-4",
+    "Functions": "serve as precursors for furanose carbohydrate mimics",
+    "Activity": "Potential applications in developing anti-cancer and anti-diabetic drugs by mimicking furanose-based enzyme substrates or inhibitors"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1039/C7OB00386B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycolipid mimetics",
+    "Mimic of which Protein/Carbohydrate": "Monosaccharides",
+    "Name of the Mimetic": "Penaresidins",
+    "Functions": "Actomyosin ATPase activator, potential biomarker",
+    "Activity": "Cytotoxicity against cancer cell lines, potential biomarker for cervical cancer, antimicrobial activity against Mycobacterium tuberculosis"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1039/C7OB00386B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycolipid mimetics",
+    "Mimic of which Protein/Carbohydrate": "Monosaccharides",
+    "Name of the Mimetic": "Penazetidine A",
+    "Functions": "Protein kinase C inhibitor",
+    "Activity": "Cytotoxicity against human and murine cell lines (A549, HT-29, B16/F10, P388), potential anticancer activity"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1039/C7OB00386B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Cyclobutane derivatives",
+    "Mimic of which Protein/Carbohydrate": "Monosaccharides",
+    "Name of the Mimetic": "Highly-functionalized cyclobutanes",
+    "Functions": "Explored for their potential in medicinal chemistry.",
+    "Activity": "May improve drug properties such as metabolic stability and conformational restriction, with potential applications in various diseases including cancer, viral infections, and neurodegenerative disorders"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1016/j.carres.2017.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbasugars",
+    "Mimic of which Protein/Carbohydrate": "Various sugars",
+    "Name of the Mimetic": "Carbasugars",
+    "Functions": "Enhanced biostability and inhibition of specific enzymes (e.g., Ser/Thr protein kinase, SGLT2, heparanase)",
+    "Activity": "Potential treatments for cancer, diabetes, and inflammatory diseases due to their increased chemical stability and specific enzyme inhibition"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1021/acs.orglett.7b00945",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Cyclitol analogue",
+    "Mimic of which Protein/Carbohydrate": "Rhamnose",
+    "Name of the Mimetic": "2a (n-Pr cyclitol diacetate)",
+    "Functions": "Designed to improve bioavailability and inhibit RSK1/2 activity.",
+    "Activity": "Potential anticancer agent due to improved RSK inhibition, which may suppress tumor growth and metastasis"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1021/acs.orglett.7b00945",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Cyclitol analogue",
+    "Mimic of which Protein/Carbohydrate": "Rhamnose",
+    "Name of the Mimetic": "2b (C-3/C-4 bis-carbamate)",
+    "Functions": "Aimed at enhancing stability and RSK inhibition.",
+    "Activity": "Promising anticancer activity through RSK inhibition, potentially effective in treating various types of cancer"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1021/acs.orglett.7b00945",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbasugar analogue",
+    "Mimic of which Protein/Carbohydrate": "Sugars in general, particularly rhamnose derivatives.",
+    "Name of the Mimetic": "5a-carbasugar analogues",
+    "Functions": "To explore structure-activity relationships and improve RSK1/2 inhibition.",
+    "Activity": "Part of ongoing research to develop more effective anticancer treatments targeting RSK-mediated pathways"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1021/acs.orglett.7b00945",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Structural modification",
+    "Mimic of which Protein/Carbohydrate": "Rhamnose (specifically the C-3 and C-4 positions)",
+    "Name of the Mimetic": "C-3/C-4-n-Pr-carbamates",
+    "Functions": "To enhance the stability and efficacy of the analogues.",
+    "Activity": "Potential improvement in anticancer activity through more stable and effective RSK inhibition"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "http://dx.doi.org/10.1016/j.sbi.2016.12.009",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "PPI inhibitor",
+    "Mimic of which Protein/Carbohydrate": "Arg-Gly-Asp acid (RGD)",
+    "Name of the Mimetic": "Cilengitide (Merck-Ser-ono), c(RGDf(NMe)V)",
+    "Functions": "Acts as an inhibitor between the integrins",
+    "Activity": "Potential anti-cancer agent by inhibiting integrin interactions"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/ph10040078",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "heparin mimetic",
+    "Mimic of which Protein/Carbohydrate": "Heparin",
+    "Name of the Mimetic": "PG454",
+    "Functions": "inhibits heparanase with low anti-coagulant properties",
+    "Activity": "Potential anti-cancer agent by inhibiting heparanase"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/ph10040078",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "heparin mimetic",
+    "Mimic of which Protein/Carbohydrate": "Heparin",
+    "Name of the Mimetic": "M402",
+    "Functions": "inhibits epithelial-to-mesenchymal transition, a key step in the progression of tumor cells towards a more invasive phenotype",
+    "Activity": "reduces anticoagulant activity and inhibition of tumor metastasis through the modulation of factors, such as P-selectin, VEGF, and FGFs"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1007/978-1-4939-6857-2_1",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "affibodies",
+    "Mimic of which Protein/Carbohydrate": "antibody",
+    "Name of the Mimetic": "Z05416",
+    "Functions": "inhibits heregulin (HRG)-induced cancer cell growth",
+    "Activity": "Potential anti-cancer agents by inhibiting HER3-HRG interaction"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1007/978-1-4939-6857-2_1",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "affibodies",
+    "Mimic of which Protein/Carbohydrate": "antibody",
+    "Name of the Mimetic": "Z05417",
+    "Functions": "inhibits heregulin (HRG)-induced cancer cell growth",
+    "Activity": "Potential anti-cancer agents by inhibiting HER3-HRG interaction"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1007/978-1-4939-6857-2_1",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "anticalins",
+    "Mimic of which Protein/Carbohydrate": "NGAL",
+    "Name of the Mimetic": "lipocalin",
+    "Functions": "immunotherapy of cancer and infectious diseases",
+    "Activity": "Potential immunotherapy for cancer and infectious diseases"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1007/978-1-4939-6857-2_1",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Adnectins",
+    "Mimic of which Protein/Carbohydrate": "antibody",
+    "Name of the Mimetic": "Ct-322",
+    "Functions": "promotes antitumor activities",
+    "Activity": "Potential anti-cancer agent by inhibiting VEGFR-2"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1007/978-1-4939-6857-2_1",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Fc small antibody",
+    "Mimic of which Protein/Carbohydrate": "antibody",
+    "Name of the Mimetic": "HMTI-Fc",
+    "Functions": "recruits the immune cells in antibody-dependent cell-mediated cytotoxicity (ADCC)",
+    "Activity": "inhibits the binding of trastuzumab with HER2-overexpressing SK-BR3 cells, thus shows its potential to treat cancer"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1007/978-1-4939-6857-2_1",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "affibody",
+    "Mimic of which Protein/Carbohydrate": "antibody",
+    "Name of the Mimetic": "99mTc- (mercaptoacetyl-Glu-Glu-Glu) maEEE-ZHER2:342",
+    "Functions": "better tracer for clinical imaging of HER2 overexpression in tumors and metastases",
+    "Activity": "Potential improved diagnosis of HER2-positive tumors and metastases"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1016/bs.ircmb.2016.09.004",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac/DIABLO",
+    "Name of the Mimetic": "BV6",
+    "Functions": "Therapeutically Targets IAP Proteins in Cancer",
+    "Activity": "mediates cell death depended on a TNFα/TNFR1-stimulated signaling and IRF1 in AML cells, since pharmacological or genetic inhibition of TNFα, TNFR1, or IRF1 rescued cell death upon treatment with Smac mimetic,Potential cancer treatment by targeting IAP proteins"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1016/bs.ircmb.2016.09.004",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac/DIABLO",
+    "Name of the Mimetic": "IFNα",
+    "Functions": "Therapeutically Targets IAP Proteins in Cancer",
+    "Activity": "sensitizes cells, including CD34-positive AML stem– progenitor cells, to demethylating drugs such as 5-azacitadine or 5-Aza-2-deoxycytidine (5-Aza),Potential treatment for AML by sensitizing cells to demethylating drugs"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1021/acsbiomaterials.7b00600",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "secondary structure",
+    "Mimic of which Protein/Carbohydrate": "MCP-1 peptide",
+    "Name of the Mimetic": "MCP-1 PAMs",
+    "Functions": "presence of prostate cancer cells,displayed anticancer efficacy by reducing CCR2 expression.",
+    "Activity": "displayed improved binding and chemoattractant properties to monocytes, which upregulated the inflammatory signaling pathways responsible for monocyte migration , Potential anti-cancer agent for prostate cancer"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1002/ejoc.201701601",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycosidase Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "Retaining β-glucopyranosides",
+    "Name of the Mimetic": "Cyclophellitol Aziridine (2)",
+    "Functions": "Acts as an irreversible covalent inhibitor of retaining β-glucosidases.",
+    "Activity": "Inhibits enzyme by forming a covalent bond with the active site, rendering it inactive."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1002/ejoc.201701601",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycosidase Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "α- and β-galactopyranose configured analogues",
+    "Name of the Mimetic": "Carba-Cyclophellitol Derivatives",
+    "Functions": "Competitive inhibitors of retaining β-galactosidases.",
+    "Activity": "Bind to the enzyme's active site, competitively inhibiting substrate binding and enzymatic activity."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1016/j.aca.2018.08.025",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Monosaccharide (Galactose)",
+    "Mimic of which Protein/Carbohydrate": "Galactose",
+    "Name of the Mimetic": "Carbohydrate-mimetic peptide (YYYYC)",
+    "Functions": "Mimics galactose residues to bind galactose-recognizing proteins such as SBA, facilitating detection of target proteins and cells with galactose-terminal carbohydrate chains.",
+    "Activity": "Acts as an electron-transfer sensor in electrochemical assays; interacts specifically with galactose-binding proteins and receptors on cells, enabling label-free detection of cancer cells and proteins related to galactose-binding."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1016/j.aca.2018.08.026",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Monosaccharides (Galactose, N-acetylgalactosamine)",
+    "Mimic of which Protein/Carbohydrate": "N-acetylgalactosamine and galactose",
+    "Name of the Mimetic": "Peptides with YXY sequences (general class)",
+    "Functions": "Serve as carbohydrate-mimetic units capable of binding to carbohydrate-binding proteins (lectins and galectins), enabling the recognition of specific glycan structures on cell surfaces or glycoproteins, especially those altered in cancer.",
+    "Activity": "Function as probes in electrochemical sensing systems; facilitate interactions with target proteins and cells that display specific carbohydrate epitopes, aiding in disease diagnostics like cancer cell detection"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1016/j.aca.2017.11.048",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Monosaccharide (specifically, a hexose).",
+    "Mimic of which Protein/Carbohydrate": "Methyl α-D-mannopyranoside",
+    "Name of the Mimetic": "DVFYPYPYASGS",
+    "Functions": "Interacts with ConA, mimicking the binding of carbohydrate",
+    "Activity": "Binding constant reported to be 2.2 × 10⁴ L/mol; suppresses ConA-induced T-cell proliferation"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1016/j.aca.2017.11.049",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "tumor-associated glycoproteins or glycolipids",
+    "Mimic of which Protein/Carbohydrate": "Not explicitly mentioned",
+    "Name of the Mimetic": "IFLLWQR",
+    "Functions": "Targets properties of annexin for tumor targeting",
+    "Activity": "Demonstrates specific tumor-targeting activity and serves as a vehicle for anti-cancer drugs"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1016/j.aca.2017.11.050",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "galactose",
+    "Mimic of which Protein/Carbohydrate": "Not explicitly mentioned",
+    "Name of the Mimetic": "YYYY-C and YYYYY-C",
+    "Functions": "Functions as an electron-transfer agent and interacts with carbohydrate-binding proteins",
+    "Activity": "Demonstrates electroactivity in the context of molecular recognition"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1038/s41467-017-02693-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "mimetic inhibitor.",
+    "Mimic of which Protein/Carbohydrate": "BCL-2",
+    "Name of the Mimetic": "ABT-199 (Venetoclax)",
+    "Functions": "Inhibits the anti-apoptotic function of BCL-2, promoting apoptosis in cancer cells.",
+    "Activity": "Selectively binds to BCL-2, preventing it from sequestering pro-apoptotic proteins."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1038/s41467-017-02693-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "mimetic inhibitor.",
+    "Mimic of which Protein/Carbohydrate": "BCL-2 and BCL-XL",
+    "Name of the Mimetic": "ABT-263 (Navitoclax)",
+    "Functions": "Induces apoptosis by inhibiting BCL-2 and BCL-XL, which are crucial for cell survival.",
+    "Activity": "Disrupts the interaction between pro-apoptotic and anti-apoptotic BCL-2 family proteins."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1038/s41467-017-02693-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "inhibitor.",
+    "Mimic of which Protein/Carbohydrate": "MCL1",
+    "Name of the Mimetic": "S63845",
+    "Functions": "Specifically targets and inhibits MCL1, leading to apoptosis in MCL1-dependent cancer cells.",
+    "Activity": "Blocks the anti-apoptotic function of MCL1, enhancing the effectiveness of other therapies."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1038/s41467-017-02693-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Deubiquitinase inhibitor.",
+    "Mimic of which Protein/Carbohydrate": "USP13 (indirectly)",
+    "Name of the Mimetic": "Spautin-1",
+    "Functions": "Inhibits USP13, leading to decreased MCL1 stability and increased sensitivity to BH3 mimetics.",
+    "Activity": "Promotes degradation of MCL1 through the proteasomal pathway."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1186/s12868-018-0482-4",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Pharmacological agent",
+    "Mimic of which Protein/Carbohydrate": "mTOR inhibition",
+    "Name of the Mimetic": "Rapamycin",
+    "Functions": "Rapamycin is a well-known inhibitor of the mammalian target of rapamycin (mTOR), which regulates cell growth, metabolism, and survival.",
+    "Activity": "It increases cell viability during CoCl2 exposure, reduces activation of caspases-9 and -3, and promotes autophagy by increasing Beclin-1 and converting LC3-I to LC3-II."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1186/s12868-018-0482-4",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Anti-apoptotic protein",
+    "Name of the Mimetic": "Bcl-2 (B cell lymphoma-2)",
+    "Functions": "Bcl-2 helps prevent apoptosis by inhibiting the release of cytochrome c from mitochondria, thus blocking the intrinsic apoptotic pathway.",
+    "Activity": "Its expression increases with rapamycin treatment, contributing to reduced oxidative stress and promoting cell survival."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1186/s12868-018-0482-4",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Pro-apoptotic protein",
+    "Name of the Mimetic": "Bax (Bcl-2 associated X protein)",
+    "Functions": "Bax promotes apoptosis by facilitating mitochondrial outer membrane permeability (MOMP) and triggering the release of pro-apoptotic factors.",
+    "Activity": "The expression of Bax decreases with rapamycin treatment, which helps to favor cell survival by lowering the Bax/Bcl-2 ratio."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1080/21691401.2018.1489824",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "NK-EM",
+    "Name of the Mimetic": "Perforin",
+    "Functions": "Perforin is crucial for the cytotoxic activity of NK cells. It forms pores in the target cell membrane, facilitating the entry of granzymes.",
+    "Activity": "Triggers the intrinsic apoptotic pathway by releasing cytochrome-c from mitochondria, leading to cell death."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1080/21691401.2018.1489824",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "NK-EM",
+    "Name of the Mimetic": "Granzyme B",
+    "Functions": "Granzyme B is a serine protease that enters target cells through the pores created by perforin and initiates apoptosis.",
+    "Activity": "Activates caspases, which are essential for the apoptotic process, leading to cell death."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1080/21691401.2018.1489824",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "NK-EM",
+    "Name of the Mimetic": "Fas Ligand (FasL)",
+    "Functions": "FasL binds to the Fas receptor on target cells, triggering the extrinsic apoptotic pathway.",
+    "Activity": "Activates caspase-8 and caspase-3, leading to apoptosis of the target cell."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1080/21691401.2018.1489824",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Cleaved caspase-3 in NK-EM",
+    "Name of the Mimetic": "Caspase-3",
+    "Functions": "Caspase-3 is an executioner caspase that plays a pivotal role in the apoptosis process.",
+    "Activity": "Cleaved caspase-3 indicates the activation of the apoptotic pathway, leading to cell death"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1080/21691401.2018.1489824",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Cleaved PARP in NK-EM",
+    "Name of the Mimetic": "Cleaved PARP (Poly (ADP-ribose) polymerase)",
+    "Functions": "PARP is involved in DNA repair; its cleavage is a marker of apoptosis.",
+    "Activity": "The presence of cleaved PARP indicates that the cell is undergoing apoptosis."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1101/312447",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Active N-terminal tetrapeptide of SMAC",
+    "Name of the Mimetic": "AZD5582",
+    "Functions": ", it promotes apoptosis by inhibiting IAPs.",
+    "Activity": ": AZD5582 has been shown to potently induce degradation of cIAP1 and cIAP2, leading to activation of the ncNFκB pathway and increased expression of HIV RNA in resting CD4+ T cells."
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.3389/fphar.2018.01298",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "SMAC (Second Mitochondria-derived Activator of Caspases)",
+    "Name of the Mimetic": "APG-1387",
+    "Functions": "APG-1387 acts as an inhibitor of apoptosis proteins (IAPs) by mimicking the binding interaction between IAPs and SMAC. This leads to the activation of caspases, which are crucial for the apoptotic process.",
+    "Activity": "Induces apoptosis in hepatocellular carcinoma (HCC) cells, particularly when combined with cytokines like TNF-α or TRAIL."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://www.tandfonline.com/doi/full/10.2147/IJN.S213455#d1e223",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "peptides",
+    "Mimic of which Protein/Carbohydrate": "Annexin A1",
+    "Name of the Mimetic": "motif IF-7 (IF-7-MNC)",
+    "Functions": "To deliver the chemotherapeutics through the nanoparticles, the delivery system should accumulate at the tumor site first and then penetrate through the interstitium into the interior",
+    "Activity": "enhancing tumor targeting and promoting the penetration of the drug delivery system into tumor tissues"
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.3390/ijms20235835",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "affinity proteins ;targeting receptors",
+    "Mimic of which Protein/Carbohydrate": "staphylococcal protein A.",
+    "Name of the Mimetic": "Affibody molecules",
+    "Functions": "designed to target the HER2 receptor in breast cancer cells.",
+    "Activity": "have rapid clearance, high tissue penetration, and the ability to bind to a unique epitope of the HER2 receptor"
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1073/pnas.1819663116",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "B Cell Lymphoma 9 (BCL9)",
+    "Name of the Mimetic": "BCL9 peptide 1",
+    "Functions": "disrupt the β-catenin/BCL9 PPI but is less potent compared to the sulfono-γ-AApeptides, with higher K_i and IC_50 values",
+    "Activity": "designed to structurally and functionally mimic the α-helical HD2 domain of BCL9, effectively inhibiting cancer-related signaling pathways associated with β-catenin"
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BCL-2/BCL-XL inhibitor",
+    "Mimic of which Protein/Carbohydrate": "BCL-2 and BCL-XL",
+    "Name of the Mimetic": "ABT-737",
+    "Functions": "Inhibits anti-apoptotic proteins to promote apoptosis.",
+    "Activity": "Validated as a true BH3 mimetic with effective mitochondrial activity."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BCL-2/BCL-XL inhibitor",
+    "Mimic of which Protein/Carbohydrate": "BCL-2 and BCL-XL",
+    "Name of the Mimetic": "ABT-263 (Navitoclax)",
+    "Functions": "Induces apoptosis by inhibiting anti-apoptotic proteins.",
+    "Activity": "Induces apoptosis by inhibiting anti-apoptotic proteins."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BCL-2/BCL-XL inhibitor",
+    "Mimic of which Protein/Carbohydrate": "BCL-2 and BCL-XL",
+    "Name of the Mimetic": "AZD4320",
+    "Functions": "Antagonizes the function of anti-apoptotic proteins.",
+    "Activity": "Validated as a true BH3 mimetic with effective mitochondrial activity."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BCL-2 inhibitor",
+    "Mimic of which Protein/Carbohydrate": "BCL-2",
+    "Name of the Mimetic": "ABT-199 (Venetoclax)",
+    "Functions": "Selectively inhibits BCL-2 to promote apoptosis in BCL-2-dependent cells.",
+    "Activity": "Effective in low to mid-nanomolar range, validated as a BH3 mimetic."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BCL-XL inhibitor",
+    "Mimic of which Protein/Carbohydrate": "BCL-XL",
+    "Name of the Mimetic": "WEHI-539",
+    "Functions": "Selectively inhibits BCL-XL to induce apoptosis.",
+    "Activity": "Strong selective release of cytochrome c from BCL-XL-dependent mitochondria."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BCL-XL inhibitor",
+    "Mimic of which Protein/Carbohydrate": "BCL-XL",
+    "Name of the Mimetic": "A-1155463",
+    "Functions": "Inhibits BCL-XL to promote apoptosis.",
+    "Activity": "Demonstrated strong selective activity in BCL-XL-dependent cells."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "BCL-XL inhibitor",
+    "Mimic of which Protein/Carbohydrate": "BCL-XL",
+    "Name of the Mimetic": "A-1331852",
+    "Functions": "Antagonizes BCL-XL to induce cell death.",
+    "Activity": "Most potent BCL-XL inhibitor among tested compounds."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "MCL-1 inhibitor",
+    "Mimic of which Protein/Carbohydrate": "MCL-1",
+    "Name of the Mimetic": "A-1210477",
+    "Functions": "Most potent BCL-XL inhibitor among tested compounds.",
+    "Activity": "Induces cytochrome c release from MCL-1-dependent mitochondria."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "MCL-1 inhibitor",
+    "Mimic of which Protein/Carbohydrate": "MCL-1",
+    "Name of the Mimetic": "S63845",
+    "Functions": "Induces cytochrome c release from MCL-1-dependent mitochondria.",
+    "Activity": "Effective in inducing cytochrome c release from MCL-1-dependent cells."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "MCL-1 inhibitor",
+    "Mimic of which Protein/Carbohydrate": "MCL-1",
+    "Name of the Mimetic": "AMG176",
+    "Functions": "Selectively inhibits MCL-1 to induce apoptosis.",
+    "Activity": "Validated as a true BH3 mimetic with effective mitochondrial activity."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1038/s41418-019-0391-9",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "MCL-1 inhibitor",
+    "Mimic of which Protein/Carbohydrate": "MCL-1",
+    "Name of the Mimetic": "AZD5991",
+    "Functions": "Inhibits MCL-1 to promote apoptosis.",
+    "Activity": "Induces cytochrome c release from MCL-1-dependent mitochondria."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1016/j.cmet.2019.01.018",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Acetyltransferase inhibitor",
+    "Mimic of which Protein/Carbohydrate": "EP300 (E1A-Associated Protein p300)",
+    "Name of the Mimetic": "EP300 Inhibitors",
+    "Functions": "Inhibition of acetyltransferase activity.",
+    "Activity": "Promotes autophagy through deacetylation of proteins like PI3K3 and BECN1, enhancing their interaction with pro-autophagic complexes."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1016/j.cmet.2019.01.018",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Acetyltransferase inhibitor",
+    "Mimic of which Protein/Carbohydrate": "KATs (Lysine Acetyltransferases)",
+    "Name of the Mimetic": "KAT Inhibitors",
+    "Functions": "Inhibition of acetylation processes.",
+    "Activity": "Induces autophagy by reducing acetylation levels of key proteins."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1093/rb/rbz027",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Vascular Endothelial Growth Factor (VEGF)",
+    "Name of the Mimetic": "KLT (KLTWQELYQLKYKGI)",
+    "Functions": ": The KLT peptide is designed to activate VEGF receptors, promoting angiogenesis, which is the formation of new blood vessels.",
+    "Activity": "It has been shown to promote endothelial cell (EC) growth, migration, and tubulogenesis, which are critical processes in angiogenesis"
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1002/adfm.202402521",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Apoptotic Cells",
+    "Name of the Mimetic": "Phosphatidylserine-Incorporated Exosome Mimetics (PS-EMs)",
+    "Functions": "PS serves as an \"eat-me\" signal that is recognized by macrophages, facilitating phagocytosis of apoptotic cells. This mimetic aims to exploit the immunosuppressive properties of PS to enhance therapeutic effects in osteoporotic conditions.",
+    "Activity": "The PS-EMs are designed to enhance the affinity for osteoclast precursors, thereby promoting targeted delivery and potentially modulating bone resorption."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1186/s12885-019-6103-5",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "LCL161",
+    "Functions": "LCL161 acts as an inhibitor of IAP (Inhibitor of Apoptosis) proteins, particularly targeting XIAP (X-linked Inhibitor of Apoptosis Protein), cIAP1, and cIAP2.",
+    "Activity": "It promotes cell death by relieving the inhibition of caspases (caspase-3, -7, and -9) that are normally blocked by XIAP. This leads to the activation of the apoptotic pathway, facilitating the death of cancer cells, particularly in the context of osteosarcoma when combined with TNFα"
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1186/s12885-019-6103-5",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "GDC-0152",
+    "Functions": "Similar to LCL161, GDC-0152 inhibits IAP proteins, including XIAP, cIAP1, and cIAP2, thereby promoting apoptosis in cancer cells",
+    "Activity": "GDC-0152 has been shown to sensitize osteosarcoma cells to TNFα-induced cell death, particularly when TNFα is provided exogenously, as these cells do not produce it autocrinely"
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1016/j.celrep.2020.108286",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "BCL-2",
+    "Name of the Mimetic": "Obatoclax",
+    "Functions": "Acts as a BH3 mimetic to promote apoptosis in cancer cells.",
+    "Activity": "Acts as a BH3 mimetic to promote apoptosis in cancer cells."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1016/j.celrep.2020.108286",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "BMI1",
+    "Name of the Mimetic": "PTC028",
+    "Functions": "Inhibits BMI1, leading to decreased self-renewal and induction of senescence in tumor cells.",
+    "Activity": "It drives cancer cells into a senescent state, which can be beneficial in controlling tumor growth."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1021/acs.bioconjchem.9b00259",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Cell-adhesion peptide.",
+    "Mimic of which Protein/Carbohydrate": "Integrin proteins",
+    "Name of the Mimetic": "Integrin-binding Cyclic RGDfK Peptide",
+    "Functions": "Used to create multivalent presentations on DNA scaffolds, effectively inhibiting melanoma cells that overexpress integrins. The study found that a construct with 15 peptides maximized efficiency in binding, demonstrating the importance of spatial arrangement in enhancing activity.",
+    "Activity": "The integrin-binding cyclic RGDfK peptide specifically targets αvβ3 integrin with high affinity, inhibiting integrin-mediated signaling pathways critical for angiogenesis, tumor growth, and metastasis"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/cells9020406",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "GDC-0152",
+    "Functions": "Inhibits IAPs, promoting apoptosis in cancer cells.",
+    "Activity": "Demonstrated anti-cancer effects in preclinical studies."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/cells9020406",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "CUDC-427 (GDC-0917)",
+    "Functions": "Targets IAPs to enhance the efficacy of chemotherapy.",
+    "Activity": "Shown to sensitize cancer cells to treatment."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/cells9020406",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "Debio 1143 (AT-406)",
+    "Functions": "inhibits IAPs, facilitating apoptosis.",
+    "Activity": "Exhibited potential in various cancer types."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/cells9020406",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "LCL161",
+    "Functions": "Disrupts IAP function to promote cell death.",
+    "Activity": "Effective in preclinical cancer models."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/cells9020406",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "BI 891065 (BI5)",
+    "Functions": "Higher selectivity towards cIAP1 and cIAP2 compared to XIAP.",
+    "Activity": "Modest efficacy in bladder and breast cancer cell lines."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/cells9020406",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "Birinapant (TL32711)",
+    "Functions": "Binds to IAPs to promote apoptosis.",
+    "Activity": "Undergoing clinical trials for various cancers"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/cells9020406",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "APG-1387",
+    "Functions": "Inhibits IAPs to induce cancer cell death.",
+    "Activity": "Inhibits IAPs"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/cells9020406",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Smac",
+    "Name of the Mimetic": "HGS1029 (AEG40826)",
+    "Functions": "Targets IAPs to enhance apoptosis.",
+    "Activity": "Targets IAPs"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.2147/IJN.S253576",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Integrins",
+    "Name of the Mimetic": "RGD (Arg-Gly-Asp) Mimetic Peptide",
+    "Functions": "Promotes cell attachment and survival, particularly for dental pulp stem cells (DPSCs).",
+    "Activity": "Enhances the proliferation and differentiation of DPSCs by facilitating their adhesion to the extracellular matrix (ECM)."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.1038/s41467-021-23985-1",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Amyloid inhibitor",
+    "Mimic of which Protein/Carbohydrate": "mutant p53 protein in cancer cells.",
+    "Name of the Mimetic": "ADH-6",
+    "Functions": "targets and dissociates mutant p53 aggregates in human cancer cells.",
+    "Activity": "It restores p53's transcriptional activity, leading to cell cycle arrest and apoptosis"
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.1186/s13046-021-02157-5",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small molecule inhibitor.",
+    "Mimic of which Protein/Carbohydrate": "Bim, Bad, and Bid (pro-apoptotic BH3-only proteins)",
+    "Name of the Mimetic": "ABT-737",
+    "Functions": "Disrupts the interaction between pro-apoptotic and anti-apoptotic Bcl-2 proteins,",
+    "Activity": "promotes apoptosis in cancer cells."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.1186/s13046-021-02157-5",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small molecule inhibitor.",
+    "Mimic of which Protein/Carbohydrate": "Bim and Bad",
+    "Name of the Mimetic": "Navitoclax (ABT-263)",
+    "Functions": "Induces apoptosis by inhibiting Bcl-2, Bcl-xL, and Bcl-w",
+    "Activity": "activation of BAX and BAK."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.1186/s13046-021-02157-5",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Engineered peptide.",
+    "Mimic of which Protein/Carbohydrate": "Bcl-xL",
+    "Name of the Mimetic": "DT2216",
+    "Functions": "Designed to degrade Bcl-xL, reducing its off-target effects",
+    "Activity": "enhancing apoptosis in cancer cells."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.1186/s13046-021-02157-5",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "nanostructured peptide",
+    "Mimic of which Protein/Carbohydrate": "BIM (a pro-apoptotic BH3-only protein)",
+    "Name of the Mimetic": "BIM BH3-mimetic peptide amphiphile",
+    "Functions": "Facilitates the uptake of the mimetic",
+    "Activity": "trigger cell death in cancer cells like HeLa and MEF."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/molecules26102937",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Anticancer agents",
+    "Mimic of which Protein/Carbohydrate": "Heat Shock Protein 90 (Hsp90)",
+    "Name of the Mimetic": "Sansalvamide A (San A) Derivatives",
+    "Functions": "Inhibition of protein folding and stabilization.",
+    "Activity": "maintain cytotoxicity while incorporating triazoles, oxazoles, and thiazoles as amide bond surrogates."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/molecules26102937",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Tumor-associated αvβ3-integrin receptors",
+    "Name of the Mimetic": "GlycoRGD Peptide",
+    "Functions": "Selective binding to integrin receptors involved in cell adhesion and migration.",
+    "Activity": "The amide bond is replaced by a triazole without losing biological activity, enhancing stability and bioavailability."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/molecules26102937",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Antimetastatic agents",
+    "Mimic of which Protein/Carbohydrate": "Fascin",
+    "Name of the Mimetic": "Migrastatin Analogues",
+    "Functions": "Inhibition of cell motility.",
+    "Activity": "Triazole analogues of migrastatin showed significant effects in reducing migration capacity in MDA-MB-361 cell lines."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/app11010335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Monovalent Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac/DIABLO",
+    "Name of the Mimetic": "LCL161",
+    "Functions": "Inhibits IAPs, promoting apoptosis in cancer cells.",
+    "Activity": "Induces caspase-dependent apoptosis and can also affect the non-canonical NF-kB signaling pathway."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/app11010335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bivalent Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac/DIABLO",
+    "Name of the Mimetic": "Birinapant (TL32711)",
+    "Functions": "Targets IAPs, particularly cIAP1 and cIAP2, to induce apoptosis.",
+    "Activity": "Demonstrated to induce apoptosis and has been studied for its effectiveness in various cancers."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/app11010335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Monovalent Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac/DIABLO",
+    "Name of the Mimetic": "GDC-0152",
+    "Functions": "Acts as a pan-IAP inhibitor, affecting XIAP, cIAP1, and cIAP2.",
+    "Activity": "Induces apoptosis and has shown potential in combination therapies to enhance anti-cancer effects."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/app11010335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Monovalent Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac/DIABLO",
+    "Name of the Mimetic": "AT-406 (Debio1143)",
+    "Functions": "Specifically targets cIAP1 and cIAP2, similar to birinapant.",
+    "Activity": "Induces apoptosis and has been evaluated in clinical settings."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/app11010335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Monovalent Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac/DIABLO",
+    "Name of the Mimetic": "GDC-0917 (CUDC-427)",
+    "Functions": "Inhibits IAPs, promoting apoptosis.",
+    "Activity": "Evaluated for its anti-cancer potency in preclinical studies."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/app11010335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bivalent Smac mimetic",
+    "Mimic of which Protein/Carbohydrate": "Smac/DIABLO",
+    "Name of the Mimetic": "BV6",
+    "Functions": "A bivalent compound that inhibits IAPs.",
+    "Activity": "Shown to suppress cancer cell progression and induce apoptosis in combination therapies."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.1021/acs.analchem.1c02109",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Mycophenolic Acid (MPA)",
+    "Name of the Mimetic": "A2 (cyclic peptide mimetic)",
+    "Functions": "The A2 peptide mimetic is designed to bind to the same antibody paratope as MPA, allowing it to compete with the actual drug in immunoassays. This mimetic is crucial for the development of sensitive detection methods for MPA in clinical samples.",
+    "Activity": "The A2 mimetic demonstrated high selectivity for the recombinant MPA antibody fragment and was effective in competitive phage-based ELISA assays. It was further characterized by its ability to recognize the anti-MPA antibody and compete with free MPA at nanomolar levels"
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1039/D2CS00470D",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate Mimetic Peptides (CMPs)",
+    "Mimic of which Protein/Carbohydrate": "Glycan",
+    "Name of the Mimetic": "Glycan-mimetic peptide mimotopes",
+    "Functions": "The regulation of glycan (carbohydrate)–protein interactions is needed to develop therapeutic strategies for glycan-related diseases",
+    "Activity": "modulate immune responses or inhibit glycan–protein interactions, serving as high-affinity ligands for lectins, inducing anti-glycan antibodies, or acting as vaccine candidates against pathogens and tumors"
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.carres.2022.108697",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "synthetic polysaccharide mimetics",
+    "Mimic of which Protein/Carbohydrate": "Glycolipid biosurfactants (C14,C16,C18 terminal chain lengths)",
+    "Name of the Mimetic": "Enantiopure poly-amido-saccharides (PASs)",
+    "Functions": "These amphiphilic polymers are water soluble, adopt a helical secondary structure, decompose at temperatures greater than 240 °C, are non-cytotoxic, and self-assemble into nanostructures.",
+    "Activity": "binding to carbohydrate-recognizing proteins (like lectins) and can act as highly effective protein stabilizers, offering enhanced stability and precise structural control compared to natural polysaccharides"
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Tumor suppressor mimetic.",
+    "Mimic of which Protein/Carbohydrate": "p53",
+    "Name of the Mimetic": "p53-derived peptides",
+    "Functions": "Inhibits MDM2 interaction.",
+    "Activity": "Reactivates p53, promoting apoptosis in cancer cells."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Oncogene inhibitor.",
+    "Mimic of which Protein/Carbohydrate": "MDM2",
+    "Name of the Mimetic": "MDM2 inhibitors",
+    "Functions": "Inhibits p53 degradation.",
+    "Activity": "Restores p53 activity, leading to tumor suppression."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Oncogene mimetic.",
+    "Mimic of which Protein/Carbohydrate": "BCL9",
+    "Name of the Mimetic": "BCL9-derived peptides",
+    "Functions": "Inhibits β-catenin interaction.",
+    "Activity": "Modulates Wnt signaling pathway, affecting cell proliferation."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Oncogene inhibitor.",
+    "Mimic of which Protein/Carbohydrate": "c-Myc",
+    "Name of the Mimetic": "c-Myc inhibitors",
+    "Functions": "Disrupts c-Myc/Max dimerization.",
+    "Activity": "Inhibits transcription of target genes involved in cell growth."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Apoptosis-inducing mimetic.",
+    "Mimic of which Protein/Carbohydrate": "Fas Ligand (FasL)",
+    "Name of the Mimetic": "FasL-derived peptides",
+    "Functions": "Induces apoptosis.",
+    "Activity": "Triggers cell death in cancer cells."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Tumor suppressor mimetic.",
+    "Mimic of which Protein/Carbohydrate": "TGF-β inhibitors",
+    "Name of the Mimetic": "Transforming Growth Factor Beta (TGF-β)",
+    "Functions": "Inhibits TGF-β signaling.",
+    "Activity": "Reduces tumor progression and metastasis."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Cell adhesion mimetic.",
+    "Mimic of which Protein/Carbohydrate": "Integrins",
+    "Name of the Mimetic": "Integrin-derived peptides",
+    "Functions": "Modulates cell adhesion.",
+    "Activity": "Affects tumor cell migration and invasion."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Chemokine receptor inhibitor.",
+    "Mimic of which Protein/Carbohydrate": "CXCR4",
+    "Name of the Mimetic": "CXCR4 antagonists",
+    "Functions": "Inhibits chemokine signaling.",
+    "Activity": "Reduces metastasis and tumor growth."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1021/acscentsci.1c01293",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Heparan sulfate (HS)",
+    "Name of the Mimetic": "Pixatimod (PG545)",
+    "Functions": "Acts as a coreceptor for the SARS-CoV-2 spike protein, facilitating viral entry into host cells by interacting with the ACE2 receptor.\nDisrupts the interaction between the spike protein and ACE2, thereby inhibiting viral infection.",
+    "Activity": "Pixatimod binds to the receptor binding domain (RBD) of the SARS-CoV-2 spike protein, destabilizing it and preventing its binding to ACE2.\nDemonstrated potent inhibition of SARS-CoV-2 infection in various cell types, including monkey Vero E6 cells and human bronchial epithelial cells, at therapeutically safe concentrations.\nRetains effectiveness against multiple variants of concern (VOC) such as Alpha, Beta, Delta, and Omicron, indicating broad antiviral activity."
+  },
+  {
+    "Paper Publish Year": 2023,
+    "DOI": "https://doi.org/10.1016/j.bioactmat.2022.05.029",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Cell adhesion peptide",
+    "Mimic of which Protein/Carbohydrate": "Integrin-binding sites found in various extracellular matrix proteins.",
+    "Name of the Mimetic": "RGD-FITC Peptide",
+    "Functions": "Promotes cell adhesion and migration.",
+    "Activity": "Used to validate the thiol-ene reaction on the fibrous scaffolds."
+  }
+]

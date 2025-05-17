@@ -1,0 +1,512 @@
+[
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.2174/187152507781058663",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Oligomers",
+    "Mimic of which Protein/Carbohydrate": "heparin",
+    "Name of the Mimetic": "SR123781A",
+    "Functions": "as also proved to be promising",
+    "Activity": "Venous thromboembolism (Phase III trials"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1021/bc700212b",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Liposome",
+    "Mimic of which Protein/Carbohydrate": "sialyl Lewis X (sLeX)",
+    "Name of the Mimetic": "SuLea-PEG-DSPE",
+    "Functions": "may be used as nanocarriers to target activated platelets for drug delivery to the injury sites of cardiovascular diseases",
+    "Activity": "Cardiovascular Diseases:PEG-DSPE-based nanocarriers are employed in delivering drugs for thrombosis and cardiovascular conditions due to prolonged circulation times and reduced systemic toxicity"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1021/bc700212b",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Liposome",
+    "Mimic of which Protein/Carbohydrate": "sialyl Lewis X (sLeX)",
+    "Name of the Mimetic": "SuLea-DSGA",
+    "Functions": "Used as a glycolipid without a PEG spacer for initial targeting studies",
+    "Activity": "Cardiovascular Diseases:PEG-DSPE-based nanocarriers are employed in delivering drugs for thrombosis and cardiovascular conditions due to prolonged circulation times and reduced systemic toxicity"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1021/bc700212b",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Liposome",
+    "Mimic of which Protein/Carbohydrate": "sialyl Lewis X (sLeX)",
+    "Name of the Mimetic": "PEG-DSPE",
+    "Functions": "Prolongs circulation time, provides steric stability",
+    "Activity": "Cardiovascular Diseases:PEG-DSPE-based nanocarriers are employed in delivering drugs for thrombosis and cardiovascular conditions due to prolonged circulation times and reduced systemic toxicity"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1111/j.1747-0285.2008.00741.x",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "GAG Mimetics",
+    "Mimic of which Protein/Carbohydrate": "heparan sulfate (HS)",
+    "Name of the Mimetic": "Idraparinux (SANORG 34006)",
+    "Functions": "phase III clinical trials for the treatment of venous thromboembolism, anticogulant",
+    "Activity": "Venous Thromboembolism (VTE):idraparinux is a synthetic pentasaccharide anticoagulant that inhibits Factor Xa. It was investigated for treating deep vein thrombosis (DVT) and pulmonary embolism (PE)."
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1111/j.1747-0285.2008.00741.x",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "GAG Mimetics",
+    "Mimic of which Protein/Carbohydrate": "heparan sulfate (HS)",
+    "Name of the Mimetic": "synthetic hexadecasaccharide SR123781",
+    "Functions": "Anticoagulant",
+    "Activity": "Potent antithrombotic agent in venous and arterial thrombosis models"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1111/j.1747-0285.2008.00741.x",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "GAG Mimetics",
+    "Mimic of which Protein/Carbohydrate": "sulfated glycosaminoglycans (GAGs)",
+    "Name of the Mimetic": "Epicatechin Sulfate (ECS)",
+    "Functions": "Anticoagulant",
+    "Activity": "Cardiovascular Diseases:Reverses endothelial cell aging, improves nitric oxide production, and enhances vascular relaxation"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/chem.200900996",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "imino sugar derivative",
+    "Mimic of which Protein/Carbohydrate": "amino sugar",
+    "Name of the Mimetic": "3,6-dihydro-2H-1,2-oxazines",
+    "Functions": "Carbohydrate mimetics: 3,6-Dihydro-2H-1,2-oxazines mimic carbohydrates, interacting with carbohydrate-binding proteins.",
+    "Activity": "Inhibit platelet aggregation, useful in cardiovascular diseases (e.g., thrombosis)"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1021/ja810025g",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "α-helix mimetic",
+    "Mimic of which Protein/Carbohydrate": "MDM2 (Mouse Double Minute 2 homolog) in its interaction with p53 (Tumor Protein p53)",
+    "Name of the Mimetic": "H₂N-Phe-[Trp]-Leu-OH",
+    "Functions": "designed to inhibit the binding of MDM2 to p53, which is crucial for regulating the cell cycle and preventing tumor formation.",
+    "Activity": "identified as a lead inhibitor with effective activity against MDM2/p53 binding, demonstrating a significant inhibitory effect (IC₅₀ < 50 μM)"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "ApoA-I",
+    "Name of the Mimetic": "2F",
+    "Functions": "stability and lipid-binding properties were improved",
+    "Activity": "mimicked many of the lipid binding properties of apoA-I but failed to alter lesions in a mouse model of atherosclerosis."
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "ApoA-I",
+    "Name of the Mimetic": "4F",
+    "Functions": "Inhibits inflammation and improves HDL properties",
+    "Activity": "Administered as D-amino acid (D-4F) reduced atherosclerotic lesions in LDL receptor–null and apoE-null mice without altering plasma cholesterol levels. Improved anti-inflammatory properties in various conditions."
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "ApoA-I",
+    "Name of the Mimetic": "5F",
+    "Functions": "Protects against atherosclerosis",
+    "Activity": "L-5F significantly protected mice from diet-induced atherosclerosis and improved HDL's anti-inflammatory properties."
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900599",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "N-methyl amino acids",
+    "Mimic of which Protein/Carbohydrate": "C-terminal region (Phe-Phe-Gly-Leu-Met),",
+    "Name of the Mimetic": "H-Lys-Phe-Ile-Gly-LeuMet-NH2",
+    "Functions": "Using this information the peptidomimetic H-Lys-(Me)- Phe-Ile-Gly-(Me)Leu-Met-NH2 was prepared",
+    "Activity": "Screening of this series of five peptides on the depressor activity of rabbit blood revealed that the modification of Ile and Met lead to inactive compounds while the modification of Phe and Leu showed no effect."
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900599",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "N-methylated peptide",
+    "Mimic of which Protein/Carbohydrate": "C-terminal region (Phe-Phe-Gly-Leu-Met),",
+    "Name of the Mimetic": "H-Lys-(Me)- Phe-Ile-Gly-(Me)Leu-Met-NH2",
+    "Functions": "higher resistance against degradation.",
+    "Activity": "full depressor activity"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1080/15419060801891018",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "Connexin",
+    "Name of the Mimetic": "Gap27",
+    "Functions": "mimics Connexin",
+    "Activity": "Inhibition of gap junction channel formation: Cx43 +"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1517/17460441.2010.497811",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "glycosaminoglycan",
+    "Name of the Mimetic": "idraparinux",
+    "Functions": "Idraparinux is a synthetic analog of the antithrombin-binding region of heparin, which is a critical site for heparin's anticoagulant activity.",
+    "Activity": "Venous Thromboembolism (VTE):idraparinux is a synthetic pentasaccharide anticoagulant that inhibits Factor Xa. It was investigated for treating deep vein thrombosis (DVT) and pulmonary embolism (PE)."
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1517/17460441.2010.497811",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "glycosaminoglycan",
+    "Name of the Mimetic": "arixtria",
+    "Functions": "Arixtra is a synthetic analog of the antithrombin-binding region of heparin, which is a critical site for heparin's anticoagulant activity.",
+    "Activity": "Thromboembolic Disorders:Approved for preventing DVT post-surgery (hip/knee replacement) and treating acute DVT/PE. It blocks Factor Xa, reducing clot formation. Also used for unstable angina and myocardial infarction"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.259",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Cyclic heptapeptide",
+    "Mimic of which Protein/Carbohydrate": "barbourin",
+    "Name of the Mimetic": "Integrilin® (eptifibatide)",
+    "Functions": "Antiplatelet agent",
+    "Activity": "Prevents ischemic events"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.bbamem.2011.03.016",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Membrane protein mimetic",
+    "Mimic of which Protein/Carbohydrate": "Cytochrome P450, rhodopsin, voltage-sensing domain of KvAP",
+    "Name of the Mimetic": "Nanodiscs",
+    "Functions": "Reconstitute membrane proteins in a functional form within a stable and flat lipid bilayer",
+    "Activity": "Facilitate NMR studies of membrane proteins by providing a more native-like environment compared to micelles, with stable and tunable size for better structural and functional analysis."
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "Gi3α (C-terminal)",
+    "Name of the Mimetic": "TP10-Gi3α346–355",
+    "Functions": "Activation of p42/p44 MAPK",
+    "Activity": "Potential modulator of cell signaling in various diseases"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "Chromogranin A",
+    "Name of the Mimetic": "Vasostatin-1",
+    "Functions": "Anti-andrenergic",
+    "Activity": "Potential cardiovascular applications"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "eNOS (Calmodulin-binding domain)",
+    "Name of the Mimetic": "Nosangiotide",
+    "Functions": "Anti-angiogenic",
+    "Activity": "Potential anti-cancer activity by inhibiting blood vessel formation"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "Calcitonin receptor",
+    "Name of the Mimetic": "Camptide",
+    "Functions": "cAMP modulation",
+    "Activity": "Potential modulator of cAMP-dependent processes in various diseases"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "AT1AR receptor",
+    "Name of the Mimetic": "AT1AR304–318 (M511)",
+    "Functions": "Blood vessel contraction",
+    "Activity": "Potential modulator of blood pressure in cardiovascular diseases"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/23378594/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Lyophilized peptide",
+    "Mimic of which Protein/Carbohydrate": "apoA-I",
+    "Name of the Mimetic": "D-4F",
+    "Functions": "decreased inflammation in low-density lipoprotein receptor-null mice",
+    "Activity": "causes a reduction in metabolites of arachidonic and linoleic acids in the small intestine,Atherosclerosis"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/17425247.2014.902048",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycopolymers",
+    "Mimic of which Protein/Carbohydrate": "Naturally occurring polysaccharides (e.g., glycosaminoglycans, chondroitin sulfate)",
+    "Name of the Mimetic": "Glycopolymers",
+    "Functions": "Anticoagulant, anti-inflammatory, anti-tumor properties",
+    "Activity": "Potential applications in treating cardiovascular diseases, inflammatory conditions, and cancer by mimicking biological activities of natural polysaccharides. May also be used as drug delivery systems and protein stabilizers in pharmaceutical formulations."
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/bm500091e",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Collagen mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "Collagen",
+    "Name of the Mimetic": "(Pro-Lys-Gly)4(Pro-Hyp-Gly)4(Asp-Hyp-Gly)4",
+    "Functions": "forms nanofibrous triple helices that entangle to form a hydrogel. adhere platelets, activate them (indicated by soluble P-selectin secretion), and clot plasma and blood similar to animal derived collagen and control surfaces. In addition to the thrombotic potential, THP-1 monocytes incubated with our KOD collagen mimetic showed minimal proinflammatory cytokine (TNF-α or IL-1β) production.",
+    "Activity": "Promotes hemostasis by adhering and activating platelets, clotting plasma and blood similar to animal-derived collagen, while showing minimal proinflammatory cytokine production"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1016/j.biomaterials.2015.02.079",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "collagen mimetic",
+    "Mimic of which Protein/Carbohydrate": "Collagen",
+    "Name of the Mimetic": "Scl2",
+    "Functions": "Streptococcal collagen-like 2 protein with specific peptides to enhance its properties for use in hydrogels HAbind, CSbind and RGDS peptides were conjugated to acrylate-Scl2 via thiolacrylate chemistry",
+    "Activity": "Potential for improved tissue engineering and regenerative medicine applications, particularly in cardiovascular and bone repair"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1159/000374044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "antagonist",
+    "Mimic of which Protein/Carbohydrate": "BDNF sequence",
+    "Name of the Mimetic": "Betrofin3",
+    "Functions": "inhibits brain derived neurotrophic factor (BDNF) peptide  that exerts the most striking pro-cardiomyogenic effect on ES cells",
+    "Activity": "enhances the differentiation of ES cell-derived cardiomyocytes and at least in part that a TrkB receptor blockade by K252a may negatively regulate the differentiation process of the ES cells into cardiomyocytes,potentially useful for cardiac regeneration."
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1159/000374044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "antagonist",
+    "Mimic of which Protein/Carbohydrate": "FGF",
+    "Name of the Mimetic": "FGLs",
+    "Functions": "enhance EGFP expression",
+    "Activity": "Potential for cardiac gene therapy monitoring through enhanced cardiac-specific EGFP expression"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1159/000374044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "antagonist",
+    "Mimic of which Protein/Carbohydrate": "FGF",
+    "Name of the Mimetic": "FGLL",
+    "Functions": "enhance EGFP expression",
+    "Activity": "Potential for cardiac gene therapy monitoring through enhanced cardiac-specific EGFP expression"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1159/000374044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "antagonist",
+    "Mimic of which Protein/Carbohydrate": "NCAM (Neural Cell Adhesion Molecule)",
+    "Name of the Mimetic": "EnkaminE",
+    "Functions": "enhance EGFP expression",
+    "Activity": "carries a cardiac-specific reporter transgene encoding EGFP in a concentration-and time-dependent manner,potentially useful for cardiac gene therapy monitoring"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1159/000374044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "antagonist",
+    "Mimic of which Protein/Carbohydrate": "NCAM (Neural Cell Adhesion Molecule)",
+    "Name of the Mimetic": "Plannexin",
+    "Functions": "enhance EGFP expression",
+    "Activity": "carries a cardiac-specific reporter transgene encoding EGFP in a concentration-and time-dependent manner,potentially useful for cardiac gene therapy monitoring"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.drudis.2016.11.003",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "synthetic peptide",
+    "Mimic of which Protein/Carbohydrate": "Disintegrin protein from snake venom",
+    "Name of the Mimetic": "Eptifibatide",
+    "Functions": "antiplatelet drug",
+    "Activity": "Inhibits glycoprotein IIb/IIIa, preventing platelet aggregation and blood clot formation, used in acute coronary syndromes"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.drudis.2016.11.003",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "antagonist",
+    "Mimic of which Protein/Carbohydrate": "sarcosine",
+    "Name of the Mimetic": "Saralasin",
+    "Functions": "used to treat hyper tension",
+    "Activity": "Angiotensin II receptor agonist to reduce hypertension"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Apolipoprotein mimetic peptides",
+    "Mimic of which Protein/Carbohydrate": "apoA-I",
+    "Name of the Mimetic": "18A",
+    "Functions": "higher lipid affinity and enhanced anti-atherogenic properties",
+    "Activity": "Potential therapeutic for reducing atherosclerosis and improving cholesterol transport"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Apolipoprotein mimetic peptides",
+    "Mimic of which Protein/Carbohydrate": "apoA-I",
+    "Name of the Mimetic": "5A",
+    "Functions": "Anti-inflammatory, antioxidant and atheroprotective effects",
+    "Activity": "less toxic and more specific to the ATP-binding cassette transporter A1(ABCA1) in cholesterol transport,Atherosclerosis"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Apolipoprotein mimetic peptides",
+    "Mimic of which Protein/Carbohydrate": "apoA-I",
+    "Name of the Mimetic": "ETC-642",
+    "Functions": "induction of cholesterol and increase of HDL fraction",
+    "Activity": "Potential treatment for atherosclerosis by reducing inflammation and increasing HDL"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Apolipoprotein mimetic peptides",
+    "Mimic of which Protein/Carbohydrate": "apoA-I",
+    "Name of the Mimetic": "FAMP",
+    "Functions": "effectively enhance HDL biological function and it also has atheroprotective functions",
+    "Activity": "Potential treatment for atherosclerosis by enhancing HDL function"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Apolipoprotein mimetic peptides",
+    "Mimic of which Protein/Carbohydrate": "ApoE",
+    "Name of the Mimetic": "ATI-5261",
+    "Functions": "reduces aortic lesions and plaque formation",
+    "Activity": "induce ABCA1-mediated cholesterol transport and reduce aortic lesion area and plaque lipid content,dyslipidemia"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Apolipoprotein mimetic peptides",
+    "Mimic of which Protein/Carbohydrate": "ApoE",
+    "Name of the Mimetic": "Ac-hE18A-NH2",
+    "Functions": "reduces plasma cholesterol in several dyslipidemic animal models",
+    "Activity": "Potential treatment for dyslipidemia by reducing plasma cholesterol"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1002/ddr.21407",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Collagen mimetic peptides",
+    "Mimic of which Protein/Carbohydrate": "((ProLys-Gly)4(Pro-Hyp-Gly)4(Asp-Hyp-Gly))",
+    "Name of the Mimetic": "KOD",
+    "Functions": "Promotes haemostasis",
+    "Activity": "Promotes hemostasis by replicating collagen's self-assembly"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1002/ddr.21407",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "GPIIb/IIIa antagonist",
+    "Mimic of which Protein/Carbohydrate": "RGD sequence",
+    "Name of the Mimetic": "SC47643",
+    "Functions": "Enhances stability of their agent against enzymatic degradation",
+    "Activity": "Potential anti-thrombotic by inhibiting platelet aggregation"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1002/ddr.21407",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "GPllb/llla antagonist",
+    "Mimic of which Protein/Carbohydrate": "RGD sequence",
+    "Name of the Mimetic": "FK633",
+    "Functions": "Inhibits platelet aggregation",
+    "Activity": "Inhibits platelet aggregation for potential thrombosis treatment"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/ph10040078",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "methyl glycoside analogue",
+    "Mimic of which Protein/Carbohydrate": "antithrombin III",
+    "Name of the Mimetic": "Fondaparinux",
+    "Functions": "prophylaxis and treatment of venous thromboembolism (VTE)",
+    "Activity": "Prevents and treats venous thromboembolism"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/ph10040078",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "synthetic anticoagulant",
+    "Mimic of which Protein/Carbohydrate": "Idrapainux",
+    "Name of the Mimetic": "Idrabiotaparinux",
+    "Functions": "effective and safe as the standard warfarin treatment for VTE",
+    "Activity": "biotin segment of Idrabiotaparinux enables the neutralization of the drug using avidin as a neutralizing agent"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/ph10040078",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "synthetic hexadecasaccharide",
+    "Mimic of which Protein/Carbohydrate": "Heparin",
+    "Name of the Mimetic": "SR123781",
+    "Functions": "indirect antithrombin III dependent inhibitor of FXa",
+    "Activity": "prolonged anti-FXa and antithrombin activity after intravenous and subcutaneous administration"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/ph10040078",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "antithrombotic",
+    "Mimic of which Protein/Carbohydrate": "Heparin",
+    "Name of the Mimetic": "AV5026",
+    "Functions": "dose-dependent antithrombic effect with similar activity",
+    "Activity": "Highly selective depolymerization of heparin for antithrombotic activity"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1007/978-1-4939-6857-2_1",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "anticalins",
+    "Mimic of which Protein/Carbohydrate": "antibody",
+    "Name of the Mimetic": "DigA16 (H86N)",
+    "Functions": "digoxin antidote",
+    "Activity": "dramatically decreases the free digoxin concentration in plasma and rapidly reducing its toxic effects,Digoxin antidote for treating digoxin toxicity"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1038/s41467-017-02008-y",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "adrenergic receptor",
+    "Mimic of which Protein/Carbohydrate": "β44-m23",
+    "Name of the Mimetic": "β1AR",
+    "Functions": "ligand-induced variations in G-protein interaction underpin partial agonism",
+    "Activity": "Salbutamol-bound β1AR is more mobile than the other partial agonist-bound receptors but is still considerably more rigid than full agonist-bound receptor, Potential therapeutic target for adrenergic receptor-related diseases"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.1038/s41598-020-63336-6",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Therapeutic peptide",
+    "Mimic of which Protein/Carbohydrate": "Connexin 43 (Cx43)",
+    "Name of the Mimetic": "Gap27",
+    "Functions": "Gap27 is designed to mimic the function of Cx43, which is crucial for intercellular communication in the heart. Cx43 plays a significant role in the conduction of electrical impulses between cardiomyocytes, which is essential for maintaining normal heart rhythm and function.",
+    "Activity": "Gap27 has been shown to improve cardiac function and reduce arrhythmogenesis in heart failure models. Specifically, it decreases the progression of cardiac dysfunction, reduces the incidence and severity of arrhythmias, and mitigates cardiac hypertrophy and adverse remodeling in high-output heart failure conditions.The peptide works by potentially influencing the phosphorylation status of Cx43, particularly at the S368 site, which is associated with the lateralization of Cx43 in cardiomyocytes"
+  }
+]

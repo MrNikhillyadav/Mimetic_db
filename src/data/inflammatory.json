@@ -1,0 +1,482 @@
+[
+  {
+    "Paper Publish Year": 1999,
+    "DOI": "https://doi.org/10.1002/jccs.199900043",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycomimetics",
+    "Mimic of which Protein/Carbohydrate": "trisaccharide",
+    "Name of the Mimetic": "SIALYL LEWIS X",
+    "Functions": "interaction of sl.e\" tetrasaccharide ligand with a class of calcium-dependent lectins, including E- , P- and L- selectins (Fig. 3).4 The selectin-carbohydrate interaction is involved in intlammatory reactions and, in certain cases, metastasis.",
+    "Activity": "Inflammatory diseases: Anti-sLeX antibodies reduce neutrophil infiltration in ALI and asthma"
+  },
+  {
+    "Paper Publish Year": 2004,
+    "DOI": "doi:10.1016/j.tetasy.2004.11.016",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "acylaminosugar",
+    "Mimic of which Protein/Carbohydrate": "N-glycoproteins",
+    "Name of the Mimetic": "acetamido derivative of GlcNAc\tThe acetamido derivative of GlcNAc functions as a simple model of the N-glycoprotein linkage region, used as an acceptor in transglycosylation and reversed hydrolysis catalyzed by β-N-acetylhexosaminidases\tOsteoarthritis: Modulates glycosaminoglycan synthesis for joint health",
+    "Functions": "",
+    "Activity": ""
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1152/ajpcell.00097.2007",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Pannexin mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "Pannexin-1",
+    "Name of the Mimetic": "PanxE1b",
+    "Functions": "Mimics extracellular loop sequences of pannexin1",
+    "Activity": "Inhibits pannexin currents by more than 10%."
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.2174/187152708783885174",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic",
+    "Mimic of which Protein/Carbohydrate": "pharmacophores of mAb 5C3 and NGF peptide analogues",
+    "Name of the Mimetic": "D3",
+    "Functions": "Neuroprotective agent",
+    "Activity": "proteolytically stable agonist of the TrkA receptor, can activate a tyrosine kinase neurotrophin receptor that normally binds a relatively large protein ligand"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "homopolymers or copolymers",
+    "Mimic of which Protein/Carbohydrate": "Elastin",
+    "Name of the Mimetic": "IPAVG",
+    "Functions": "Mimics the biological properties of elastin in implant contexts",
+    "Activity": "Does not cause significant inflammatory reactions"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "homopolymers or copolymers",
+    "Mimic of which Protein/Carbohydrate": "Elastin",
+    "Name of the Mimetic": "VPAVG",
+    "Functions": "Elastin mimetic, used for subcutaneous and intravitreal injections",
+    "Activity": "No inflammatory response observed after 28 days"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "homopolymers or copolymers",
+    "Mimic of which Protein/Carbohydrate": "Elastin",
+    "Name of the Mimetic": "Chemically synthesized poly(GVGVP)",
+    "Functions": "Mimics the structural and functional properties of elastin, used in various implant routes (intravenous, intraocular, intramuscular, etc.)",
+    "Activity": "Did not induce toxicity; no immune response, but a fibrous capsule was noted after intramuscular implantation"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1016/j.biomaterials.2008.09.040",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "homopolymers or copolymers",
+    "Mimic of which Protein/Carbohydrate": "Elastin",
+    "Name of the Mimetic": "Chemically synthesized poly(VPAVG)",
+    "Functions": "Mimics elastin for implant and injection applications (subcutaneous and intravitreal)",
+    "Activity": "No inflammatory response observed after 28 days, though retinal detachment was noted in some cases"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900599",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "N-methylated peptide",
+    "Mimic of which Protein/Carbohydrate": "cyclophilin",
+    "Name of the Mimetic": "cyclic undecapeptide cyclosporine A",
+    "Functions": "one of the most successful drugs (Sandimmun,\nNeoral) used after organ transplantations",
+    "Activity": "member of the cyclic peptide immunosuppressants which in addition shows good pharmacological properties and low toxicity."
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.8",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "inhibitor",
+    "Mimic of which Protein/Carbohydrate": "iminosugar",
+    "Name of the Mimetic": "nojirimycin",
+    "Functions": "prevents digestion of carbohydrate and used as a treatment for type 2 diabetes",
+    "Activity": "Inflammation: Suppresses NF-κB and MAPK pathways, reducing NO and cytokine production"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.259",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "CCR5 receptor ligand",
+    "Mimic of which Protein/Carbohydrate": "MIP-1α (CCL3) and MIP-1β (CCL4)",
+    "Name of the Mimetic": "RANTES",
+    "Functions": "a 68-mer with N-terminal modifications and non-natural amino acids",
+    "Activity": "substitutions in positions 1–3 to increase potency and protease resistance"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1134/S1068162011060100",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "heparinoids",
+    "Name of the Mimetic": "pentosan sulfate (HOE/BAY946)",
+    "Functions": "Pentosan sulfate (HOE/BAY946) functions as an inhibitor of viral adhesion, similar to dextran sulfate. It can inhibit the primary adsorption of viruses like HIV on the cell membrane, thus preventing the initial stage of infection. However, like other sulfated polysaccharides, its practical use as a drug is limited due to low bioaccessibility and challenges in standardization and structural characterization.",
+    "Activity": "Osteoarthritis: Reduces cartilage degradation in preclinical studies"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.4049/jimmunol.1002847",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "Apolipoprotein E (apoE)",
+    "Name of the Mimetic": "COG112",
+    "Functions": "Immunomodulatory",
+    "Activity": "Reduces activation of the NF-kB pathway; inhibits inflammatory responses."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1155/2012/740982",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Oligosaccharide-mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "Sialyl-Lewis X (sLeX)",
+    "Name of the Mimetic": "sLe X-mimetic peptides",
+    "Functions": "These peptides inhibit binding to E-selectin, which is involved in cell adhesion processes.",
+    "Activity": "inhibit the binding of E-selectin, thereby reducing neutrophil rolling and adhesion to endothelial cells during inflammatory responses."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/23118226/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "analog of L-4F",
+    "Mimic of which Protein/Carbohydrate": "Apolipoprotein-AI",
+    "Name of the Mimetic": "L-37pA",
+    "Functions": "inhibits inflammatory respose of innate immune system",
+    "Activity": "induces calcium and chemotaxis through formyl peptide receptor (FPR)2/ALX"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/23118226/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "steriomer of L-37pA",
+    "Mimic of which Protein/Carbohydrate": "Apolipoprotein-AI",
+    "Name of the Mimetic": "D-37pA",
+    "Functions": "inhibits inflammatory respose of innate immune system",
+    "Activity": "blocks L-37pA signaling and induces chemotaxis but not calcium flux through an unidentified receptor"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "δ-PKC (First unique region VI)",
+    "Name of the Mimetic": "δ-PKC Tat47–57",
+    "Functions": "Inhibits δ-PKC and TNF-induced generation of O2–",
+    "Activity": "Anti-inflammatory activity by reducing oxidative stress"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "PKCβ1 (C2 region)",
+    "Name of the Mimetic": "TP10-Cys0PKC238–249",
+    "Functions": "Suppresses Inflammatory mediators",
+    "Activity": "Suppresses inflammatory pain by targeting the activation loop of the neurotrophic tyrosine kinase receptor type A (TrkA)"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "CB1 receptor (C-terminal)",
+    "Name of the Mimetic": "TP10-CB1401–417",
+    "Functions": "Suppresses Inflammatory mediators",
+    "Activity": "Potential treatment for inflammatory conditions"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "TIRAP (BOX2 domain)",
+    "Name of the Mimetic": "TBX2",
+    "Functions": "Inhibits of pro-inflammatory cytokines",
+    "Activity": "Anti-inflammatory activity"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/biot.201200335",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Bioportide",
+    "Mimic of which Protein/Carbohydrate": "JNK-binding domain of IB1",
+    "Name of the Mimetic": "XG-102 (D-JNKI1)",
+    "Functions": "Inhibits of JNK activity and Anti-inflammatory",
+    "Activity": "Potential treatment for inflammatory and neurodegenerative diseases"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.4049/jimmunol.1202030",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Anti-inflammatory peptide",
+    "Mimic of which Protein/Carbohydrate": "Annexin A1",
+    "Name of the Mimetic": "Ac2-26",
+    "Functions": "anti-inflammatory actions on leukocyte infiltration",
+    "Activity": "reduce the production of TNF-a, IL-1b, IL-6, and NO, as well as to inhibit COX-2 expression in ocular tissues during EIU"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.3762/bjoc.10.17",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate memitics",
+    "Mimic of which Protein/Carbohydrate": "Septanosides",
+    "Name of the Mimetic": "Poly(hydroxy)aminooxepanes derivatives.",
+    "Functions": "Potentially serve as selectin inhibitors and can be used in multivalent conjugates.",
+    "Activity": "Potential therapeutic applications in inflammatory conditions and vascular diseases by inhibiting P- and L-selectin mediated cell adhesion"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.3762/bjoc.10.182",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "β-D-2-aminotalose-configured carbohydrate mimetics",
+    "Mimic of which Protein/Carbohydrate": "structures related to aminopyrans, which can be associated with various natural carbohydrates, including those with β-D-talose and β-D-idopyranose configurations",
+    "Name of the Mimetic": "phenyl-substituted aminopyrans",
+    "Functions": "The function of phenyl-substituted aminopyrans includes serving as potential inhibitors for selectins, which are important in cell adhesion processes",
+    "Activity": "Potential anti-inflammatory and anti-metastatic effects due to high binding affinities towards L- and P-selectin when presented in a multivalent format"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.3762/bjoc.10.182",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "β-D-2-aminotalose-configured carbohydrate mimetics",
+    "Mimic of which Protein/Carbohydrate": "structures related to β-D-2-aminotalose and β-D-2-aminoidose",
+    "Name of the Mimetic": "rigid divalent p-terphenyl-linked carbohydrate mimetics",
+    "Functions": "the function of these mimetics includes serving as potential inhibitors for selectins, which are important in cell adhesion processes",
+    "Activity": "The activity of rigid divalent p-terphenyl-linked carbohydrate mimetics is highlighted by their ability to exhibit high binding affinities towards L- and P-selectin when presented in a multivalent format, indicating their potential biological activity ."
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.3762/bjoc.10.182",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "β-D-2-aminoidose-configured carbohydrate mimetics",
+    "Mimic of which Protein/Carbohydrate": "mimic structures related to β-D-2-aminotalose and β-D-2-aminoidose",
+    "Name of the Mimetic": "divalent compounds with p-terphenyl spacers",
+    "Functions": "the function of these mimetics includes serving as potential inhibitors for selectins, which are important in cell adhesion processes",
+    "Activity": "Potential anti-inflammatory and anti-metastatic effects due to high binding affinities towards L- and P-selectin when presented in a multivalent format"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.3762/bjoc.10.182",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Unnatural divalent rigid p-terphenyl-linked C-aryl glycosides",
+    "Mimic of which Protein/Carbohydrate": "structures related to β-D-2-aminotalose and β-D-2-aminoidose",
+    "Name of the Mimetic": "biphenyl aminopyran",
+    "Functions": "the function of these mimetics includes serving as potential inhibitors for selectins, which are important in cell adhesion processes",
+    "Activity": "Potential anti-inflammatory and anti-metastatic effects due to high binding affinities towards L- and P-selectin when presented in a multivalent format"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.3762/bjoc.10.182",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Unnatural divalent rigid p-terphenyl-linked C-aryl glycosides",
+    "Mimic of which Protein/Carbohydrate": "structures related to β-D-2-aminotalose and β-D-2-aminoidose",
+    "Name of the Mimetic": "p-terphenyl-linked dimers",
+    "Functions": "the function of these mimetics includes serving as potential inhibitors for selectins, which are important in cell adhesion processes",
+    "Activity": "Potential anti-inflammatory and anti-metastatic effects due to high binding affinities towards L- and P-selectin when presented in a multivalent format"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.3762/bjoc.10.182",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "carbohydrate mimetics that combine features of C-aryl glycosides and aminosugars",
+    "Mimic of which Protein/Carbohydrate": "structures related to β-D-2-aminotalose and β-D-2-aminoidose",
+    "Name of the Mimetic": "Aminosugar Mimetics",
+    "Functions": "the function of these mimetics includes serving as potential inhibitors for selectins, which are important in cell adhesion processes",
+    "Activity": "Potential inhibition of selectin-mediated cell adhesion"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1002/ejoc.201402191",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "carbohydrate mimetics.",
+    "Mimic of which Protein/Carbohydrate": "natural carbohydrate Sialyl Lewis X.",
+    "Name of the Mimetic": "Sialyl Lewis X (sLe x) analogues",
+    "Functions": "these analogues have the potential to be used for the treatment of diseases such as chronic inflammations.",
+    "Activity": "They are involved in high binding affinities towards L- and P-selectins, which are important in cell adhesion processes"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1002/ejoc.201402191",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "carbohydrate mimetics.",
+    "Mimic of which Protein/Carbohydrate": "Septanosides",
+    "Name of the Mimetic": "Poly(hydroxy)aminooxepanes",
+    "Functions": "The function of poly(hydroxy)aminooxepanes is to serve as building blocks for the synthesis of various compounds, including those considered as carbohydrate mimetics",
+    "Activity": "Potential therapeutic applications in inflammatory conditions and vascular diseases by inhibiting P- and L-selectin mediated cell adhesion. May have interesting biological activities, possibly as selectin inhibitors."
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1002/ejoc.201402191",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "carbohydrate mimetics.",
+    "Mimic of which Protein/Carbohydrate": "Septanosides",
+    "Name of the Mimetic": "Azidooxepanes",
+    "Functions": "Azidooxepanes serve as intermediates in the synthesis of various carbohydrate mimetics through copper-catalyzed [3+2] cycloadditions with alkynes",
+    "Activity": "Potential applications in drug discovery and development of new therapeutics for inflammatory conditions and vascular diseases. The resulting triazole-containing compounds may exhibit biological activities similar to carbohydrates, possibly as enzyme inhibitors or receptor ligands."
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1002/ejoc.201402191",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "carbohydrate mimetics.",
+    "Mimic of which Protein/Carbohydrate": "Septanosides",
+    "Name of the Mimetic": "Triazole derivatives",
+    "Functions": "Triazole derivatives can serve as potential inhibitors in biological processes, particularly in relation to selectin interactions.",
+    "Activity": "They exhibit high binding affinities towards L- and P-selectins, which are important in cell adhesion processes"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1002/ejoc.201402191",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "carbohydrate mimetics.",
+    "Mimic of which Protein/Carbohydrate": "Septanosides",
+    "Name of the Mimetic": "Divalent oxepane",
+    "Functions": "The divalent structure, along with its long flexible spacer and terminal aryl groups, shows resemblance to known selectin inhibitors, such as Bimosiamose, which have been developed for clinical studies",
+    "Activity": "They exhibit high binding affinities towards L- and P-selectins, which are important in cell adhesion processes"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/17425247.2014.902048",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycopolymers",
+    "Mimic of which Protein/Carbohydrate": "Naturally occurring polysaccharides (e.g., glycosaminoglycans, chondroitin sulfate)",
+    "Name of the Mimetic": "Glycopolymers",
+    "Functions": "Anticoagulant, anti-inflammatory, anti-tumor properties",
+    "Activity": "Potential applications in treating cardiovascular diseases, inflammatory conditions, and cancer by mimicking biological activities of natural polysaccharides. May also be used as drug delivery systems and protein stabilizers in pharmaceutical formulations."
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1371/journal.pone.0109252",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Lyophilized peptide",
+    "Mimic of which Protein/Carbohydrate": "Apolipoprotein-AI",
+    "Name of the Mimetic": "L4F",
+    "Functions": "Inhibits MCP-1 and SAA3 (chemokine) present in 3T3-L1 cells",
+    "Activity": "Reduces inflammation in adipose tissue by inhibiting chemokine expression"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.3762/bjoc.11.72",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Divalent carbohydrate mimetics",
+    "Mimic of which Protein/Carbohydrate": "Based on aminopyran and serinol",
+    "Name of the Mimetic": "Divalent carbohydrate mimetics connected to carboxylic acid cores by amide bonds derived from aminopyran and serinol",
+    "Functions": "These mimetics are designed to act as inhibitors of selectins, which are crucial in the inflammatory process.",
+    "Activity": "The divalent amide showed surprisingly good activities with IC50 values in the micromolar range, indicating potential effectiveness as L-selectin inhibitors for treating inflammatory conditions"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.3762/bjoc.11.72",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Trivalent carbohydrate mimetics",
+    "Mimic of which Protein/Carbohydrate": "Based on aminopyran and serinol",
+    "Name of the Mimetic": "Trivalent carbohydrate mimetics connected to carboxylic acid cores by amide bonds derived from aminopyran and serinol",
+    "Functions": "These mimetics are designed to act as inhibitors of selectins, which are crucial in the inflammatory process.",
+    "Activity": "Micromolar IC50 values suggest potential as L-selectin inhibitors for treating inflammatory conditions"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/ejoc.201403186",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Aminopyrans",
+    "Mimic of which Protein/Carbohydrate": "Sialyl Lewis X",
+    "Name of the Mimetic": "O-sulfated aminopyrans",
+    "Functions": "Mimic carbohydrate structures involved in cell adhesion",
+    "Activity": "Extremely high binding affinities towards L- and P-selectin, with potential applications in treating chronic inflammation (e.g., asthma)"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/ejoc.201403186",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Sialyl Lewis X Analogs",
+    "Mimic of which Protein/Carbohydrate": "Sialyl Lewis X",
+    "Name of the Mimetic": "Synthetic analogs of sialyl Lewis X",
+    "Functions": "Inhibit selectin-mediated cell adhesion",
+    "Activity": "Potential therapeutic agents for inflammatory diseases"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/chem.201500831",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycomimetic drug",
+    "Mimic of which Protein/Carbohydrate": "Sialyl Lewis x (sLe^x)",
+    "Name of the Mimetic": "GMI-1070 (Rivipansel)",
+    "Functions": "Potent pan-selectin antagonist",
+    "Activity": "Reverses vaso-occlusion in sickle cell disease and is in clinical trials for this condition"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/chem.201500831",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Synthetic glycoprotein mimic",
+    "Mimic of which Protein/Carbohydrate": "Glycan structures found on PSGL-1",
+    "Name of the Mimetic": "Synthetic P-selectin–glycoprotein–ligand-1 (PSGL-1) mimics",
+    "Functions": "Diagnostic probe for in vivo inflammatory brain damage",
+    "Activity": "Used for detection of early P-selectin expression in inflammatory brain lesions and cerebral malaria pathology in mice."
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fbioe.2015.00211",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic peptide",
+    "Mimic of which Protein/Carbohydrate": "CHIPS",
+    "Name of the Mimetic": "CHOPS",
+    "Functions": "anti inflammatory",
+    "Activity": "Anti-inflammatory agent by binding to C5a-receptor"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Annexin-A1 Mimetic Peptide",
+    "Mimic of which Protein/Carbohydrate": "annexin-A1",
+    "Name of the Mimetic": "CGEN-855A",
+    "Functions": "anti-inflammatory effects",
+    "Activity": "inhibition of polymorphonuclear neutrophils recruitment and also provides protection against ischemia-reperfusion-mediated injury to the myocardium"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1016/j.aca.2017.11.051",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Monosaccharide",
+    "Mimic of which Protein/Carbohydrate": "Galactose",
+    "Name of the Mimetic": "YXY (where X can be alanine, glutamic acid, threonine, or tyrosine)",
+    "Functions": "Selectively interacts with several galactose recognition proteins",
+    "Activity": "Peptides containing the YXY sequence were designed to evaluate the interaction with galactose-binding proteins, showing selective binding"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/nu12113261",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "inhibitor of inflammatory responses",
+    "Mimic of which Protein/Carbohydrate": "Annexin A1 (AnxA1)",
+    "Name of the Mimetic": "Ac2-26",
+    "Functions": "has anti-inflammatory and anti-wrinkle effects in human keratinocyte (HaCaT) and fibroblast (Detroit 551) cells,.",
+    "Activity": "decreases the expression of pro-inflammatory chemokines and cytokines by"
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Immunomodulatory mimetic.",
+    "Mimic of which Protein/Carbohydrate": "Interleukin-2 (IL-2)",
+    "Name of the Mimetic": "IL-2-derived peptides",
+    "Functions": "Enhances T-cell activation.",
+    "Activity": "Boosts immune response against tumors."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1021/acscentsci.1c01293",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Cytokine mimetic",
+    "Mimic of which Protein/Carbohydrate": "Interleukin-2 (IL-2) and Interleukin-15 (IL-15)",
+    "Name of the Mimetic": "Neo-2/15",
+    "Functions": "Potently activates and expands cytotoxic CD8+ T cells and NK cells, supporting antitumor immunity with reduced toxicity",
+    "Activity": "Mimics IL-2 and IL-15 signaling by selectively binding IL-2Rβγc, driving immune cell activation without engaging CD25, thus minimizing side effects"
+  }
+]

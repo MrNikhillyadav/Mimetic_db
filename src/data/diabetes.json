@@ -1,0 +1,792 @@
+[
+  {
+    "Paper Publish Year": 2004,
+    "DOI": "https://doi.org/10.1055/s-2005-868500",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosides",
+    "Mimic of which Protein/Carbohydrate": "β-linked O-tetrasaccharides",
+    "Name of the Mimetic": "b-C-Tetrasaccharide",
+    "Functions": "β-C-Tetrasaccharides are synthetic carbohydrate analogs where the glycosidic oxygen is replaced by a carbon atom, forming a stable C–C bond. This structural modification enhances their resistance to enzymatic degradation while retaining biological activity. Their functions span immune modulation, neural development, and cellular signaling",
+    "Activity": "Type 2 Diabetes:C-Trisaccharides (e.g., N-Trisaccharide from Cucumis prophetarum) reduce hyperglycemia by modulating insulin secretion and carbohydrate metabolism enzymes"
+  },
+  {
+    "Paper Publish Year": 2004,
+    "DOI": "https://doi.org/10.1055/s-2005-868500",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosides",
+    "Mimic of which Protein/Carbohydrate": "O-linked trisaccharides",
+    "Name of the Mimetic": "C-trisaccharides",
+    "Functions": "C-trisaccharides (carba-trisaccharides) are synthetic analogs of natural trisaccharides where the glycosidic oxygen is replaced by a methylene group",
+    "Activity": "Type 2 Diabetes:C-Trisaccharides (e.g., N-Trisaccharide from Cucumis prophetarum) reduce hyperglycemia by modulating insulin secretion and carbohydrate metabolism enzymes"
+  },
+  {
+    "Paper Publish Year": 2005,
+    "DOI": "https://doi.org/10.1186/1860-5397-1-12",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosidases",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "1-deoxynojirimycin (DNJ) family",
+    "Functions": "its derivatives miglustat (N-nBu DNJ, Zavesa®) and miglitol (N-hydroxethyl DNJ, Glyset® or Diastabol®) have already found therapeutic applica tions in Gaucher's disease [11] and type 2 (non-insulino dependant mellitus) diabetes,",
+    "Activity": "Diabetes: Inhibits α-glucosidase, reducing postprandial hyperglycemia"
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "doi:10.2174/157017906778699530",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glucopyranose",
+    "Mimic of which Protein/Carbohydrate": "cyclopeptide tachykinin NK-2 antagonist",
+    "Name of the Mimetic": "2-deoxy-2-thio-D-glucopyranose",
+    "Functions": "2-deoxy-2-thio-D-glucopyranose is designed as a mimic of the cyclopeptide tachykinin NK-2 antagonist",
+    "Activity": "Antiviral/Diabetes: Thiosugar analog with potential for α-glucosidase inhibition"
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "https://doi.org/10.1016/j.tet.2006.05.080",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Miscellaneous",
+    "Mimic of which Protein/Carbohydrate": "monosaccharides",
+    "Name of the Mimetic": "pseudosugar cycloalkane",
+    "Functions": "Pseudosugar cycloalkanes (carbasugars) are carbocyclic analogs of natural sugars where the furanose/pyranose oxygen is replaced with a methylene group. These compounds exhibit specialized biological functions due to their structural mimicry of carbohydrates while offering enhanced metabolic stability.",
+    "Activity": "Diabetes: Acarbose (pseudo-tetrasaccharide) slows carbohydrate digestion, managing type 2 diabetes"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1111/j.1742-1241.2007.01437.x",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "GLP-1 mimetic",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "exenatide",
+    "Functions": "Subcutaneous injection for type II diabetes",
+    "Activity": "Type II Diabetes:A GLP-1 receptor agonist that improves insulin secretion and reduces blood glucose levels."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1111/j.1742-1241.2007.01437.x",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "GLP-1 mimetic",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "liraglutide",
+    "Functions": "Once daily dosing for type II diabetes",
+    "Activity": "Obesity & Type II Diabetes:Enhances insulin sensitivity while promoting weight loss"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.beem.2007.09.003",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "NA",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "exendin-4(1–39), exenatide, or AC-2993",
+    "Functions": "a DPP-4-resistant GLP-1 receptor agonist isolated from the saliva of the Gila monster (Heloderma suspectum)",
+    "Activity": "exendin-4 replicates all of the known biological actions of GLP-1"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.beem.2007.09.003",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "NA",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "exenatide LAR",
+    "Functions": "clinical trails for type-2 diabetes.",
+    "Activity": "Once-weekly administration (0.8 or 2 mg) of exenatide LAR to type-2 diabetic patients for 15 weeks lowered HbA1c (1.4–1.7%) and reduced body weight (up to 3.8 kg)."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.beem.2007.09.003",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Non-peptide incretin mimetics",
+    "Mimic of which Protein/Carbohydrate": "incretin",
+    "Name of the Mimetic": "Boc5",
+    "Functions": "stimulated glucose-dependent insulin secretion and lowered food intake in mice.",
+    "Activity": "The effects of Boc5 were countered by co-administration of exendin(9–39). injection of Boc5 to db/db mice over a 6-week period significantly lowered HbA1c values"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.beem.2007.09.003",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "PEG-DAPD",
+    "Functions": "improved plasma half-life in vivo",
+    "Activity": "improves glucose tolerance and reduces blood glucose following a glucagon challenge.PEGylation appears to eliminate the inhibitory effect of DADP on gastrointestinal motility, and it is hoped that this will prevent the more significant gastrointestinal side-effects such as nausea and vomiting."
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.bmc.2007.11.036",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Glucose",
+    "Name of the Mimetic": "Deoxynojirimycin (DNJ)",
+    "Functions": "Inhibitor of α-glucosidase",
+    "Activity": "Type II Diabetes:DNJ inhibits α-glucosidase, reducing postprandial hyperglycemia"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.bmc.2007.11.036",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Glucose",
+    "Name of the Mimetic": "N-hydroxyethyl-DNJ (miglitol)",
+    "Functions": "Treatment for type II diabetes",
+    "Activity": "Type II Diabetes:Similar to DNJ, miglitol inhibits intestinal α-glucosidase, improving glycemic control"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://www.nature.com/articles/nrd2852.pdf",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycomimetic",
+    "Mimic of which Protein/Carbohydrate": "α-glucosidase inhibitor",
+    "Name of the Mimetic": "Voglibose (Glustat)",
+    "Functions": "Voglibose (Glustat) functions as an α-glucosidase inhibitor used for the treatment of diabetes",
+    "Activity": "type 2 diabetes mellitus. It is an alpha-glucosidase inhibitor that helps control postprandial (after-meal) blood glucose levels by delaying the digestion and absorption of complex carbohydrates in the small intestine"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900945",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycoside",
+    "Mimic of which Protein/Carbohydrate": "oligosaccharide",
+    "Name of the Mimetic": "D-ribofuranoid glycoaminoxy acid",
+    "Functions": "D-Ribofuranoid glycoaminoxy acid is a synthetic derivative of β-D-ribofuranose (the five-membered ring form of ribose) modified with an aminoxy group (–ONH₂) and a carboxylic acid (–COOH)",
+    "Activity": "Diabetic Nephropathy: Heparin analogs reduce advanced glycation end products (AGEs) and glomerular permeability"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "ApoA-I",
+    "Name of the Mimetic": "D-4F",
+    "Functions": "ability to resist enzymatic degradation",
+    "Activity": "inhibit atherosclerotic lesions."
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1080/15419060801891034",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Cx-mimetic peptides",
+    "Mimic of which Protein/Carbohydrate": "Cx43",
+    "Name of the Mimetic": "Gap 27/43",
+    "Functions": "Inhibits CxHc within minutes and gap junctions,  may be useful in reducing damage after spinal cord injury.",
+    "Activity": "inhibiting intercellular communication and antigen cross presentation in dendritic cells, T-cell activation and production of immunoglobulins and cytokines in mixed lymphocyte cultures"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1080/15419060801891034",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Cx-mimetic peptides",
+    "Mimic of which Protein/Carbohydrate": "Cx43",
+    "Name of the Mimetic": "Gap 27/40",
+    "Functions": "Inhibits Cx40 gap junctions,  may be useful in reducing damage after spinal cord injury.",
+    "Activity": "inhibiting intercellular communication and antigen cross presentation in dendritic cells, T-cell activation and production of immunoglobulins and cytokines in mixed lymphocyte cultures"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1016/j.pharmthera.2009.06.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "glucagon",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "exenatide",
+    "Functions": "improves first phase insulin release,  induces a delay of\ngastric emptying, and\ndecreases food intake. It improves the GLUT-4 expression in target\ncells of STZ-diabetic rats,  On a long run\nB-cell function is improved for which a permanently ongoing\ntreatment is necessary , treatment of type 2 diabetes",
+    "Activity": "As a GLP-1 agonist, exenatide binds to the pancreatic GLP-1 receptor and improves glucose homeostasis by mimicking the actions of naturally occurring GLP-1, stimulates insulin release in a glucosedependent manner"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1016/j.pharmthera.2009.06.002",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "glucagon",
+    "Mimic of which Protein/Carbohydrate": "incretin",
+    "Name of the Mimetic": "Boc5",
+    "Functions": "an oral incretin mimetic",
+    "Activity": "Boc5 is a non-peptidic glucagon-like peptide-1 receptor (GLP-1R) agonist that mimics the activity of the natural incretin hormone GLP-1 (glucagon-like peptide-1)"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.8",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosidases",
+    "Mimic of which Protein/Carbohydrate": "O-glycoside",
+    "Name of the Mimetic": "C-glycosides",
+    "Functions": "C-glycosides serve as stable mimics of glycosides by replacing the anomeric oxygen with a carbon atom, which suppresses the reactivity of the anomeric center. This stability makes them useful in medicinal chemistry, as they are unable to undergo the metabolism of the parent sugar, allowing them to participate in biological processes of pharmacological relevance without being metabolized",
+    "Activity": "Diabetes: Voglibose inhibits α-glucosidase"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1517/17460441.2010.497811",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "iminosugar",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "miglitol (N-(2-hydroxyethyl)-nojirimycin)",
+    "Functions": "able to prevent digestion of carbohydrates by a-glucosidase inhibition , anti-diabetic and antiobesity compound",
+    "Activity": "Type 2 Diabetes: Reduces postprandial glucose spikes as an α-glucosidase inhibitor"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1517/17460441.2010.497811",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Oligosaccharides",
+    "Name of the Mimetic": "acarbose",
+    "Functions": "It is an inhibitor of α-glucosidases and α-amylases, enzymes involved in carbohydrate metabolism.",
+    "Activity": "Type 2 Diabetes: Lowers HbA1c levels by delaying carbohydrate digestion"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugars",
+    "Mimic of which Protein/Carbohydrate": "α-glycosides",
+    "Name of the Mimetic": "1-deoxynojirimycin",
+    "Functions": "1-Deoxynojirimycin functions as a glycosidase inhibitor. It derives its ability to inhibit glycohydrolases from the nitrogen in the ring, which can support a positive charge, enabling it to mimic the transition state characteristic of the hydrolysis of α-glycosides",
+    "Activity": "Type 2 Diabetes:DNJ and miglitol inhibit intestinal α-glucosidase, reducing postprandial hyperglycemia"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugars",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "N-butyldeoxygalactonojirimycin",
+    "Functions": "N-butyldeoxygalactonojirimycin is mentioned as having potential for the treatment of β-galactosidosis",
+    "Activity": "Type 2 Diabetes:DNJ and miglitol inhibit intestinal α-glucosidase, reducing postprandial hyperglycemia"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugars",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "1-deoxymannojirimycin",
+    "Functions": "1-Deoxymannojirimycin functions as a glycosidase inhibitor",
+    "Activity": "Type 2 Diabetes:DNJ and miglitol inhibit intestinal α-glucosidase, reducing postprandial hyperglycemia"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugars",
+    "Mimic of which Protein/Carbohydrate": "galactose",
+    "Name of the Mimetic": "1-deoxygalactostatin",
+    "Functions": "1-deoxygalactostatin as one of the glycosidase inhibitors derived from a single molecule",
+    "Activity": "Diabetic Complications: Inhibits advanced glycation end-product (AGE) formation by targeting pathways involving 3-deoxyglucosone (3-DG), a precursor to AGEs linked to diabetic neuropathy, retinopathy, and nephropathy"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.8",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "inhibitor",
+    "Mimic of which Protein/Carbohydrate": "iminosugar",
+    "Name of the Mimetic": "N-butyl-deoxynojirimycin",
+    "Functions": "used for the treatment of type 1 Gaucher disease",
+    "Activity": "Type 2 Diabetes:DNJ and miglitol inhibit intestinal α-glucosidase, reducing postprandial hyperglycemia"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1039/C1OB05583F",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "d-fructose",
+    "Name of the Mimetic": "acyclic aminopolyols",
+    "Functions": "Acyclic aminopolyols function as carbohydrate mimetics used to enhance selectin binding properties. They are attached to gold colloids and sulfated to improve ligand-receptor interactions. These sulfated colloids exhibit strong selectin binding properties and no signs of cytotoxicity, serving as a valuable example of improved ligand-receptor interactions when presented multivalently",
+    "Activity": "Diabetes, Viral Infections, Cancer: Synthesized via biocatalytic amination of sugars, these compounds act as carbohydrate mimetics for diabetes management, antiviral therapies, and antitumor agents"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.2174/138955711793564060",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugars",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "1-deoxynojirimycin (DNJ)",
+    "Functions": "1-deoxynojirimycin (DNJ) functions as a glycosidase inhibitor. It is a stable and powerful inhibitor of both α- and β-glucosidases",
+    "Activity": "Diabetes: Inhibits α-glucosidase, reducing postprandial hyperglycemia"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1134/S1068162011060100",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "heparinoids",
+    "Name of the Mimetic": "dextran sulfate (DS)",
+    "Functions": "Dextran sulfate functions as an inhibitor of viral adhesion, specifically inhibiting the primary adsorption of viruses like HIV on the cell membrane, thus preventing the initial stage of infection. However, its practical use as a drug is limited due to low bioaccessibility and challenges in standardization and structural characterization",
+    "Activity": "Type 1 Diabetes (T1D): Preserves β-cell mass, reverses hyperglycemia in preclinical models"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.tetlet.2011.05.063",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "iminosugar",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "2-deoxynojirimycin",
+    "Functions": "2-Deoxynojirimycin (2-DNJ) is a mimic of glucose, specifically targeting enzymes involved in carbohydrate metabolism. It is a polyhydroxylated piperidine that structurally resembles the pyranose form of glucose, enabling it to act as a potent inhibitor of glycosidases, particularly α-glucosidase and other carbohydrate-processing enzymes.",
+    "Activity": "Type 2 Diabetes: Miglitol (a DNJ derivative) inhibits intestinal α-glucosidases, reducing postprandial hyperglycemia"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.tetlet.2011.05.063",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "iminosugar",
+    "Mimic of which Protein/Carbohydrate": "D-glucose",
+    "Name of the Mimetic": "Miglitol",
+    "Functions": "Miglitol, also known as N-hydroxyethyldeoxynojirimycin, is developed by Bayer and is used to treat type II diabetes. It functions through its strong inhibiting effect against alpha-glucosidase in the human body, which helps block the digestion of dietary carbohydrates into glucose",
+    "Activity": "Type 2 Diabetes: Slows carbohydrate digestion, improving glycemic control"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.actbio.2012.01.036",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide amphiphiles",
+    "Mimic of which Protein/Carbohydrate": "glucagon-like peptide 1-mimetic peptide amphiphiles",
+    "Name of the Mimetic": "Exendin-4",
+    "Functions": "used to create a biomaterial that forms a cell-encapsulating network of nanofibers under physiological conditions",
+    "Activity": "Stimulates insulin secretion, promotes β-cell proliferation, and protects against cytokine-induced cell death, Diabetes"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.actbio.2012.01.036",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide amphiphiles",
+    "Mimic of which Protein/Carbohydrate": "glucagon-like peptide 1-mimetic peptide amphiphiles",
+    "Name of the Mimetic": "Ser[2]exendin(1–9) with sequence HSEDTFTSD",
+    "Functions": "biomaterial that forms a cell-encapsulating network of nanofibers under physiological conditions",
+    "Activity": "enzymatic inactivation due to the substitution at the second residue., Diabetes"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/ejoc.201201413",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "maltose",
+    "Name of the Mimetic": "N-hydroxyethyl-1-deoxy-nojirimycin (Glyset)",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Used primarily in the treatment of Type 2 diabetes by inhibiting α-glucosidase, which slows carbohydrate absorption."
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/ejoc.201201413",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Glucitol (Sorbitol)",
+    "Name of the Mimetic": "1,5-Dideoxy-1,5-imino-D-glucitol",
+    "Functions": "Acts as a glycosidase inhibitor.",
+    "Activity": "Inhibits enzymes such as α-glucosidases, which are involved in the hydrolysis of glycosidic bonds in carbohydrates. This inhibition can help regulate blood sugar levels, making it useful in the management of diabetes and related metabolic disorders."
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/ejoc.201201413",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Lyxose",
+    "Name of the Mimetic": "1,5-Dideoxy-1,5-imino-D-lyxitol",
+    "Functions": "Acts as a glycosidase inhibitor.",
+    "Activity": "Inhibits glycosidases, which can affect carbohydrate metabolism. Its structural similarity to lyxose allows it to interfere with the enzymatic processes that normally act on this sugar, potentially providing therapeutic benefits in conditions related to carbohydrate metabolism."
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/ejoc.201201413",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Idohexose",
+    "Name of the Mimetic": "1-Deoxy-1-idonojirimycin (l-DIJ)",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Inhibits enzymes involved in carbohydrate metabolism, potentially useful in treating metabolic disorders."
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/ejoc.201201413",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Glucitol",
+    "Name of the Mimetic": "1,5,6-trideoxy-1,5-imino-D-glucitol",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Inhibits glycosidases, impacting carbohydrate metabolism."
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "DOI: 10.1248/yakushi.13-00054",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "α-1-C-alkyl-arabinoiminofuranoses",
+    "Mimic of which Protein/Carbohydrate": "Various carbohydrates",
+    "Name of the Mimetic": "α-1-C-alkyl-arabinoiminofuranoses",
+    "Functions": "Inhibitor of intestinal maltase and sucrase",
+    "Activity": "Showed potent inhibitory activities towards intestinal maltase, with IC50 values comparable to commercial drugs such as acarbose, voglibose, and miglitol,which are used in the treatment of type 2 diabetes"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/anie.201302543",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbocyclic analogue of sergliflozin",
+    "Mimic of which Protein/Carbohydrate": "Sergliflozin, which is a glucose analogue",
+    "Name of the Mimetic": "Pseudo-sergliflozin",
+    "Functions": "Acts as a selective inhibitor of the sodium-dependent glucose cotransporter 2 (SGLT2), responsible for glucose reabsorption in the kidneys.",
+    "Activity": "Pseudo-sergliflozin has a three-fold longer half-life and longer hypoglycemic action compared to sergliflozin-A (2b) in db/db mice, indicating its potential effectiveness as an antidiabetic agent"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/anie.201302543",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Original sergliflozin compound",
+    "Mimic of which Protein/Carbohydrate": "Glucose",
+    "Name of the Mimetic": "Sergliflozin-A",
+    "Functions": "Inhibitor of SGLT2, similar to pseudo-sergliflozin.",
+    "Activity": "Potential treatment for type 2 diabetes by increasing urinary glucose excretion and lowering blood glucose levels without causing hypoglycemia"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://link.springer.com/chapter/10.1007/7355_2014_50",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "miglitol",
+    "Functions": "Miglitol is used for the treatment of Type II diabetes and functions by inhibiting carbohydrate-processing enzymes, which helps to regulate blood sugar levels",
+    "Activity": "Inhibits alpha-glucosidase enzymes, delaying carbohydrate digestion and reducing postprandial hyperglycemia"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://link.springer.com/chapter/10.1007/7355_2014_50",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "moranoline",
+    "Functions": "Modulates the action of enzymes involved in carbohydrate synthesis and metabolism.",
+    "Activity": "Potential treatment for diabetes by inhibiting intestinal α-glucosidases, reducing postprandial glucose levels"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://link.springer.com/chapter/10.1007/7355_2014_50",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "fagomine",
+    "Functions": "Modulates the action of enzymes involved in carbohydrate synthesis and metabolism.",
+    "Activity": "Lowers postprandial blood glucose and modulates bacterial adhesion, potential for diabetes management and gut health"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/13543776.2014.916280",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amino Carbasugar",
+    "Mimic of which Protein/Carbohydrate": "D-Glucose",
+    "Name of the Mimetic": "Valienamine",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Inhibits α-glucosidases and is the active pharmacophore in acarbose, used to treat type 2 diabetes"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/13543776.2014.916280",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amino Carbasugar",
+    "Mimic of which Protein/Carbohydrate": "D-Glucose",
+    "Name of the Mimetic": "Acarbose",
+    "Functions": "α-Glucosidase inhibitor",
+    "Activity": "Used as an anti-diabetic drug to slow carbohydrate absorption in the intestine"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "http://dx.doi.org/10.1055/s-0034-1380201.",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "N-alkylated compounds",
+    "Mimic of which Protein/Carbohydrate": "Pyranose",
+    "Name of the Mimetic": "Secondary amine 9, obtained from the reaction of aminopyran with pentanal",
+    "Functions": "Potential glycosidase inhibitor",
+    "Activity": "May help in managing metabolic disorders like diabetes by regulating carbohydrate digestion"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "http://dx.doi.org/10.1055/s-0034-1380201.",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "N-alkylated compounds",
+    "Mimic of which Protein/Carbohydrate": "Pyranose",
+    "Name of the Mimetic": "Secondary amine 10, obtained from the reaction of aminopyran with benzaldehyde",
+    "Functions": "Potential glycosidase inhibitor",
+    "Activity": "May help in managing metabolic disorders like diabetes by regulating carbohydrate digestion"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "http://dx.doi.org/10.1055/s-0034-1380201.",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "N-alkylated compounds",
+    "Mimic of which Protein/Carbohydrate": "Pyranose",
+    "Name of the Mimetic": "Secondary amine 11, obtained from the reaction of aminopyran with 4-bromobenzaldehyde",
+    "Functions": "Potential glycosidase inhibitor",
+    "Activity": "May help in managing metabolic disorders like diabetes by regulating carbohydrate digestion"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1016/j.copbio.2014.11.016",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Synthetic Lectin",
+    "Mimic of which Protein/Carbohydrate": "Glucose and its epimers",
+    "Name of the Mimetic": "Boronic Acid-Based Receptors",
+    "Functions": "These receptors utilize boronate ester formation to bind carbohydrates.",
+    "Activity": "Potential applications in diabetes monitoring and management through selective glucose sensing. May also have uses in developing targeted drug delivery systems or diagnostic tools for diseases involving altered glucose levels or metabolism."
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-threo-hexopyranose",
+    "Name of the Mimetic": "2,3-dideoxy -2,2,3,3-tetrafluoro D -thereo hexopyranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-threo-hexofuranose",
+    "Name of the Mimetic": "2,3-dideoxy -2,2,3,3-tetrafluoro D -thereo hexofuranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-erythro-hexopyranose",
+    "Name of the Mimetic": "2,3-dideoxy -2,2,3,3-tetrafluoro D -erythro hexopyranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-threo-hexopyranose",
+    "Name of the Mimetic": "3,4-dideoxy -3,3,4,4-tetrafluoro D -threo hexopyranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-erythro-hexopyranose",
+    "Name of the Mimetic": "3,4-dideoxy -3,3,4,4-tetrafluoro D -erythro hexopyranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.drudis.2016.11.003",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "synthetic analog",
+    "Mimic of which Protein/Carbohydrate": "Vasopressin",
+    "Name of the Mimetic": "desmopressin",
+    "Functions": "mainly used to treat diabetes insipidus, nocturnal enuresis (bedwetting), and bleeding abnormalitie",
+    "Activity": "Regulates plasma osmolality, cardiovascular, and brain functions"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1016/j.drudis.2016.11.003",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "amylinomimetic",
+    "Mimic of which Protein/Carbohydrate": "amylin",
+    "Name of the Mimetic": "Pramlintide",
+    "Functions": "used to treat both type 1 and 2 diabetes mellitus (T1DM and T2DM)",
+    "Activity": "improves glycemic control by modulating the rate of gastric emptying, preventing postprandial rises in glucagonlevels, and increasing satiety, thereby reducing caloric intake and potentiating weight loss"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "Exenatide",
+    "Functions": "treatment for T2 diabetes",
+    "Activity": "Treatment for type 2 diabetes as a DPP-4 resistant GLP-1 mimetic"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "Liraglutide",
+    "Functions": "treatment for T2 diabetes",
+    "Activity": "Treatment for type 2 diabetes as a DPP-4 resistant GLP-1 mimetic"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "Lixisenatide",
+    "Functions": "treatment for T2 diabetes",
+    "Activity": "Treatment for type 2 diabetes as a DPP-4 resistant GLP-1 mimetic"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "Albiglutide",
+    "Functions": "treatment for T2 diabetes",
+    "Activity": "stimulate glucose-induced insulin secretion, suppress glucagon secretion and hepatic glucose production and delay gastric emptying"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "Dulaglutide",
+    "Functions": "phase III for T2 diabetes",
+    "Activity": "stimulate glucose-induced insulin secretion, suppress glucagon secretion and hepatic glucose production and delay gastric emptying"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "Semaglutide",
+    "Functions": "phase III for T2 diabetes",
+    "Activity": "stimulate glucose-induced insulin secretion, suppress glucagon secretion and hepatic glucose production and delay gastric emptying"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "HM11260C",
+    "Functions": "phase III for T2 diabetes",
+    "Activity": "stimulate glucose-induced insulin secretion, suppress glucagon secretion and hepatic glucose production and delay gastric emptying"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "LAPS-Exendin",
+    "Functions": "phase III for T2 diabetes",
+    "Activity": "stimulate glucose-induced insulin secretion, suppress glucagon secretion and hepatic glucose production and delay gastric emptying"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "NN9926",
+    "Functions": "phase I for T2 diabetes",
+    "Activity": "stimulate glucose-induced insulin secretion, suppress glucagon secretion and hepatic glucose production and delay gastric emptying"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "OG9S7GT",
+    "Functions": "phase I for T2 diabetes",
+    "Activity": "stimulate glucose-induced insulin secretion, suppress glucagon secretion and hepatic glucose production and delay gastric emptying"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "ZY0G1",
+    "Functions": "phase I for T2 diabetes and obesity",
+    "Activity": "stimulate glucose-induced insulin secretion, suppress glucagon secretion and hepatic glucose production and delay gastric emptying"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1039/C7OB00386B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Azetidine derivative",
+    "Mimic of which Protein/Carbohydrate": "Monosaccharides",
+    "Name of the Mimetic": "Bicyclic azetidine",
+    "Functions": "Amyloglucosidase inhibitor",
+    "Activity": "Potential treatment for diabetes by regulating carbohydrate digestion"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1080/1040841X.2016.1242868",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Deoxynojirimycin (DNJ)",
+    "Name of the Mimetic": "N-hydroxyethyldeoxynojirimycin (Miglitol)",
+    "Functions": "Inhibitor of glucosidases",
+    "Activity": "Used in the treatment of non-insulin-dependent diabetes"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1016/j.carres.2017.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Inositol Mimic",
+    "Mimic of which Protein/Carbohydrate": "L-rhamnopyranose",
+    "Name of the Mimetic": "D-pinitol",
+    "Functions": "Potential sugar substitute",
+    "Activity": "Potential applications in diabetes management due to its insulin-like effects and in treating polycystic ovary syndrome"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "http://doi.org/10.1371/journal.pone.0185653",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Insulin",
+    "Name of the Mimetic": "Synthetic Insulin Mimetics",
+    "Functions": "Designed to activate insulin receptors.",
+    "Activity": "They aim to replicate insulin's effects on glucose uptake and metabolism, potentially useful in diabetes management."
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "http://doi.org/10.1371/journal.pone.0185653",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Glucagon-like peptide-1 (GLP-1)",
+    "Name of the Mimetic": "GLP-1 analogs",
+    "Functions": "Enhances insulin secretion in response to meals.",
+    "Activity": "These mimetics improve glycemic control and promote weight loss in type 2 diabetes patients."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.3390/biomimetics4030055",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycan",
+    "Mimic of which Protein/Carbohydrate": "Transition state of glycosidic bond hydrolysis",
+    "Name of the Mimetic": "Iminoglycosides",
+    "Functions": "Used to inhibit glycosidases by mimicking the transition state of the enzymatic reaction.",
+    "Activity": "Binds to the active site of glycosidases with high affinity, preventing the enzyme from catalyzing the hydrolysis of glycosidic bonds."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.1002/med.21625",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "High-mannose glycan",
+    "Mimic of which Protein/Carbohydrate": "Manα(1,2)Man",
+    "Name of the Mimetic": "Carbamannose-based pseudodisaccharide (29)",
+    "Functions": "Similar to mannose-based glycomimetic antagonist (28) with enhanced affinity.",
+    "Activity": "Binds to DC-SIGN with low millimolar affinity"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.1002/med.21625",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Galactose",
+    "Mimic of which Protein/Carbohydrate": "Galactose",
+    "Name of the Mimetic": "Fluorocarbasugar (39)",
+    "Functions": "Improved leaving-group ability and slowed hydrolysis of the covalent intermediate.",
+    "Activity": "Inactivates α-galactosidase by covalent binding at the enzyme's active site​"
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/antiox10020292",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "α-glucosidase",
+    "Name of the Mimetic": "α-Glucosidase Inhibition",
+    "Functions": "The coumarins also inhibit α-glucosidase, an enzyme that breaks down carbohydrates.",
+    "Activity": "(+)-trans-decursidinol shows competitive inhibition, while Pd-C-I and Pd-C-II exhibit mixed-type inhibition, and Pd-C-III shows non-competitive inhibition"
+  }
+]

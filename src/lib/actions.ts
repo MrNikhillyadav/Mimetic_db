@@ -50,3 +50,68 @@ export async function getCarbohydrateDataLength(filters: Record<string, Conditio
 	const filteredData = await applyFilters(data, filters);
 	return filteredData.length;
 }
+
+export async function getCancerData(page: number = 1, filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/cancer.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	const pageData = await paginateData(filteredData, page);
+	return pageData;
+}
+
+export async function getCancerDataLength(filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/cancer.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	return filteredData.length;
+}
+
+export async function getDiabetesData(page: number = 1, filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/diabetes.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	const pageData = await paginateData(filteredData, page);
+	return pageData;
+}
+export async function getDiabetesDataLength(filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/diabetes.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	return filteredData.length;
+}
+
+export async function getCardiovascularDataLength(filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/cardiovascular.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	return filteredData.length;
+}
+
+export async function getCardiovascularData(page: number = 1, filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/cardiovascular.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	const pageData = await paginateData(filteredData, page);
+	return pageData;
+}
+
+export async function getInfectiousDataLength(filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/infectious.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	return filteredData.length;
+}
+
+export async function getInfectiousData(page: number = 1, filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/infectious.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	const pageData = await paginateData(filteredData, page);
+	return pageData;
+}
+
+export async function getInflammatoryDataLength(filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/inflammatory.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	return filteredData.length;
+}
+
+export async function getInflammatoryData(page: number = 1, filters: Record<string, Condition[]> = {}) {
+	const data = (await import("../data/inflammatory.json")).default;
+	const filteredData = await applyFilters(data, filters);
+	const pageData = await paginateData(filteredData, page);
+	return pageData;
+}
+

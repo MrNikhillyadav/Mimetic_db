@@ -105,10 +105,10 @@ export default function Navbar() {
 
           <Dropdown Label="Therapeutics Actions">
             <a href="/cancer">Cancer</a>
-            <a href="/cancer">Cardiovascular disease (CVD)</a>
+            <a href="/cardiovascular">Cardiovascular disease (CVD)</a>
             <a href="/diabetes">Diabetes</a>
-            <a href="/diabetes">Infections</a>
-            <a href="/diabetes">Inflammatory</a>
+            <a href="/infectious">Infectious</a>
+            <a href="/inflammatory">Inflammatory</a>
           </Dropdown>
 
           <a href="/about" className="hover:text-gray-300">

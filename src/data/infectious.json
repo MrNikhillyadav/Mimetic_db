@@ -1,0 +1,2292 @@
+[
+  {
+    "Paper Publish Year": 2004,
+    "DOI": "https://doi.org/10.1055/s-2005-868500",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosides",
+    "Mimic of which Protein/Carbohydrate": "β-O-glycoside",
+    "Name of the Mimetic": "b-C-Glycoconjugates",
+    "Functions": "β-C-Glycoconjugates combine the biological relevance of natural glycans with engineered stability, positioning them as critical tools in drug development, glycobiology research, and multivalent therapeutic design. Their resistance to degradation enables applications ranging from enzyme inhibition to advanced vaccine platforms",
+    "Activity": "Bacterial Infections: Multivalent β-C-glycoconjugates disrupt biofilm formation in E. coli (UTIs) and P. aeruginosa (lung infections) with nanomolar efficacy"
+  },
+  {
+    "Paper Publish Year": 2004,
+    "DOI": "https://doi.org/10.1055/s-2005-868500",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosides",
+    "Mimic of which Protein/Carbohydrate": "β-linked glycosphingolipids",
+    "Name of the Mimetic": "b-C-Ceramide Analog",
+    "Functions": "β-C-Ceramide analogs exploit ceramide’s apoptotic signaling while addressing limitations of natural ceramides. Their β-configuration and tailored substituents enhance mitochondrial targeting, enzyme modulation, and antimicrobial effects, positioning them as versatile agents in oncology and infectious disease.",
+    "Activity": "Antimicrobial Therapy: ω-Azido-C6-ceramide kills Neisseria meningitidis and N. gonorrhoeae within 2 hours (MBC = 4 µg/ml)"
+  },
+  {
+    "Paper Publish Year": 2005,
+    "DOI": "https://doi.org/10.1002/chem.200500025",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosides",
+    "Mimic of which Protein/Carbohydrate": "natural saccharides",
+    "Name of the Mimetic": "O-galactosyl aldoximes",
+    "Functions": "O-galactosyl aldoximes function as potent inhibitors of galectin-3",
+    "Activity": "Antiviral/Enzyme inhibition: Potential glycosidase inhibitors"
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "https://doi.org/10.1016/j.carres.2006.01.024",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycomimetics",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "nonavalent mannoside",
+    "Functions": "The function of nonavalent mannoside clusters is to serve as inhibitors of type 1 fimbriae-mediated bacterial adhesion, specifically targeting mannose-specific bacterial adhesion",
+    "Activity": "Bacterial infections: Blocks FimH adhesion in E. coli (e.g., urinary tract infections"
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "doi:10.2174/157017906778699530",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glucopyranose",
+    "Mimic of which Protein/Carbohydrate": "cyclopeptide tachykinin NK-2 antagonist",
+    "Name of the Mimetic": "2-deoxy-2-thio-D-glucopyranose",
+    "Functions": "2-deoxy-2-thio-D-glucopyranose is designed as a mimic of the cyclopeptide tachykinin NK-2 antagonist",
+    "Activity": "Antiviral/Diabetes: Thiosugar analog with potential for α-glucosidase inhibition"
+  },
+  {
+    "Paper Publish Year": 2006,
+    "DOI": "https://doi.org/10.1021/jo051989g",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "carbasugar",
+    "Mimic of which Protein/Carbohydrate": "pyranose",
+    "Name of the Mimetic": "cyclooctane-1,2,3-triols",
+    "Functions": "Glycosidase inhibitors",
+    "Activity": "Explored as intermediates for glycoconjugates with potential antiviral/anticancer activity."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1055/s-2007-984907",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "NA",
+    "Mimic of which Protein/Carbohydrate": "hexose sugars",
+    "Name of the Mimetic": "Enantiopure aminopyrans",
+    "Functions": "Enantiopure aminopyrans are regarded as carbohydrate mimetics and serve as building blocks for the synthesis of novel enantiopure amino acids with a carbohydrate-like backbone. They are used to generate a wide range of highly functionalized and diverse compounds with potential biological activity",
+    "Activity": "Anti-inflammatory Diseases: Aminopyrans derived from 1,2-oxazines (e.g., compounds 24, 28) act as carbohydrate mimetics and inhibit L- and P-selectins, proteins involved in inflammation. They show potential for treating inflammatory conditions like arthritis and vascular inflammation"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1055/s-2007-984907",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "NA",
+    "Mimic of which Protein/Carbohydrate": "D-xylose",
+    "Name of the Mimetic": "Triazoles",
+    "Functions": "Enantiopure aminopyrans are regarded as carbohydrate mimetics and serve as building blocks for the synthesis of novel enantiopure amino acids with a carbohydrate-like backbone. They are used to generate a wide range of highly functionalized and diverse compounds with potential biological activity",
+    "Activity": "Invasive Fungal Diseases (IFDs): Mold-active triazoles (e.g., voriconazole, posaconazole, isavuconazole) are used for prophylaxis and treatment of fungal infections like aspergillosis and candidiasis in immunocompromised patients"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1002/chem.200700787",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Oligomannoside mimetic",
+    "Mimic of which Protein/Carbohydrate": "trimannoside",
+    "Name of the Mimetic": "Methyl 3,6-di-O-(3-{a-d-mannopyranosyloxy}-propyl)-a-d-mannopyranoside",
+    "Functions": "Mimics oligosaccharides for inhibiting mannose-specific bacterial adhesion",
+    "Activity": "Urinary tract infections (UTIs): Inhibit E. coli binding to urothelial cells"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1002/chem.200700787",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Oligomannoside mimetic",
+    "Mimic of which Protein/Carbohydrate": "α-mannosylated carbohydrates",
+    "Name of the Mimetic": "Methyl 3,6-di-O-(3-{3,6-di-O-[3-(a-d-mannopyranosyloxy)-propyl]-a-dmannopyranosyloxy}-propyl)-a-d-mannopyranoside",
+    "Functions": "Mimics oligosaccharides for inhibiting mannose-specific bacterial adhesion",
+    "Activity": "Urinary tract infections (UTIs): Inhibit E. coli binding to urothelial cells"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1002/chem.200700787",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Oligomannoside mimetic",
+    "Mimic of which Protein/Carbohydrate": "trimannose core (Manα1-3[Manα1-6]Man)",
+    "Name of the Mimetic": "Methyl 3,6-di-O-(3-{3,6-di-O-[6-a-d-mannopyranosyloxy)-4-thiahexyl]-ad-mannopyranosyloxy}-propyl)-a-d-mannopyranoside",
+    "Functions": "Mimics oligosaccharides for inhibiting mannose-specific bacterial adhesion",
+    "Activity": "Urinary tract infections (UTIs): Inhibit E. coli binding to urothelial cells"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1002/chem.200700787",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Oligomannoside mimetic",
+    "Mimic of which Protein/Carbohydrate": "α-mannosylated carbohydrates",
+    "Name of the Mimetic": "Methyl 3,6-di-O-(6-{a-d-mannopyranosyloxy}-4-thiahexyl)-a-d-mannopyranoside",
+    "Functions": "Mimics oligosaccharides for inhibiting mannose-specific bacterial adhesion",
+    "Activity": "Urinary tract infections (UTIs): Inhibit E. coli binding to urothelial cells"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1002/chem.200700787",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Oligomannoside mimetic",
+    "Mimic of which Protein/Carbohydrate": "α(1→3)/α(1→6)-linked trimannose",
+    "Name of the Mimetic": "Methyl 3,6-di-O-(6-{3,6-di-O-[6-(a-d-mannopyranosyloxy)-4-thiahexyl]- a-d-mannopyranosyloxy}-4-thiahexyl)-a-d-mannopyranoside",
+    "Functions": "Mimics oligosaccharides for inhibiting mannose-specific bacterial adhesion",
+    "Activity": "Urinary tract infections (UTIs): Inhibit E. coli binding to urothelial cells"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1002/chem.200700787",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Oligomannoside mimetic",
+    "Mimic of which Protein/Carbohydrate": "α-mannose glycans",
+    "Name of the Mimetic": "Methyl 3,6-di-O-(6-{3,6-di-O-[6-(a-d-mannopyranosyloxy)-4,4-dioxo-4- thiahexyl]-a-d-mannopyranosyloxy}-4,4-dioxo-4-thiahexyl)-a-d-mannopyranoside",
+    "Functions": "Mimics oligosaccharides for inhibiting mannose-specific bacterial adhesion",
+    "Activity": "Urinary tract infections (UTIs): Inhibit E. coli binding to urothelial cells"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.2174/138161207779313678",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "YRY – the peptide 911",
+    "Functions": "inhibit binding of gp120 to dendritic cells",
+    "Activity": "HIV-1 Infection:Mimics HIV gp120 glycans to elicit cross-reactive antibodies. Used in vaccine development to neutralize viral entry and enhance immune recognition"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.2174/138161207779313678",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "cyclic form",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "YRY –cyclic form D002",
+    "Functions": "inhibit binding of gp120 to dendritic cells",
+    "Activity": "HIV-1 Infection:Mimics HIV gp120 glycans to elicit cross-reactive antibodies. Used in vaccine development to neutralize viral entry and enhance immune recognition"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.2174/138161207779313678",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "cyclic peptide",
+    "Mimic of which Protein/Carbohydrate": "3-sulfoglucuronyl β1-3-galactoside",
+    "Name of the Mimetic": "D002 (RGGLCYCRYRYCVCGR)",
+    "Functions": "mimic based on the YRY motif",
+    "Activity": "Antimicrobial Therapy:Disrupts bacterial membranes (e.g., Pseudomonas aeruginosa) via amphipathic design, reducing biofilm formation"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.2174/138161207779313678",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "linear",
+    "Mimic of which Protein/Carbohydrate": "sialylated or sulfated carbohydrate epitopes",
+    "Name of the Mimetic": "912 (YRYRYGRYRSGS)",
+    "Functions": "mimics based on the YRY motif",
+    "Activity": "UTIs: Prevents E. coli biofilm formation"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.carres.2007.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amido-based mimetic",
+    "Mimic of which Protein/Carbohydrate": "β-Galactose",
+    "Name of the Mimetic": "1-Deoxy-1-(3,5-dimethoxybenzamido)-β-D-mannopyranose",
+    "Functions": "Galectin inhibitor",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.carres.2007.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amido-based mimetic",
+    "Mimic of which Protein/Carbohydrate": "β-Galactose",
+    "Name of the Mimetic": "1-Deoxy-1-(2-naphthamido)-β-D-mannopyranose",
+    "Functions": "Galectin inhibitor",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.carres.2007.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amido-based mimetic",
+    "Mimic of which Protein/Carbohydrate": "β-Galactose",
+    "Name of the Mimetic": "1-Deoxy-1-[4-methoxycarbonyl-1H-(1,2,3)-triazol-1-yl]-β-D-mannopyranose",
+    "Functions": "Galectin inhibitor",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.carres.2007.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amido-based mimetic",
+    "Mimic of which Protein/Carbohydrate": "β-Galactose",
+    "Name of the Mimetic": "1-Deoxy-1-[4-methylaminocarbonyl-1H-(1,2,3)-triazol-1-yl]-β-D-mannopyranose",
+    "Functions": "Galectin inhibitor",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.carres.2007.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amido-based mimetic",
+    "Mimic of which Protein/Carbohydrate": "β-Galactose",
+    "Name of the Mimetic": "1-Deoxy-1-[4-ethylaminocarbonyl-1H-(1,2,3)-triazol-1-yl]-β-D-mannopyranose",
+    "Functions": "Galectin inhibitor",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.carres.2007.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amido-based mimetic",
+    "Mimic of which Protein/Carbohydrate": "β-Galactose",
+    "Name of the Mimetic": "1-Deoxy-1-[4-propylaminocarbonyl-1H-(1,2,3)-triazol-1-yl]-β-D-mannopyranose",
+    "Functions": "Galectin inhibitor",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.carres.2007.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amido-based mimetic",
+    "Mimic of which Protein/Carbohydrate": "β-Galactose",
+    "Name of the Mimetic": "1-[4-Butylaminocarbonyl-1H-(1,2,3)-triazol-1-yl]-1-deoxy-β-D-mannopyranose",
+    "Functions": "Galectin inhibitor",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.carres.2007.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amido-based mimetic",
+    "Mimic of which Protein/Carbohydrate": "β-Galactose",
+    "Name of the Mimetic": "1-Deoxy-1-[4-(2-Hydroxypropyl)-aminocarbonyl-1H-(1,2,3)-triazol-1-yl]-β-D-mannopyranose",
+    "Functions": "Galectin inhibitor",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1016/j.carres.2007.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Amido-based mimetic",
+    "Mimic of which Protein/Carbohydrate": "β-Galactose",
+    "Name of the Mimetic": "1-[4-Benzylaminocarbonyl-1H-(1,2,3)-triazol-1-yl]-1-deoxy-β-D-mannopyranose",
+    "Functions": "Galectin inhibitor",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1039/b710425a",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "α-helices peptides",
+    "Name of the Mimetic": "Hydrazone-linked peptides",
+    "Functions": "To stabilize α-helical structures by replacing the N-terminal i and i + 4 hydrogen bond with a covalent link",
+    "Activity": "Forms well-defined short α-helices with minimal perturbations to molecular recognition surfaces."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1039/b710425a",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "TTTT(Type I antifreeze proteins (AFPs))",
+    "Name of the Mimetic": "15-residue peptide with a single Thr repeat and i, i + 4 lactam bridge",
+    "Functions": "Stabilizes a pyramidal plane on the surface of growing ice crystals.",
+    "Activity": "Shows potential antifreeze activity, but not as effective as TTTT."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1039/b710425a",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "TTTT(Type I antifreeze proteins (AFPs))",
+    "Name of the Mimetic": "Ala-rich peptides with spaced Lys residues",
+    "Functions": "Exhibits antifreeze activity.",
+    "Activity": "Weaker antifreeze activity compared to TTTT."
+  },
+  {
+    "Paper Publish Year": 2007,
+    "DOI": "https://doi.org/10.1128/aac.00208-07",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "melittin and lactoferricin.",
+    "Name of the Mimetic": "meta-phenylene ethynylene",
+    "Functions": "use as therapeutic anti-infectives in the treatment of oral infectious diseases",
+    "Activity": "rapid activity against several prolific oral pathogens and efficacy in treating oral biofilms,  activity against other biofilm sources is\nwarranted, as its efficacy may extend to other commercial applications"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.carres.2008.04.015",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Cluster Glycoside Mimetic",
+    "Mimic of which Protein/Carbohydrate": "Mannose",
+    "Name of the Mimetic": "Unprotected clustermannoside",
+    "Functions": "Scaffold for trivalent glycocluster",
+    "Activity": "Urinary Tract Infections (UTIs):Inhibits FimH-mediated bacterial adhesion in E. coli, preventing bladder colonization"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.carres.2008.09.002",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycolipid Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GM3 (ganglioside)",
+    "Name of the Mimetic": "2-aminododecyl (5-acetamido-4,7,8,9-tetra-O-acetyl-3,5-dideoxy-D-glyceroa-D-galacto-2-nonulopyranosyl)onate-(2?3)-2,4,6-tri-O-acetyl-bD-galactopyranosyl-(1?4)-2,3,6-tri-O-acetyl-b-D-glucopyranoside",
+    "Functions": "Mimics the lyso-GM3 structure, binds to epidermal growth factor receptor (EGFR)",
+    "Activity": "Influenza:These glycosides mimic sialic acid and inhibit viral neuraminidases, blocking viral release and reducing infection severity"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.drudis.2008.07.008",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "b-hairpin loops",
+    "Mimic of which Protein/Carbohydrate": "antibody Fab fragments",
+    "Name of the Mimetic": "Z-domain of Staphylococcus aureus protein A",
+    "Functions": "Designed to mimic the structural conformation of the L3 canonical loop in antibodies",
+    "Activity": "structural mimetic exhibited stable hairpin conformation"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.drudis.2008.07.008",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "erythropoietin (EPO)",
+    "Name of the Mimetic": "Z-domain of Staphylococcus aureus protein A",
+    "Functions": "activates EPO receptor",
+    "Activity": "binds to EPO receptor"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.drudis.2008.07.008",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "b-hairpin peptide mimetics",
+    "Mimic of which Protein/Carbohydrate": "p53",
+    "Name of the Mimetic": "Z-domain of Staphylococcus aureus protein A",
+    "Functions": "Mimics the a-helical epitope of p53",
+    "Activity": "binds to HDM2 with KD of 25 nM"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2008.09.023",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Receptor mimetic",
+    "Mimic of which Protein/Carbohydrate": "G-protein coupled receptor CRF1",
+    "Name of the Mimetic": "Z-domain of Staphylococcus aureus protein A",
+    "Functions": "The mimetic presents the N-terminus and three extracellular loops of CRF1, demonstrating specific recognition of the ligand",
+    "Activity": "Recognizes and binds to the CRF1 ligand urocortin"
+  },
+  {
+    "Paper Publish Year": 2008,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2008.09.023",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "binding site mimetic",
+    "Mimic of which Protein/Carbohydrate": "gp120",
+    "Name of the Mimetic": "Synthetic CD4-binding site mimetic",
+    "Functions": "Designed to mimic the CD4-binding site of gp120",
+    "Activity": "Antibodies raised against this mimetic recognize the gp120, compete with the broadly neutralizing antibody mAb b12, whose epitope overlaps the CD4-binding site, for binding to gp120"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://www.nature.com/articles/nrd2852.pdf",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycomimetic",
+    "Mimic of which Protein/Carbohydrate": "sialic acid",
+    "Name of the Mimetic": "Zanamivir (Relenza)",
+    "Functions": "Zanamivir functions as an inhibitor of viral neuraminidases, which is used for the prevention of influenza virus infections",
+    "Activity": "Influenza: Neuraminidase inhibitors preventing viral release"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://www.nature.com/articles/nrd2852.pdf",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycomimetic",
+    "Mimic of which Protein/Carbohydrate": "sialic acid",
+    "Name of the Mimetic": "Oseltamivir phosphate (Tamiflu)",
+    "Functions": "Oseltamivir phosphate (Tamiflu) functions as an inhibitor of viral neuraminidases, which is used for the treatment of influenza virus infections",
+    "Activity": "Influenza: Neuraminidase inhibitors preventing viral release"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900945",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycosides",
+    "Mimic of which Protein/Carbohydrate": "pyranose",
+    "Name of the Mimetic": "di-O-isopropylidene-glucose",
+    "Functions": "Di-O-isopropylidene-glucose is used as a starting material for the synthesis of glycoaminoxy acids, which are a novel type of sugar building blocks and oligosaccharide mimetics. It is chosen for its ready availability and low cost, and it allows for the introduction of functional groups necessary for further chemical transformations",
+    "Activity": "Protected sugars used to develop glycan-based drugs (e.g., antiviral agents)"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900945",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "imino sugar derivative",
+    "Mimic of which Protein/Carbohydrate": "D-Ribose",
+    "Name of the Mimetic": "D-ribofuranoid glycoaminoxy acid",
+    "Functions": "D-ribofuranoid glycoaminoxy acid functions as a novel sugar building block and oligosaccharide mimetic. It is used in the synthesis of homo-oligomers, which are oligosaccharide mimetics",
+    "Activity": "Antiviral Drug Design:scaffolds for neuraminidase inhibitors (e.g., zanamivir) and nucleoside analogs."
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900945",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "glycoside",
+    "Mimic of which Protein/Carbohydrate": "oligosaccharide",
+    "Name of the Mimetic": "di-O-isopropylidene-D-glucose",
+    "Functions": "Di-O-isopropylidene-D-glucose serves as a versatile synthetic intermediate in carbohydrate chemistry, primarily functioning as a protected glucose derivative with strategic hydroxyl group masking.",
+    "Activity": "Antibiotic Production:Key intermediate in synthesizing cephalosporins and penicillins, used to treat bacterial infections"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "ApoA-I",
+    "Name of the Mimetic": "18A",
+    "Functions": "Mimics the amphipathic helix of ApoA-I",
+    "Activity": "contained 18 amino acids and formed a class A amphipathic helix."
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "ApoA-I",
+    "Name of the Mimetic": "3F14",
+    "Functions": "did not reduce lesion area in apoE-null mice.",
+    "Activity": "Ineffective in scavenging lipid hydroperoxides; did not reduce lesion area in apoE-null mice."
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1161/ATVBAHA.109.187518",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "ApoA-I",
+    "Name of the Mimetic": "3F-2",
+    "Functions": "gnificantly reduced lesion area in apoE-null mice",
+    "Activity": "gnificantly reduced lesion area in apoE-null mice"
+  },
+  {
+    "Paper Publish Year": 2009,
+    "DOI": "https://doi.org/10.1002/ejoc.200900599",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Proline Analogues",
+    "Mimic of which Protein/Carbohydrate": "collagen",
+    "Name of the Mimetic": "trans-4-hydroxy-L-proline",
+    "Functions": "found in human urine as a result of collagen metabolism",
+    "Activity": "Trans-4-hydroxy-L-proline is a multifunctional imino acid critical for collagen integrity, cellular signaling, stress adaptation, and biomedical applications."
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1517/17460441.2010.497811",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "iminosugar",
+    "Mimic of which Protein/Carbohydrate": "- α-D-Glucopyranose",
+    "Name of the Mimetic": "Validamycin A",
+    "Functions": "a non-systemic antibiotic with fungicide action produced from the fermentation of Streptomyces hygroscopicus subspecies limoneus",
+    "Activity": "Antifungal agent against rice sheath blight (Rhizoctonia solani)"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/j.bmc.2010.08.027",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "miscellanous",
+    "Mimic of which Protein/Carbohydrate": "glucose,mannose",
+    "Name of the Mimetic": "sialic acid",
+    "Functions": "Carbohydrate mimetics are designed to mimic the structure and function of carbohydrates, often to improve pharmacokinetic properties and binding affinities. In the context of the document, a non-carbohydrate mimic was synthesized to act as an antagonist of the myelin-associated glycoprotein (MAG), which is involved in blocking the regeneration of neurite injuries. The goal was to address pharmacokinetic issues such as metabolic stability while maintaining or improving binding affinity to the target protein",
+    "Activity": "Influenza (via neuraminidase inhibitors like oseltamivir and zanamivir)"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Thioglycosides",
+    "Mimic of which Protein/Carbohydrate": "sialic acid",
+    "Name of the Mimetic": "Thiosialosides",
+    "Functions": "Thiosialosides are used as probes for sialic acid recognizing proteins and have been evaluated for their ability to inhibit influenza virus neuraminidase",
+    "Activity": "Influenza:Bifunctional thiosialosides inhibit viral neuraminidase (NA), preventing viral release. They show nanomolar efficacy against H1N1 and H3N2 strains"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Thioglycosides",
+    "Mimic of which Protein/Carbohydrate": "sialic acid",
+    "Name of the Mimetic": "Thiogangliosides",
+    "Functions": "Thiogangliosides have been evaluated for their ability to inhibit influenza virus neuraminidase",
+    "Activity": "Influenza:Bifunctional thiosialosides inhibit viral neuraminidase (NA), preventing viral release. They show nanomolar efficacy against H1N1 and H3N2 strains"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Thioglycosides",
+    "Mimic of which Protein/Carbohydrate": "sialic acid",
+    "Name of the Mimetic": "Polymeric thiosialosides",
+    "Functions": "Polymeric thiosialosides have been evaluated for their ability to inhibit influenza virus neuraminidase",
+    "Activity": "Influenza:Bifunctional thiosialosides inhibit viral neuraminidase (NA), preventing viral release. They show nanomolar efficacy against H1N1 and H3N2 strains"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Thioglycosides",
+    "Mimic of which Protein/Carbohydrate": "galactofuranosides",
+    "Name of the Mimetic": "Galactofuranosyl alkyl thioglycosides",
+    "Functions": "Galactofuranosyl alkyl thioglycosides function as inhibitors of mycobacterial growth, specifically targeting Mycobacterium smegmatis. They are of interest as potential tuberculosis therapeutics due to their ability to mimic the structural characteristics of galactofuranosides, which are essential components of the mycobacterial cell wall",
+    "Activity": "Bacterial Infections:Target pathogens with galactofuranose-containing glycans (e.g., Mycobacterium tuberculosis) by inhibiting cell wall synthesis"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "carbasugars",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "Cyclitol epoxide",
+    "Functions": "Cyclitol epoxide functions as a carbasugar analogue of D-glucose and is one of the most potent and specific competitive inhibitors of almond and Molt-4 lysate β-glucosidases",
+    "Activity": "Antiviral/Metabolic Disorders:Acts as a glycosidase inhibitor, potentially targeting viral entry or carbohydrate metabolism pathways (similar to DNJ)"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/B978-0-12-374546-0.00047-X",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "miscellanous",
+    "Mimic of which Protein/Carbohydrate": "sialosyl cation",
+    "Name of the Mimetic": "Relenza",
+    "Functions": "Relenza functions as an anti-influenza drug. It was designed by detailed analysis of the catalytic site within influenza virus neuraminidase and is known for its inhibitory activity against this enzyme",
+    "Activity": "Influenza A/B:Neuraminidase inhibitor used for treatment (within 48 hours of symptom onset) and prophylaxis. Reduces symptom duration and transmission risk"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.8",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "inhibitor",
+    "Mimic of which Protein/Carbohydrate": "glucosidase",
+    "Name of the Mimetic": "zanamivir",
+    "Functions": "Acts as an anti-influenza drug",
+    "Activity": "Influenza A/B: Neuraminidase inhibitors that reduce viral replication. Effective if administered within 48 hours of symptom onse"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.8",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "inhibitor",
+    "Mimic of which Protein/Carbohydrate": "glucosidase",
+    "Name of the Mimetic": "oseltamivir",
+    "Functions": "Acts as an anti-influenza drug",
+    "Activity": "Influenza A/B: Neuraminidase inhibitors that reduce viral replication. Effective if administered within 48 hours of symptom onse"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2010.07.017",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic receptor",
+    "Mimic of which Protein/Carbohydrate": "Mutant p53 (p53-R337H)",
+    "Name of the Mimetic": "amphiphilic calixarenes embedded in chromatic phospholipid/polydiacetylene (PDA) vesicles",
+    "Functions": "Induces changes in vesicle absorption spectra",
+    "Activity": "Multivalent interactions"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2010.07.017",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic polymer",
+    "Mimic of which Protein/Carbohydrate": "various",
+    "Name of the Mimetic": "Fluorescence quenching upon binding",
+    "Functions": "Protein recognition",
+    "Activity": "Monitoring emission of fluorescently labeled proteins"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.4155/fmc.10.259",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide-based drug",
+    "Mimic of which Protein/Carbohydrate": "C-terminal heptad repeat 2 (HR2) region of the HIV-1 gp41 envelope glycoprotein",
+    "Name of the Mimetic": "Fuzeon® (enfuvirtide)",
+    "Functions": "HIV fusion inhibitor",
+    "Activity": "Binds to gp41, prevents HIV from fusing with CD4+ cells, used in cases of drug-resistant HIV strains."
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1126/science.1182749",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic Antibiotics",
+    "Mimic of which Protein/Carbohydrate": "PG1",
+    "Name of the Mimetic": "L27-11",
+    "Functions": "spectrum of antimicrobial activity, including minimal inhibitory concentrations (MICs) in the nanomolar range against many Pseudomonas aeruginosa (PA) strains and other Pseudomonas spp.",
+    "Activity": "weakly active or inactive against other Grampositive and Gram-negative bacteria"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1126/science.1182749",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic Antibiotics",
+    "Mimic of which Protein/Carbohydrate": "PG1",
+    "Name of the Mimetic": "L26-19",
+    "Functions": "No fluorescence increase was apparent over 120 min when PA cells were exposed to it",
+    "Activity": "no notable lysis of human red blood cells at concentrations up to 100 mg/ml"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1126/science.1182749",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic Antibiotics",
+    "Mimic of which Protein/Carbohydrate": "β-hairpin loop of protegrin I (PG-1)",
+    "Name of the Mimetic": "POL7001",
+    "Functions": "mproved plasma half-lives while retaining a potent and selective action against PA",
+    "Activity": "substantial activity against both strains with calculated median effective doses"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1126/science.1182749",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic Antibiotics",
+    "Mimic of which Protein/Carbohydrate": "β-hairpin structure of protegrin I",
+    "Name of the Mimetic": "POL7080",
+    "Functions": "mproved plasma half-lives while retaining a potent and selective action against PA",
+    "Activity": "substantial activity against both strains with calculated median effective doses"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1016/j.addr.2010.04.007",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "elastin-mimetic triblock copolymer",
+    "Mimic of which Protein/Carbohydrate": "elastin",
+    "Name of the Mimetic": "LysB10",
+    "Functions": "Designed for drug delivery and biomedical applications",
+    "Activity": "Exhibits elastomeric behavior when chemically cross-linked <br> - Designed for enhanced mechanical properties and potential for drug delivery"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1111/j.2041-1014.2010.00590.x",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "antimicrobial peptides (AMPs)",
+    "Name of the Mimetic": "mPE (PMX70004)",
+    "Functions": "resulted in a significant reduction of viable C. albicans in this model of Candida infection",
+    "Activity": "exhibited MIC values below 8 lg ml)1, exhibits the most rapid killing,\nwith a three-log reduction in CFU after 1–5 min at\n50 lg ml)1,  incubated with\nC. albicans hyphae, no viable cells were visible at\nconcentrations higher than 32 lg ml)1 after a 24-h\nincubation, indicating that the compound could also kill cells in this form.\n."
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1111/j.2041-1014.2010.00590.x",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "antimicrobial peptides (AMPs)",
+    "Name of the Mimetic": "PMX30016",
+    "Functions": "no reduction in CFU was observed by 10 min, significant reduction of viable C. albicans in this model of\nCandida infection",
+    "Activity": "exhibited MIC values below 8 lg ml)1"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1111/j.2041-1014.2010.00590.x",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "antimicrobial peptides (AMPs)",
+    "Name of the Mimetic": "PMX000519",
+    "Functions": "PMX000519 is classified as a synthetic antimicrobial peptide (AMP) mimetic, designed to replicate the structure and function of natural antimicrobial peptides",
+    "Activity": "exhibited MIC values below 8 lg ml)1"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1111/j.2041-1014.2010.00590.x",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "antimicrobial peptides (AMPs)",
+    "Name of the Mimetic": "PMX10149",
+    "Functions": "PMX10149 is a synthetic AMP mimetic with potent antifungal activity against C. albicans, including biofilm-associated infections. Its membrane-targeting mechanism avoids resistance development and enables rapid fungicidal action, making it a promising candidate for treating resistant fungal infections.",
+    "Activity": "exhibited MIC values below 8 lg ml)1"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1073/pnas.1004261107",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "soluble trimeric peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "NHR region of the prehairpin intermediate- gp41",
+    "Name of the Mimetic": "IQN17",
+    "Functions": "mimicks NHR\nregion of the prehairpin intermediate",
+    "Activity": "NHR-binding inhibitors of HIV-1 infection using mirror image phage display, providing strong evidence that IQN17 presents the NHR region in the same structure as is present in the actual prehairpin intermediate"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1073/pnas.1004261107",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "peptide",
+    "Mimic of which Protein/Carbohydrate": "NHR trimer- gp41",
+    "Name of the Mimetic": "IZN36",
+    "Functions": "selection agents with a single-chain antibody variable region (scFv) phage-display library",
+    "Activity": "IZN36 is a synthetic peptide-based HIV-1 fusion inhibitor designed to block the entry of the virus into host cells by targeting the gp41 protein, a key component of the viral envelope that mediates membrane fusion."
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1073/pnas.1004261107",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "chimeric",
+    "Mimic of which Protein/Carbohydrate": "gp41",
+    "Name of the Mimetic": "IZN17",
+    "Functions": "Immunogen",
+    "Activity": "dependent on self-association"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1073/pnas.1004261107",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide",
+    "Mimic of which Protein/Carbohydrate": "gp41",
+    "Name of the Mimetic": "(CCIZN17)3",
+    "Functions": "peptide is potentially a better immunogen than IZN17,",
+    "Activity": "trimeric state of the peptide is not dependent on self-association as for IZN17, and the conformational epitope within the hydrophobic pocket is therefore expected to be present even at the highly diluted concentrations resulting from vaccination"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1073/pnas.1004261107",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide",
+    "Mimic of which Protein/Carbohydrate": "gp41",
+    "Name of the Mimetic": "(CCIPN17)3",
+    "Functions": "to shield the IZ scaffold from immune recognition in an attempt to minimize generation of antibodies against the nonrelevant portion of the peptide chimera, and subsequently focus the immune response against the NHR region. T",
+    "Activity": "binds D5 with an efficiency similar to (CCIZN17)3"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1073/pnas.1004261107",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide",
+    "Mimic of which Protein/Carbohydrate": "gp41",
+    "Name of the Mimetic": "(CCIZN36)3",
+    "Functions": "Peptide mimetics of a longer segment of the NHR",
+    "Activity": "elicit neutralizing antibody responses that can be detected in unfractionated serum from guinea pigs. T"
+  },
+  {
+    "Paper Publish Year": 2010,
+    "DOI": "https://doi.org/10.1073/pnas.1004261107",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide",
+    "Mimic of which Protein/Carbohydrate": "gp41",
+    "Name of the Mimetic": "(CCIPN36)3",
+    "Functions": "Peptide mimetics of a longer segment of the NHR",
+    "Activity": "elicit neutralizing antibody responses that can be detected in unfractionated serum from guinea pigs. T"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1039/C1OB05583F",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "pyranose",
+    "Name of the Mimetic": "monocyclic aminopyrans",
+    "Functions": "Monocyclic aminopyrans function as carbohydrate mimetics used to enhance the binding affinities of gold colloids by converting their hydroxyl groups into sulfate functionalities. They are used to study the binding properties of sulfated epitopes with different configurations and substitution patterns, particularly in relation to their interaction with selectins",
+    "Activity": "Antimicrobial/Anticancer: Structural analogs of imidazoles targeting kinases or microbial enzymes"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1039/C1OB05583F",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mixed-Type Oligosaccharides",
+    "Mimic of which Protein/Carbohydrate": "d-fructose",
+    "Name of the Mimetic": "acyclic aminopolyols",
+    "Functions": "Acyclic aminopolyols function as carbohydrate mimetics used to enhance selectin binding properties. They are attached to gold colloids and sulfated to improve ligand-receptor interactions. These sulfated colloids exhibit strong selectin binding properties and no signs of cytotoxicity, serving as a valuable example of improved ligand-receptor interactions when presented multivalently",
+    "Activity": "Diabetes, Viral Infections, Cancer: Synthesized via biocatalytic amination of sugars, these compounds act as carbohydrate mimetics for diabetes management, antiviral therapies, and antitumor agents"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.2174/138955711793564060",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugars",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "nojirimycin",
+    "Functions": "Nojirimycin functions as a glycosidase inhibitor. It has shown inhibitory activity towards both α- and β-glucosidases",
+    "Activity": "Bacterial Infections: Inhibits Xanthomonas oryzae, Shigella flexneri, and Mycobacterium smegmatis"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.2174/138955711793564060",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugars",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "α-Homonojirimycin",
+    "Functions": "α-Homonojirimycin functions as a potent glycosidase inhibitor",
+    "Activity": "Antiviral Research: Inhibits viral replication (e.g., HIV) and modulates glycosylation pathways"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1134/S1068162011060100",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Miscellanous",
+    "Mimic of which Protein/Carbohydrate": "heparinoids",
+    "Name of the Mimetic": "Sulfated bisamide",
+    "Functions": "Sulfated bisamide of aldonic acid (186) is ascribed to this type of compound (Scheme 29). At first com pound (186) was supposed to be used as an antithrom botic drug [55, 56] and was synthesized in four stages from lactobionic acid (185), which was primarily transformed into bisamide with 1,3propanediamine using the cationexchange resin LewatitS100, and then was subjected to exhaustive sulfation with the complex Py ⋅ SO3 to form hexadecasulfate (186). This compound manifested relatively high anticoagulant activity, presumably inhibiting thrombin in a complex with heparin cofactor II (HCII).",
+    "Activity": "Antimicrobial: Mimic glycopeptides to target bacterial cell walls"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.bbamem.2011.03.016",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Membrane protein mimetic",
+    "Mimic of which Protein/Carbohydrate": "Mitochondrial complex I, human GPCRs (BLT1 and BLT2), bacterial outer membrane proteins (OmpA and OmpX), bacteriorhodopsin, SR calcium ATPase, nicotinic acetylcholine receptor",
+    "Name of the Mimetic": "Amphipols",
+    "Functions": "Short amphipathic polymers that stabilize membrane proteins in aqueous solutions without disrupting their structure.",
+    "Activity": "Maintains protein solubility and activity, facilitating NMR studies with improved folding yields compared to detergents."
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.bbamem.2011.03.016",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Membrane protein mimetic",
+    "Mimic of which Protein/Carbohydrate": "Potassium channel KcsA, lipid-anchored proteins (e.g., recoverin, HIV-1 matrix protein)",
+    "Name of the Mimetic": "Reverse Micelles",
+    "Functions": "Encapsulates proteins in a non-polar environment while retaining hydration.",
+    "Activity": "Used for studying proteins that require a low-viscosity environment, although they may not fully replicate native conditions."
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.bbamem.2011.03.016",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Membrane protein mimetic",
+    "Mimic of which Protein/Carbohydrate": "Various transmembrane proteins, including EGF receptor, bacteriorhodopsin, magainin, protegrin, Influenza M2 channel, and others",
+    "Name of the Mimetic": "Multilamellar Vesicles",
+    "Functions": "Mimics cellular membranes with multiple lipid bilayers.",
+    "Activity": "Suitable for solid-state NMR studies, providing a concentrated lipid environment for embedded proteins."
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2011.02.015",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "CAMP Mimetics- Cyclic cationic peptide",
+    "Mimic of which Protein/Carbohydrate": "β-turn regions (containing D-Phe-Pro residues)",
+    "Name of the Mimetic": "Gramicidin S",
+    "Functions": "hemolytic properties",
+    "Activity": "Antimicrobial activity"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2011.02.015",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "CAMP Mimetics- Cyclic cationic peptide",
+    "Mimic of which Protein/Carbohydrate": "NA",
+    "Name of the Mimetic": "Tyrocidine",
+    "Functions": "hemolytic properties",
+    "Activity": "Antimicrobial activity"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2011.02.015",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "b-hairpin peptidomimetic",
+    "Mimic of which Protein/Carbohydrate": "LptD (OstA/Imp)",
+    "Name of the Mimetic": "L27-11",
+    "Functions": "Inhibition of LPS transport",
+    "Activity": "Non-lytic, potent antimicrobial activity in the nanomolar range against Gram-negative bacteria (Pseudomonas sp)"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.1016/j.cbpa.2011.02.015",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "b-hairpin peptidomimetic",
+    "Mimic of which Protein/Carbohydrate": "LptD (OstA/Imp)",
+    "Name of the Mimetic": "POL7001",
+    "Functions": "Inhibition of LPS transport",
+    "Activity": "Non-lytic, potent antimicrobial activity in the nanomolar range against Gram-negative bacteria (Pseudomonas sp)"
+  },
+  {
+    "Paper Publish Year": 2011,
+    "DOI": "https://doi.org/10.4049/jimmunol.1002847",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptide Mimetic",
+    "Mimic of which Protein/Carbohydrate": "Apolipoprotein E (apoE)",
+    "Name of the Mimetic": "COG1410",
+    "Functions": "Immunomodulatory",
+    "Activity": "Reduces TNF-a production; activates PP2A; inhibits NF-kB pathway; enhances PP2A activity in vivo."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://dx.doi.org/10.2174/138955712803832690",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycomimetic",
+    "Mimic of which Protein/Carbohydrate": "1,2-mannobioside",
+    "Name of the Mimetic": "Pseudo-1,2-mannobioside+F2:F155",
+    "Functions": "Pseudo-1,2-mannobioside  acts as a mimic of \na reducing end mannose residue and features a spacer-arm \nterminated with azido or amino functionality, useful to \ngenerate multivalent DC-SIGN ligands.",
+    "Activity": "Mimics mannose to interact with DC-SIGN receptors, aiding in pathogen adhesion studies."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://dx.doi.org/10.2174/138955712803832690",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycomimetic",
+    "Mimic of which Protein/Carbohydrate": "linear Man (1,2)Man (1,6)Man trisaccharide",
+    "Name of the Mimetic": "pseudo-trisaccharide, 2",
+    "Functions": "This compound inhibits DC-SIGN binding to \nmannosylated BSA (Bovine serum albumin) with an IC50 of \n130 M (by surface-plasmon resonance, SPR).",
+    "Activity": "Potential anti-infective agent by blocking DC-SIGN receptor interactions, which could inhibit pathogen entry and infection processes"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "Streptamine-based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Streptomycin",
+    "Functions": "Binds to the 30S subunit of ribosomal RNA (rRNA) to inhibit protein synthesis.",
+    "Activity": "Effective against Mycobacterium tuberculosis"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "2-Deoxystreptamine (2-DOS) based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Neomycins",
+    "Functions": "Binds to rRNA to prevent normal translation of proteins.",
+    "Activity": "Broad-spectrum antibiotic activity"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "2-Deoxystreptamine (2-DOS) based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Paramomycins",
+    "Functions": "Binds to rRNA to inhibit protein synthesis.",
+    "Activity": "Broad-spectrum antibiotic activity"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "2-Deoxystreptamine (2-DOS) based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Kanamycins",
+    "Functions": "Binds to rRNA to inhibit protein synthesis.",
+    "Activity": "Broad-spectrum antibiotic activity"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "2-Deoxystreptamine (2-DOS) based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Gentamicins",
+    "Functions": "Binds to rRNA to inhibit protein synthesis.",
+    "Activity": "Broad-spectrum antibiotic activity"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "2-Deoxystreptamine (2-DOS) based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Tobramycins",
+    "Functions": "Binds to rRNA to inhibit protein synthesis.",
+    "Activity": "Broad-spectrum antibiotic activity"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Semi-synthetic aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "2-Deoxystreptamine (2-DOS) based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Amikamycins",
+    "Functions": "Binds to rRNA to inhibit protein synthesis.",
+    "Activity": "Effective against resistant bacteria, particularly Gram-negative pathogens"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Semi-synthetic aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "2-Deoxystreptamine (2-DOS) based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Dibekacins",
+    "Functions": "Binds to rRNA to inhibit protein synthesis.",
+    "Activity": "Active against aminoglycoside-resistant strains, used for treating severe infections"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Semi-synthetic aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "2-Deoxystreptamine (2-DOS) based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Sisomicins",
+    "Functions": "Binds to rRNA to inhibit protein synthesis.",
+    "Activity": "Broad-spectrum activity, effective against Pseudomonas aeruginosa and other resistant pathogens"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.2174/138955712803832672",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Semi-synthetic aminoglycoside antibiotic",
+    "Mimic of which Protein/Carbohydrate": "2-Deoxystreptamine (2-DOS) based pseudo-oligosaccharide",
+    "Name of the Mimetic": "Netilmicins",
+    "Functions": "Binds to rRNA to inhibit protein synthesis.",
+    "Activity": "Active against aminoglycoside-resistant bacteria, lower ototoxicity compared to other aminoglycosides"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.carres.2012.05.024",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate Mimetic",
+    "Mimic of which Protein/Carbohydrate": "Pentasaccharide",
+    "Name of the Mimetic": "Octapeptide 2",
+    "Functions": "Binds to the SYA/J6 antibody with moderate affinity",
+    "Activity": "Potential use in developing vaccines or therapeutics targeting diseases where pentasaccharide recognition plays a role, such as certain bacterial infections or autoimmune disorders"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.carres.2012.05.024",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycopeptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "Structural elements from the pentasaccharide and the octapeptide",
+    "Name of the Mimetic": "a-Glycopeptide 3",
+    "Functions": "Designed to mimic natural antigens for vaccine development. Interacts with the antibody primarily on the periphery of the combining site, with some residues maintaining interactions similar to those in the pentasaccharide",
+    "Activity": "Potential use in vaccine development against pathogens that express similar carbohydrate structures, possibly including certain bacterial strains or parasites. May also have applications in autoimmune diseases where antibodies against specific carbohydrate structures are involved."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.carres.2012.05.024",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycopeptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "Structural elements from the pentasaccharide and the octapeptide",
+    "Name of the Mimetic": "b-Glycopeptide 4",
+    "Functions": "Designed to mimic natural antigens for vaccine development",
+    "Activity": "Potential use in vaccine development against pathogens expressing similar carbohydrate structures. May also have applications in treating autoimmune diseases where antibodies against specific carbohydrate structures are involved."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1093/glycob/cwr140",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate-Mimetic Peptides",
+    "Mimic of which Protein/Carbohydrate": "Methyl α-D-mannopyranoside (a known carbohydrate ligand for Con A).",
+    "Name of the Mimetic": "Con A Ligand-Mimetic Peptides",
+    "Functions": "Serve as ligands for the lectin concanavalin A (Con A).",
+    "Activity": "Potential applications in antiviral therapy, cancer treatment, and as vaccine components by mimicking carbohydrate antigens and inducing immune responses"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1093/glycob/cwr140",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate-Mimetic Peptides (Epitope analog.)",
+    "Mimic of which Protein/Carbohydrate": "Type III capsular polysaccharide of group B streptococci (GBS).",
+    "Name of the Mimetic": "FDTGAFDPDWPA Peptide",
+    "Functions": "Elicits an antibody response against GBS.",
+    "Activity": "When conjugated to carriers and used for immunization, it resulted in a significant antibody response to GBS after a single immunization"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/23118226/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic peptide",
+    "Mimic of which Protein/Carbohydrate": "Apolipoprotein-AE",
+    "Name of the Mimetic": "COG1410 2 h",
+    "Functions": "inhibits inflammatory respose of innate immune system",
+    "Activity": "Has antimicrobial activity against pandrug-resistant Acinetobacter baumannii."
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1002/cmdc.201100494",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "synthetic lipid",
+    "Mimic of which Protein/Carbohydrate": "human TLR4",
+    "Name of the Mimetic": "symmetric lipid A mimetic (D1)",
+    "Functions": "has weak TLR4 agonist activity that makes it a promising lead compound for development as a vaccine adjuvant.",
+    "Activity": "D1 inhibits endotoxin-stimulated TLR4 activation by inhibiting interaction of endotoxin with both receptors CD14 and MD-2 (associated to TLR4)"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.ddtec.2011.07.006",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "PEM scaffold",
+    "Mimic of which Protein/Carbohydrate": "Polyphemusin II",
+    "Name of the Mimetic": "POL7080",
+    "Functions": "LptD inhibitor",
+    "Activity": "POL7080 as an LptD inhibitor with antimicrobial activity"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.ddtec.2011.07.006",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "PEM scaffold",
+    "Mimic of which Protein/Carbohydrate": "PG-I",
+    "Name of the Mimetic": "L27-11",
+    "Functions": "antimicrobial activity",
+    "Activity": "target an essential bacterial b-barrel outer membrane (OM) protein called LptD"
+  },
+  {
+    "Paper Publish Year": 2012,
+    "DOI": "https://doi.org/10.1016/j.ddtec.2011.07.006",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "PEM scaffold",
+    "Mimic of which Protein/Carbohydrate": "PG-I",
+    "Name of the Mimetic": "POL7001",
+    "Functions": "antimicrobial activity",
+    "Activity": "target an essential bacterial b-barrel outer membrane (OM) protein called LptD"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/ejoc.201201413",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "1-deoxynojirimycin (DNJ)",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Inhibits various glycosidases and has potential therapeutic applications in metabolic disorders."
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/ejoc.201201413",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Mannitol",
+    "Name of the Mimetic": "1,5-dideoxy-1,5-imino-D-mannitol",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Potential treatment for viral infections (HIV, influenza), metabolic disorders (diabetes), and cancer by inhibiting specific glycosidases involved in carbohydrate processing"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/ejoc.201201413",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Mannitol",
+    "Name of the Mimetic": "1,5,6-trideoxy-1,5-imino-D-mannitol",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Inhibits glycosidases, potentially useful in therapeutic applications."
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1039/C3PY01123B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "b-1/6-linked N-acetylglucosamine Oligosaccharide",
+    "Mimic of which Protein/Carbohydrate": "Polysaccharide intercellular adhesin (PIA) produced by Staphylococcus aureus",
+    "Name of the Mimetic": "Compound 5 (per-acetylated b-1/6-linked N-acetylglucosamine disaccharide)",
+    "Functions": "To create a surface that mimics the natural biofilm structure, enhancing immune recognition.",
+    "Activity": "Potentially immunogenic, may produce anti-PNAG antibodies in vivo, aiding in vaccine development against Staphylococcus aureus infections, particularly biofilm-associated infections"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1039/C3PY01123B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "b-1/6-linked N-acetylglucosamine Oligosaccharide",
+    "Mimic of which Protein/Carbohydrate": "Polysaccharide intercellular adhesin (PIA) produced by Staphylococcus aureus",
+    "Name of the Mimetic": "Oligosaccharides 6-8 (various benzoylated b-1/6-linked glucosamine-based oligosaccharides)",
+    "Functions": "Present multiple copies of carbohydrate units to probe multivalent interactions.",
+    "Activity": "Mimics the globular nodules of PIA, facilitating studies on bacterial adhesion and immune response."
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1039/C3PY01123B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Multivalent Constructs",
+    "Mimic of which Protein/Carbohydrate": "Polysaccharide intercellular adhesin (PIA) produced by Staphylococcus aureus",
+    "Name of the Mimetic": "Multivalent Carbohydrate Constructs",
+    "Functions": "Present multiple copies of carbohydrate units to enhance immune engagement.",
+    "Activity": "Potential vaccine candidate against Staphylococcus aureus infections by mimicking PIA structure, inducing antibody production, and enhancing immune response against biofilm-associated infections"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/chem.201302786",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "GM1 mimetics",
+    "Mimic of which Protein/Carbohydrate": "GM1 ganglioside",
+    "Name of the Mimetic": "Pseudo-tetrasaccharides bearing a cyclohexane diol moiety",
+    "Functions": "Binds to cholera toxin with high affinity",
+    "Activity": "Potential inhibitor of cholera toxin, which could prevent cholera infection by blocking toxin binding to intestinal cells"
+  },
+  {
+    "Paper Publish Year": 2013,
+    "DOI": "https://doi.org/10.1002/chem.201302786",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Non-carbohydrate mimics",
+    "Mimic of which Protein/Carbohydrate": "GM1 ganglioside",
+    "Name of the Mimetic": "Based on a polyhydroxyalkylfuroic ester structure",
+    "Functions": "Act as antagonists of enterotoxins",
+    "Activity": "Showed binding affinities in the same order as known sugar-derived MNPG; the highest affinity was shown by these non-carbohydrate mimics towards cholera toxin"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://link.springer.com/chapter/10.1007/7355_2014_50",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "glucose mimetic based on its scaffold",
+    "Name of the Mimetic": "deoxynojirimycin",
+    "Functions": "Modulates the action of enzymes involved in carbohydrate synthesis and metabolism.",
+    "Activity": "Demonstrated activity in inhibiting glucocerebrosidase and has been associated with therapeutic applications for lysosomal storage diseases"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://link.springer.com/chapter/10.1007/7355_2014_50",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "castanospermine",
+    "Functions": "Modulates the action of enzymes involved in carbohydrate synthesis and metabolism, specifically as an inhibitor of glucosidases",
+    "Activity": "Demonstrated activity in inhibiting glucosidases, which is relevant for therapeutic applications in lysosomal storage diseases"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://link.springer.com/chapter/10.1007/7355_2014_50",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "glucose",
+    "Name of the Mimetic": "nojirimycin",
+    "Functions": "Modulates the action of enzymes involved in carbohydrate synthesis and metabolism",
+    "Activity": "Potential treatment for viral infections (HIV, influenza), diabetes, and cancer by inhibiting specific glycosidases"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://link.springer.com/chapter/10.1007/7355_2014_50",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "mannose",
+    "Name of the Mimetic": "nojirimycin B",
+    "Functions": "Modulates the action of enzymes involved in carbohydrate synthesis and metabolism.",
+    "Activity": "Potential antiviral and antitumor agent by interfering with N-linked glycosylation"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/17425247.2014.902048",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glyconanoparticles",
+    "Mimic of which Protein/Carbohydrate": "Glycans in lipid rafts",
+    "Name of the Mimetic": "Glyconanoparticles (GNPs)",
+    "Functions": "Targeted drug delivery, gene therapy, vaccine development",
+    "Activity": "Engages in carbohydrate-protein and carbohydrate-carbohydrate interactions, shows promise for clinical applications"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ol500848q",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Acyclic form derivatives",
+    "Mimic of which Protein/Carbohydrate": "Acyclic intermediate of UDP-Gal f",
+    "Name of the Mimetic": "UDP-galactitols (specifically molecules 8 and 9)",
+    "Functions": "Designed to mimic the acyclic form of galactitol to inhibit UGM.",
+    "Activity": "Potential antimycobacterial agent by inhibiting UGM, which is essential for mycobacterial cell envelope biosynthesis. May be effective against pathogens like Mycobacterium tuberculosis and drug-resistant Corynebacterium diphtheriae"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ol500848q",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "C-glycosidic analogue",
+    "Mimic of which Protein/Carbohydrate": "UDP-galactofuranose",
+    "Name of the Mimetic": "UDP-C-Galf (20)",
+    "Functions": "Used for comparison in inhibition studies against UGM",
+    "Activity": "Potential antimycobacterial agent, but less effective than UDP-carbasugar 7 in inhibiting UGM, which is essential for mycobacterial cell wall biosynthesis. May have limited efficacy in treating tuberculosis and related infections due to weaker affinity for UGM"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ol500848q",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Transition-state analogue",
+    "Mimic of which Protein/Carbohydrate": "Mimics high-energy intermediates of the UGM-catalyzed reaction",
+    "Name of the Mimetic": "UDP-carbasugar (7)",
+    "Functions": "Designed to act as a high-energy intermediate analogue for UGM inhibition.",
+    "Activity": "Potential antimycobacterial agent by inhibiting UGM, which is essential for mycobacterial cell wall biosynthesis, particularly in treating tuberculosis and related infections"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/13543776.2014.916280",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "D-Mannose",
+    "Name of the Mimetic": "Mannojirimycin",
+    "Functions": "Inhibits α-mannosidases, which can affect glycoprotein processing.",
+    "Activity": ". Potential antiviral agent against HIV and other viruses by interfering with N-linked glycosylation. May also have applications in treating lysosomal storage disorders and as an anti-inflammatory agent in cystic fibrosis."
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/13543776.2014.916280",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Thiosugar",
+    "Mimic of which Protein/Carbohydrate": "D-Mannose",
+    "Name of the Mimetic": "5-thio-D-mannose (Thiosugar)",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Inhibits glycosidases, potentially affecting carbohydrate metabolism"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/13543776.2014.916280",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "D-Mannitol",
+    "Name of the Mimetic": "2,5-Dideoxy-2,5-imino-D-mannitol (DMDP)",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Potential antiviral (HIV, influenza), antituberculosis, and antidiabetic agent. May also have applications in treating Gaucher's disease and as an insect antifeedant"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1517/13543776.2014.916280",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Bicyclic Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "D-Glucose",
+    "Name of the Mimetic": "Australine",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Isolated from Castanospermum australe, Australine has shown glycosidase inhibitory activity and potential antiviral properties"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1073/pnas.1413592112",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "single chain protein mimetic",
+    "Mimic of which Protein/Carbohydrate": "gp41 NHR trimer",
+    "Name of the Mimetic": "covNHR2",
+    "Functions": "inhibits fusion of HIV-1",
+    "Activity": "Inhibits HIV-1 fusion by binding to CHR peptides"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1073/pnas.1413592112",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "single chain protein mimetic",
+    "Mimic of which Protein/Carbohydrate": "gp41 NHR trimer",
+    "Name of the Mimetic": "covNHR3",
+    "Functions": "inhibits fusion of HIV-1",
+    "Activity": "Inhibits HIV-1 fusion by binding to CHR peptides"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1073/pnas.1413592112",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "single chain protein mimetic",
+    "Mimic of which Protein/Carbohydrate": "gp41 NHR trimer",
+    "Name of the Mimetic": "covNHR3-ABC",
+    "Functions": "inhibits fusion of HIV-1",
+    "Activity": "Inhibits HIV-1 fusion by binding to CHR peptides with high affinity"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ar4002735",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small Molecule Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "CD4",
+    "Name of the Mimetic": "BMS-378806",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "Inhibits HIV-1 entry by preventing conformational changes in gp120"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ar4002735",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small Molecule Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "CD4",
+    "Name of the Mimetic": "NBD-556",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "Inhibits HIV-1 entry by binding to monomeric gp120"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ar4002735",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small Molecule Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "CD4",
+    "Name of the Mimetic": "NBD-557",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "Inhibits HIV-1 entry by binding to monomeric gp120"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ar4002735",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small Molecule Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "CD4",
+    "Name of the Mimetic": "TS-II-224",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "Inhibits HIV-1 entry but may enhance CD4-independent viral entry"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ar4002735",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small Molecule Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "CD4",
+    "Name of the Mimetic": "MAE-II-120",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "Inhibits HIV-1 entry but may enhance CD4-independent viral entry"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ar4002735",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small Molecule Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "CD4",
+    "Name of the Mimetic": "MAE-II-116",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "Weakly inhibits HIV-1 entry without enhancing CD4-independent viral entry"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ar4002735",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small Molecule Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "CD4",
+    "Name of the Mimetic": "AWS-I-50",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "Inhibits HIV-1 entry by binding to monomeric gp120"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1021/ar4002735",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Small Molecule Inhibitors",
+    "Mimic of which Protein/Carbohydrate": "CD4",
+    "Name of the Mimetic": "DMJ-I-228",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "Inhibits HIV-1 entry by binding to monomeric gp120"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1128/jvi.03800-13",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "CCR5 mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "CCR5 amino-terminus",
+    "Name of the Mimetic": "CCR5mim3",
+    "Functions": "prevents the promotion of infection",
+    "Activity": "Inhibits HIV-1 infection by blocking CCR5 access when CD4 is limited"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1128/jvi.03800-13",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "CD4 mimetic peptide",
+    "Mimic of which Protein/Carbohydrate": "CD4 receptor",
+    "Name of the Mimetic": "CD4mim6",
+    "Functions": "mimic the CD4 receptor and can bind the receptor-binding site on gp120",
+    "Activity": "Binds HIV-1 gp120 but may promote infection when cell CD4 is limited"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1186/1471-2180-14-195",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "DevR signaling inhibitor",
+    "Mimic of which Protein/Carbohydrate": "DevR",
+    "Name of the Mimetic": "DevRS A (KDIKGME)",
+    "Functions": "inhibits the autokinase activity of the DevS sensor kinase",
+    "Activity": "specifically inhibit DevR-dependent transcriptional activity and restrict the hypoxic survival of M. tuberculosis by intercepting DevS activation at an early step in the signaling cascade"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1186/1471-2180-14-195",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "DevR signaling inhibitor",
+    "Mimic of which Protein/Carbohydrate": "DevR",
+    "Name of the Mimetic": "DevRS B (ILTSYT)",
+    "Functions": "inhibits the autokinase activity of the DevS sensor kinase",
+    "Activity": "specifically inhibit DevR-dependent transcriptional activity and restrict the hypoxic survival of M. tuberculosis by intercepting DevS activation at an early step in the signaling cascade"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1186/1471-2180-14-195",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "DevR signaling inhibitor",
+    "Mimic of which Protein/Carbohydrate": "DevR",
+    "Name of the Mimetic": "DevRS C (ELCRD)",
+    "Functions": "inhibits the autokinase activity of the DevS sensor kinase",
+    "Activity": "specifically inhibit DevR-dependent transcriptional activity and restrict the hypoxic survival of M. tuberculosis by intercepting DevS activation at an early step in the signaling cascade"
+  },
+  {
+    "Paper Publish Year": 2014,
+    "DOI": "https://doi.org/10.1186/1471-2180-14-195",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "DevR signaling inhibitor",
+    "Mimic of which Protein/Carbohydrate": "DevR",
+    "Name of the Mimetic": "DevRS D (VRLPD)",
+    "Functions": "inhibits the autokinase activity of the DevS sensor kinase",
+    "Activity": "specifically inhibit DevR-dependent transcriptional activity and restrict the hypoxic survival of M. tuberculosis by intercepting DevS activation at an early step in the signaling cascade"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/chem.201500831",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate mimetic",
+    "Mimic of which Protein/Carbohydrate": "Neuraminic acid",
+    "Name of the Mimetic": "Zanamivir (Relenza)",
+    "Functions": "Targets influenza viral neuraminidase",
+    "Activity": "Antiviral activity against influenza viruses"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/chem.201500831",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate mimetic",
+    "Mimic of which Protein/Carbohydrate": "Neuraminic acid",
+    "Name of the Mimetic": "Oseltamivir (Tamiflu)",
+    "Functions": "Targets influenza viral neuraminidase",
+    "Activity": "Antiviral activity against influenza viruses"
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/bmb.20915",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Dimeric Aminoglycosides",
+    "Mimic of which Protein/Carbohydrate": "natural carbohydrates",
+    "Name of the Mimetic": "Dimeric Aminoglycosides",
+    "Functions": "The primary function of these dimeric aminoglycosides is to inhibit the interaction between the HIV Trans-activator of transcription (Tat) protein and the Trans Activation Responsive (TAR) RNA. This interaction is crucial for the activation of transcription in the HIV life cycle, making it a valuable target for therapeutic intervention.",
+    "Activity": "The activity of these carbohydrate-based dimeric target molecules lies in their ability to block the Tat-TAR interaction, thereby exerting antiviral effects. The inhibition of this interaction can potentially prevent the replication of the virus, contributing to therapeutic strategies against HIV."
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "http://dx.doi.org/10.1517/17460441.2015.1067198",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Adjuvant",
+    "Mimic of which Protein/Carbohydrate": "Trehalose-6,6'-dibehenate (TDB)",
+    "Name of the Mimetic": "Trehalose",
+    "Functions": "Adjuvant in vaccine formulations.",
+    "Activity": "Enhances immune responses, particularly in tuberculosis vaccines."
+  },
+  {
+    "Paper Publish Year": 2015,
+    "DOI": "https://doi.org/10.1002/chem.201500831",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Synthetic carbohydrate mimic",
+    "Mimic of which Protein/Carbohydrate": "2G12 epitope",
+    "Name of the Mimetic": "Unnatural oligomannose mimics",
+    "Functions": "Targeting high-mannose epitopes for immune response",
+    "Activity": "aimed at improving immune response against HIV."
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Nucleotide Sugar Mimetics",
+    "Mimic of which Protein/Carbohydrate": "UDP-Galactose (UDP-Gal)",
+    "Name of the Mimetic": "dideoxy-tetrafluorinated uridine diphosphate (UDP)-Gal analogues",
+    "Functions": "Inhibitor of the enzyme UDP-galactopyranose mutase (UGM)",
+    "Activity": "Potential antimycobacterial agent with improved activity against tuberculosis"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "DOI: 10.1016/j.tibtech.2016.01.004",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fucose-based glycomimetic",
+    "Mimic of which Protein/Carbohydrate": "Lewis X oligosaccharide",
+    "Name of the Mimetic": "α-fucosyl-β-alanyl amide",
+    "Functions": "Targets DC-SIGN without inducing dendritic cell maturation and IL-10 production",
+    "Activity": "Acts as a potent DC-SIGN targeting device, suggesting potential use in targeted imaging or antigen delivery"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "DOI: 10.1016/j.tibtech.2016.01.004",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Mannose-based glycomimetic",
+    "Mimic of which Protein/Carbohydrate": "1,2-mannobioside and linear Man-α-1,2-Man-α-1,6-Man trisaccharide",
+    "Name of the Mimetic": "Mannose-based glycomimetic antagonists",
+    "Functions": "Antagonists of protein-sugar interactions",
+    "Activity": "Effective in hampering microbial adhesion"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b01876",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbasugar",
+    "Mimic of which Protein/Carbohydrate": "Cyclitol",
+    "Name of the Mimetic": "(−)-Epoxydine B",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Exhibits antibacterial, antifungal, and antialgal  activities; potential for treating infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b01876",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbasugar",
+    "Mimic of which Protein/Carbohydrate": "Cyclitol",
+    "Name of the Mimetic": "(−)-Epoxydine C",
+    "Functions": "Glycosidase inhibitor",
+    "Activity": "Exhibits antibacterial, antifungal, and antialgal  activities; potential for treating infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-threo-hexopyranose",
+    "Name of the Mimetic": "2,3-dideoxy -2,2,3,3-tetrafluoro D -thereo hexopyranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-threo-hexofuranose",
+    "Name of the Mimetic": "2,3-dideoxy -2,2,3,3-tetrafluoro D -thereo hexofuranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-erythro-hexopyranose",
+    "Name of the Mimetic": "2,3-dideoxy -2,2,3,3-tetrafluoro D -erythro hexopyranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-threo-hexopyranose",
+    "Name of the Mimetic": "3,4-dideoxy -3,3,4,4-tetrafluoro D -threo hexopyranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1021/acs.joc.6b00302",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Fluorinated Carbohydrate Mimic",
+    "Mimic of which Protein/Carbohydrate": "D-erythro-hexopyranose",
+    "Name of the Mimetic": "3,4-dideoxy -3,3,4,4-tetrafluoro D -erythro hexopyranose",
+    "Functions": "Potential inhibitor of carbohydrate-processing enzymes",
+    "Activity": "May have therapeutic potential in treating diseases involving carbohydrate metabolism, such as diabetes or viral infections"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.1089/jop.2015.0098",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "defensin mimetics",
+    "Mimic of which Protein/Carbohydrate": "daptomycin",
+    "Name of the Mimetic": "Brilacidine(PMX30063)",
+    "Functions": "eliminate FQrMRSA",
+    "Activity": "Potential treatment for antibiotic-resistant bacterial infections through membrane depolarization"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fbioe.2015.00211",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic peptide",
+    "Mimic of which Protein/Carbohydrate": "CD4-binding site",
+    "Name of the Mimetic": "CD4bs-M",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "assembles into amyloid fibrils"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fbioe.2015.00211",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic peptide",
+    "Mimic of which Protein/Carbohydrate": "CD4-binding site",
+    "Name of the Mimetic": "triazacyclophane scaffold",
+    "Functions": "inhibits HIV-1 entry",
+    "Activity": "Potential HIV-1 entry inhibitor by targeting the CD4 binding site"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fbioe.2015.00211",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic peptide",
+    "Mimic of which Protein/Carbohydrate": "CHR region of gp41",
+    "Name of the Mimetic": "Sifuvirtide",
+    "Functions": "active against Enfuvirtide-resistant HIV-1 strains.",
+    "Activity": "Treatment for HIV-1, including enfuvirtide-resistant strains, by blocking six-helical bundle formation"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fbioe.2015.00211",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic peptide",
+    "Mimic of which Protein/Carbohydrate": "CD4",
+    "Name of the Mimetic": "CD4M",
+    "Functions": "inhibits HIV activity",
+    "Activity": "Potential HIV-1 inhibitor by inducing conformational changes in gp120"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fbioe.2015.00211",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic peptide",
+    "Mimic of which Protein/Carbohydrate": "three ECLs of CXCR4",
+    "Name of the Mimetic": "CX4-M1",
+    "Functions": "inhibits HIV activity",
+    "Activity": "Potential HIV-1 inhibitor by targeting CXCR4"
+  },
+  {
+    "Paper Publish Year": 2016,
+    "DOI": "https://doi.org/10.3389/fphar.2016.00526",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Incretin Mimetics",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "TT401",
+    "Functions": "used for the treatment of complicated skin and skin structure infections and nosocomial pneumonia",
+    "Activity": "stimulate glucose-induced insulin secretion, suppress glucagon secretion and hepatic glucose production and delay gastric emptying"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1039/C7OB00386B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Nucleoside analogue",
+    "Mimic of which Protein/Carbohydrate": "guanosine",
+    "Name of the Mimetic": "Oxetanocin A",
+    "Functions": "Inhibits viral DNA polymerases and reverse transcriptases",
+    "Activity": "Potent antiviral activity against HIV, HSV-1, HSV-2, and HCMV; potential antitumor and antibacterial properties"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1039/C7OB00386B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycoside analogue",
+    "Mimic of which Protein/Carbohydrate": "Monosaccharides",
+    "Name of the Mimetic": "Oxetanosides",
+    "Functions": "Related to the synthesis of oxetanocin A and its analogues.",
+    "Activity": "Potential antiviral, antitumor, and antibacterial activities"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1039/C7OB00386B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Thietanose analogue",
+    "Mimic of which Protein/Carbohydrate": "furanose sugars",
+    "Name of the Mimetic": "Thietanose",
+    "Functions": "Designed as a carbohydrate mimic with potential applications in organic chemistry.",
+    "Activity": "Potential anti-HIV activity"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1039/C7OB00386B",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Thiethane analogue",
+    "Mimic of which Protein/Carbohydrate": "furanose sugars",
+    "Name of the Mimetic": "Pseudothietanose",
+    "Functions": "Related to the synthesis of thietanose analogues.",
+    "Activity": "Potential anti-HIV activity"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1080/1040841X.2016.1242868",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Castanospermine",
+    "Name of the Mimetic": "6-O-butanoyl castanospermine (BuCAST)",
+    "Functions": "Inhibitor of glycosphingolipid biosynthesis and glucosidases",
+    "Activity": "Reduced murine brain viral load of herpes simplex virus type 1 (HSV-1) following cutaneous infection; tested in vivo against a range of influenza virus strains with reduced pathology and increased survival in murine lethal infection models"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1080/1040841X.2016.1242868",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Sialic acid",
+    "Name of the Mimetic": "3-episiastatin B",
+    "Functions": "Neuraminidase inhibitor",
+    "Activity": "Potent inhibitory activities against influenza virus neuraminidases and influenza virus infection"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1080/1040841X.2016.1242868",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Deoxynojirimycin (DNJ)",
+    "Name of the Mimetic": "N-nonyl-deoxynojirimycin (N N-DNJ)",
+    "Functions": "Inhibitor of glycosphingolipid biosynthesis and glucosidases",
+    "Activity": "Reduced secretion of glycoproteins E and NS1 and virion production in dengue virus (DENV) and Japanese encephalitis virus (JEV); reduced mortality rate in a JEV mouse lethal challenge model"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1080/1040841X.2016.1242868",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Iminosugar",
+    "Mimic of which Protein/Carbohydrate": "Deoxynojirimycin (DNJ)",
+    "Name of the Mimetic": "N-(9-methoxynonyl)-1-deoxynojirimycin (M O N-DNJ)",
+    "Functions": "Inhibitor of glycosphingolipid biosynthesis and glucosidases",
+    "Activity": "Demonstrated protective effects against lethal doses of H1N1 influenza viruses and reduced mortality rate in a mouse lethal challenge model"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1016/j.carres.2017.03.012",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Inositol Mimic",
+    "Mimic of which Protein/Carbohydrate": "Rhamnopyranoside residue of a trisaccharide",
+    "Name of the Mimetic": "Inositol Analogues",
+    "Functions": "Potential use in synthetic vaccines",
+    "Activity": "May lead to more effective and stable vaccines against bacterial infections, particularly those with capsular polysaccharides"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/27411325/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "tripeptide",
+    "Mimic of which Protein/Carbohydrate": "tryptophan",
+    "Name of the Mimetic": "LTX-109",
+    "Functions": "treats impetigo and nasal decolonization.",
+    "Activity": "Treats impetigo and nasal decolonization"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://pubmed.ncbi.nlm.nih.gov/27411325/",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Lipo-peptidomimetic",
+    "Mimic of which Protein/Carbohydrate": "Antimicrobial peptides",
+    "Name of the Mimetic": "colistin/Polymyxin B",
+    "Functions": "essential for their antimicrobial activities",
+    "Activity": "Antimicrobial agent for treating resistant bacterial infections"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/molecules22071217",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "defensin mimetics",
+    "Mimic of which Protein/Carbohydrate": "Defensins",
+    "Name of the Mimetic": "telavancin",
+    "Functions": "inhibits bacterial cell wall syntheisis",
+    "Activity": "used for the treatment of complicated skin and skin structure infections and nosocomial pneumonia"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/molecules22071217",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "defensin mimetics",
+    "Mimic of which Protein/Carbohydrate": "Defensins",
+    "Name of the Mimetic": "Dalbavancin",
+    "Functions": "inhibits bacterial cell wall syntheisis",
+    "Activity": "used for the treatment of complicated skin and skin structure infections and nosocomial pneumonia"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/molecules22071217",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "defensin mimetics",
+    "Mimic of which Protein/Carbohydrate": "Defensins",
+    "Name of the Mimetic": "Oritavancin",
+    "Functions": "inhibits bacterial cell wall syntheisis",
+    "Activity": "used for the treatment of complicated skin and skin structure infections and nosocomial pneumonia"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.3390/molecules22071217",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "defensin mimetics",
+    "Mimic of which Protein/Carbohydrate": "Defensins",
+    "Name of the Mimetic": "Anidulafungin",
+    "Functions": "inhibits Fungal 1,3-β-d-glucan synthase",
+    "Activity": "used for the treatment of complicated skin and skin structure infections and nosocomial pneumonia"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "https://doi.org/10.1002/acn3.399",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Apolipoprotein",
+    "Mimic of which Protein/Carbohydrate": "Apolipoprotein E",
+    "Name of the Mimetic": "CN-105",
+    "Functions": "improves outcomes in ischemic stroke",
+    "Activity": "reduces proinflammatory pathways and lower oxidative stress"
+  },
+  {
+    "Paper Publish Year": 2017,
+    "DOI": "http://doi.org/10.1371/journal.pone.0185653",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Insulin",
+    "Name of the Mimetic": "Milk-Derived Peptides (IPP and VPP)",
+    "Functions": ": These peptides have ACE-inhibitory and anti-inflammatory properties.",
+    "Activity": "They promote the differentiation of pre-adipocytes, similar to insulin's effects on adipose tissue"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1002/chem.201705469",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycomimetics (heparin-related)",
+    "Mimic of which Protein/Carbohydrate": "Natural heparin",
+    "Name of the Mimetic": "Heparin-related glycopolymers",
+    "Functions": "These glycomimetics function as anticoagulants by modulating the interaction with antithrombin III, enhancing its ability to inhibit coagulation factors",
+    "Activity": "The glycopolymers exhibit anticoagulant activity that can surpass that of natural heparin, demonstrating improved efficacy in blood coagulation inhibition"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1002/chem.201705471",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycomimetics (β-(1→3) glucan mimetics)",
+    "Mimic of which Protein/Carbohydrate": "Natural β-(1→3) glucans",
+    "Name of the Mimetic": "Hydroxylamine-based di- and tri-oligomers of β-(1→3) glucans",
+    "Functions": "These mimetics are designed to bind to complement receptors and stimulate immune responses, such as phagocytosis",
+    "Activity": "The biological results indicate that these glycomimetics can stimulate phagocytosis in a length-dependent manner, with the trimer mimetic showing significant activity"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1016/j.aca.2017.11.047",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Monosaccharide (specifically, a hexose).",
+    "Mimic of which Protein/Carbohydrate": "Methyl α-D-mannopyranoside",
+    "Name of the Mimetic": "MYWYPY",
+    "Functions": "Inhibits the binding of methyl α-D-mannopyranoside to concanavalin A (ConA)",
+    "Activity": "Interacts with the protein at or near the carbohydrate binding site, acting as an inhibitor"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1016/j.aca.2017.11.051",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Monosaccharide",
+    "Mimic of which Protein/Carbohydrate": "Galactose",
+    "Name of the Mimetic": "YXY (where X can be alanine, glutamic acid, threonine, or tyrosine)",
+    "Functions": "Selectively interacts with several galactose recognition proteins",
+    "Activity": "Peptides containing the YXY sequence were designed to evaluate the interaction with galactose-binding proteins, showing selective binding"
+  },
+  {
+    "Paper Publish Year": 2018,
+    "DOI": "https://doi.org/10.1016/j.aca.2017.11.052",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Peptidoglycan-derived carbohydrate",
+    "Mimic of which Protein/Carbohydrate": "N-acetylglucosaminyl-β1-4-N-acetylmuramyl-alanyl-d-isoglutamine (GMDP)",
+    "Name of the Mimetic": "Peptide mimics of N-acetylglucosaminyl-β1-4-N-acetylmuramyl-alanyl-d-isoglutamine (GMDP)",
+    "Functions": "Demonstrated adjuvant activities",
+    "Activity": "Induces immune responses through the production of anti-carbohydrate antibodies"
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.3390/biomimetics4030053",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycan",
+    "Mimic of which Protein/Carbohydrate": "Neuraminic acid",
+    "Name of the Mimetic": "Oseltamivir (Tamiflu)",
+    "Functions": "Antiviral drug used for the treatment and prophylaxis of influenza A and B.",
+    "Activity": "Inhibits neuraminidase, an enzyme on the surface of the influenza virus, which is essential for the virus's replication and spread."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.3390/biomimetics4030054",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycan",
+    "Mimic of which Protein/Carbohydrate": "Neuraminic acid",
+    "Name of the Mimetic": "Zanamivir (Relenza)",
+    "Functions": "Antiviral drug used for the treatment of influenza A and B.",
+    "Activity": "Inhibits neuraminidase, preventing the release of new viral particles from infected cells."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.3390/biomimetics4030057",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Glycan",
+    "Mimic of which Protein/Carbohydrate": "Multivalent carbohydrate structure",
+    "Name of the Mimetic": "Multivalent glycomimetics",
+    "Functions": "Used to enhance binding affinity through multivalent interactions.",
+    "Activity": "Binds to multiple sites on a target protein or cell surface, increasing overall binding strength and efficacy."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1007/s11130-019-00723-z",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate-based fat mimetics",
+    "Mimic of which Protein/Carbohydrate": "Fats (specifically, saturated fats in bakery products)",
+    "Name of the Mimetic": "Inulin",
+    "Functions": "Inulin serves to reduce fat content in bakery products while providing similar textural and mouthfeel properties to fats",
+    "Activity": "Inulin promotes the endogenous formation of 3-MCPDE during baking, particularly at higher concentrations, due to the formation of Maillard products."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1007/s11130-019-00723-z",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Carbohydrate-based fat mimetics",
+    "Mimic of which Protein/Carbohydrate": "Fats (specifically, saturated fats in bakery products)",
+    "Name of the Mimetic": "Pectin",
+    "Functions": "Pectin serves to reduce fat content in bakery products while providing similar textural and mouthfeel properties to fats",
+    "Activity": "Pectin helps maintain lower levels of glycidyl esters during baking and storage due to its ability to bind water and create a stable gel matrix, which affects the thermal stability of these compounds."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.3390/ijms20081963",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Neutrophil serine proteases",
+    "Name of the Mimetic": "Kanamycin-based Compound (KanCbz):",
+    "Functions": "Acts as a potent inhibitor of these proteases, which are involved in inflammatory lung conditions.",
+    "Activity": "Demonstrated effectiveness in attenuating inflammation mediated by proteases"
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1002/adfm.202402521",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "CXCR3 Receptor",
+    "Name of the Mimetic": "CXCR3 Antagonist (AMG487)",
+    "Functions": "The CXCR3 receptor is involved in the recruitment and differentiation of osteoclast precursors at bone resorption sites. By blocking this receptor, the antagonist aims to mitigate osteoclast activity and bone loss.",
+    "Activity": "The PS-EMs loaded with AMG487 effectively protect against bone loss in an ovariectomized mouse model, demonstrating their potential as anti-resorptive therapies."
+  },
+  {
+    "Paper Publish Year": 2019,
+    "DOI": "https://doi.org/10.1021/acs.bioconjchem.9b00259",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Synthetic antibody-like peptide.",
+    "Mimic of which Protein/Carbohydrate": "Yeast regulatory protein Gal80.",
+    "Name of the Mimetic": "Synbody",
+    "Functions": "Exhibits a high affinity (5 nM) for Gal80, significantly enhancing binding compared to monomeric peptides. This synbody binds to two different faces of the protein, mimicking the behavior of natural antibodies.",
+    "Activity": "Synbody functions as a high-affinity protein interaction inhibitor by mimicking discontinuous epitopes of target proteins, enabling selective binding to disrupt pathogenic protein-protein interactions (PPIs) or modulate signaling pathways."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.1002/ejoc.202001389",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Azidopyran",
+    "Mimic of which Protein/Carbohydrate": "3-Azidopyran",
+    "Name of the Mimetic": "Trivalent 1,2,3-Triazole-Linked Carbohydrate Mimetics (6-8)",
+    "Functions": "Serve as multivalent ligands for biological targets, enhancing effects compared to monovalent ligands.",
+    "Activity": "Used for their potential as L- and P-selectin ligands, showing promise in preliminary evaluations"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.1002/ejoc.202001389",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Azidopyran",
+    "Mimic of which Protein/Carbohydrate": "3-Azidopyran",
+    "Name of the Mimetic": "Unsymmetrical Trivalent Carbohydrate Mimetic (12)",
+    "Functions": "Multivalent interaction with biological targets, potentially more effective due to asymmetry.",
+    "Activity": "Evaluated as L- and P-selectin ligands, successfully O-sulfated to enhance activity​"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.1002/ejoc.202001389",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Azidopyran",
+    "Mimic of which Protein/Carbohydrate": "3-Azidopyran",
+    "Name of the Mimetic": "Tetravalent 1,2,3-Triazole-Linked Carbohydrate Mimetic (16)",
+    "Functions": "Multivalent ligands for enhancing biological interactions.",
+    "Activity": "Synthesized for evaluation as a ligand for selectins, showing good yield and potential"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.1002/ejoc.202001389",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Azidopyran",
+    "Mimic of which Protein/Carbohydrate": "3-Azidopyran",
+    "Name of the Mimetic": "Hexavalent 1,2,3-Triazole-Linked Carbohydrate Mimetic (17)",
+    "Functions": "Designed to enhance multivalent biological interactions.",
+    "Activity": "Evaluated as a selectin ligand, showing good reactivity and yield​"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.1002/ejoc.202001389",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Azidopyran",
+    "Mimic of which Protein/Carbohydrate": "3-Azidopyran",
+    "Name of the Mimetic": "Octavalent 1,2,3-Triazole-Linked Carbohydrate Mimetic (18)",
+    "Functions": "Provides multiple binding sites for biological targets, enhancing effectiveness.",
+    "Activity": "Synthesized with good yield, evaluated for potential selectin binding​"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.1002/ejoc.202001389",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "Azidopyran",
+    "Mimic of which Protein/Carbohydrate": "3-Azidopyran",
+    "Name of the Mimetic": "Dodecavalent C60-Fullerene Derived Carbohydrate Mimetic (22)",
+    "Functions": "Provides extensive multivalent interaction potential with biological targets.",
+    "Activity": "Preliminary SPR measurements indicate promising ligand activity for L- and P-selectins with low nanomolar IC50 values, successfully O-sulfated for enhanced activity​."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/ijms21197349",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Antimicrobial peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "Natural antimicrobial peptide from wasp venom",
+    "Name of the Mimetic": "Protonectin",
+    "Functions": "Exhibits antifungal and antibacterial activity.",
+    "Activity": "Membrane-active mode of action, effective against various pathogens."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/ijms21197349",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Antimicrobial peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "Natural peptide found in frog skin.",
+    "Name of the Mimetic": "Temporin-SHf",
+    "Functions": "Provides a chemical defense against pathogens.",
+    "Activity": "Moderate antimicrobial activity against E. coli and S. aureus."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/ijms21197349",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Antimicrobial peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "Analogue of Temporin-SHf.",
+    "Name of the Mimetic": "TetraF2W-RR",
+    "Functions": "Enhanced antimicrobial properties.",
+    "Activity": "Improved activity against MRSA and other bacteria."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/ijms21197349",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Antimicrobial peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "Upgraded versions of Temporin.",
+    "Name of the Mimetic": "Verine-L",
+    "Functions": "Targeting bacterial infections.",
+    "Activity": "Enhanced antimicrobial activity against S. aureus and E. coli."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/ijms21197349",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Antimicrobial peptide mimetic",
+    "Mimic of which Protein/Carbohydrate": "Upgraded versions of Temporin.",
+    "Name of the Mimetic": "Horine",
+    "Functions": "Targeting bacterial infections.",
+    "Activity": "Enhanced antimicrobial activity against S. aureus and E. coli."
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/ijms21197349",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic oligomers",
+    "Mimic of which Protein/Carbohydrate": "Host-defense peptides.",
+    "Name of the Mimetic": "g-AApeptides",
+    "Functions": "Mimics the action of natural AMPs.",
+    "Activity": "mimic the primary structure of natural peptides, projecting a similar number of side chains, which allows them to interact effectively with bacterial membranes. They fold into discrete secondary structures, such as helical and β-turn-like formations, which are crucial for their function"
+  },
+  {
+    "Paper Publish Year": 2020,
+    "DOI": "https://doi.org/10.3390/ijms21197349",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic oligomers",
+    "Mimic of which Protein/Carbohydrate": "Cyclic peptide antibiotics.",
+    "Name of the Mimetic": "Cyclic g-AApeptides",
+    "Functions": "Antimicrobial action.",
+    "Activity": "disrupt bacterial membranes. Their unique structure allows them to adopt a globally amphipathic conformation, which is essential for interacting with and permeabilizing bacterial membranes"
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.1186/s13046-021-02157-5",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Macromolecular drug carrier.",
+    "Mimic of which Protein/Carbohydrate": "Various pro-apoptotic proteins",
+    "Name of the Mimetic": "ELPs (Elastin-like polypeptides)",
+    "Functions": "Enhances solubility and delivery of therapeutics,",
+    "Activity": "electively accumulating in tumors to promote apoptosis"
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.1002/anie.202102082",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic inhibitor",
+    "Mimic of which Protein/Carbohydrate": "β-catenin",
+    "Name of the Mimetic": "Bicyclic b-Sheet Mimetics (A-b6)",
+    "Functions": "Inhibits the interaction between β-catenin and transcription factors, thereby blocking Wnt signaling.",
+    "Activity": "Demonstrated robust Wnt inhibition with an IC50 of 8 µM and high inhibitory activity at 50 µM (2% residual activity)"
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.1002/anie.202102082",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Peptidomimetic inhibitor",
+    "Mimic of which Protein/Carbohydrate": "β-catenin",
+    "Name of the Mimetic": "Linear Analog (12-l)",
+    "Functions": "Similar target as A-b6 and 12, aimed at inhibiting β-catenin interactions.",
+    "Activity": "Exhibited low affinity (Kd approx. 2 mM) and reduced signal intensity due to proteolytic degradation"
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/bioengineering8010005",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Collagen triple helix.",
+    "Name of the Mimetic": "Homotrimeric Collagen mimetic peptides (CMPs)",
+    "Functions": "These peptides self-assemble into stable triple helices, mimicking the structural integrity of natural collagen.",
+    "Activity": "They exhibit thermal stability and can facilitate the formation of higher-order structures, which are essential for tissue engineering applications."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/bioengineering8010005",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "natural collagen with diverse amino acid sequences.",
+    "Name of the Mimetic": "Heterotrimeric CMPs",
+    "Functions": "Designed to form more complex structures that resemble the natural collagen fibrils found in tissues.",
+    "Activity": "These CMPs can enhance the mechanical properties of biomaterials and improve cell interactions."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/bioengineering8010005",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Collagen and its functional domains.",
+    "Name of the Mimetic": "Recombinant CMPs",
+    "Functions": "These peptides are produced using recombinant DNA technology, allowing for precise control over their sequence and structure.",
+    "Activity": "They provide insights into collagen's molecular interactions and can be tailored for specific biomedical applications."
+  },
+  {
+    "Paper Publish Year": 2021,
+    "DOI": "https://doi.org/10.3390/bioengineering8010005",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Collagen and other ECM components.",
+    "Name of the Mimetic": "Synthetic ECM Mimics",
+    "Functions": "These materials aim to replicate the nano-scale structure and function of collagen.",
+    "Activity": "They can support cell growth and tissue regeneration by providing a suitable environment for cellular activities."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "NEMO/IKKb interaction",
+    "Name of the Mimetic": "Bicyclic peptides",
+    "Functions": "Inhibits NEMO/IKKb interaction.",
+    "Activity": "Affects NF-kB signaling pathway."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "BCL9 protein",
+    "Name of the Mimetic": "Heptapeptides",
+    "Functions": "Mimics the α-helical domain of BCL9.",
+    "Activity": "Inhibits β-catenin interaction."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "Host defense peptide",
+    "Name of the Mimetic": "cTI (tachyplesin-I)",
+    "Functions": "Antimicrobial activity.",
+    "Activity": "Induces apoptosis in cancer cells."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Immunomodulatory mimetic.",
+    "Mimic of which Protein/Carbohydrate": "Interleukin-2 (IL-2)",
+    "Name of the Mimetic": "IL-2-derived peptides",
+    "Functions": "Enhances T-cell activation.",
+    "Activity": "Boosts immune response against tumors."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1016/j.addr.2021.114044",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "L2",
+    "Name of the Mimetic": "Human Papillomavirus Minor Capsid Protein L2",
+    "Functions": "Involved in viral entry into host cells.",
+    "Activity": "Facilitates infection."
+  },
+  {
+    "Paper Publish Year": 2022,
+    "DOI": "https://doi.org/10.1021/acscentsci.1c01293",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Cytokine mimetic",
+    "Mimic of which Protein/Carbohydrate": "Interleukin-2 (IL-2) and Interleukin-15 (IL-15)",
+    "Name of the Mimetic": "Neo-2/15",
+    "Functions": "Potently activates and expands cytotoxic CD8+ T cells and NK cells, supporting antitumor immunity with reduced toxicity",
+    "Activity": "Mimics IL-2 and IL-15 signaling by selectively binding IL-2Rβγc, driving immune cell activation without engaging CD25, thus minimizing side effects"
+  },
+  {
+    "Paper Publish Year": 2023,
+    "DOI": "https://doi.org/10.1039/D2CS00954D",
+    "Carbohydrate/Protein Mimetic": "Carbohydrate",
+    "Category": "iminosugars",
+    "Mimic of which Protein/Carbohydrate": "biologically active carbohydrates uch as sialic acid, glucose, maltose, and other glycan epitopes-examples include oseltamivir (Tamiflu)",
+    "Name of the Mimetic": "Glycomimetic",
+    "Functions": "Inhibition and modulation of lectins",
+    "Activity": "inhibit carbohydrate-processing enzymes or block lectin-mediated interactions, thereby modulating biological processes like viral infection, cancer metastasis"
+  },
+  {
+    "Paper Publish Year": 2023,
+    "DOI": "https://doi.org/10.1021/acs.jmedchem.3c01412",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "p53",
+    "Name of the Mimetic": "Sulfono-γ-AApeptides",
+    "Functions": "Blocking the interaction of p53 with its negative regulators MDM2 or MDMX.",
+    "Activity": "This  restores p53’s tumor-suppressing activity, potentially leading to cancer cell apoptosis."
+  },
+  {
+    "Paper Publish Year": 2023,
+    "DOI": "https://doi.org/10.1021/acs.jmedchem.3c01412",
+    "Carbohydrate/Protein Mimetic": "Protein",
+    "Category": "Not Specified Explicitly",
+    "Mimic of which Protein/Carbohydrate": "GLP-1",
+    "Name of the Mimetic": "Sulfono-γ-AApeptides",
+    "Functions": "treatment of type 2 diabetes.",
+    "Activity": "Mimicry of GLP-1, which is involved in glucose regulation by stimulating insulin secretion."
+  }
+]
