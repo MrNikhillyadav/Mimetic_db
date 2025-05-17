@@ -98,19 +98,27 @@ export default function Navbar() {
             Home
           </a>
 
-          <Dropdown Label="Mimetic">
+          <Dropdown Label="Mimetics">
             <a href="/carbohydrate">Carbohydrate</a>
             <a href="/proteins">Protein</a>
           </Dropdown>
 
-          <Dropdown Label="Therapeutics Action">
-            <a href="/diabetes">Diabetes</a>
+          <Dropdown Label="Therapeutics Actions">
             <a href="/cancer">Cancer</a>
+            <a href="/cancer">Cardiovascular disease (CVD)</a>
+            <a href="/diabetes">Diabetes</a>
+            <a href="/diabetes">Infections</a>
+            <a href="/diabetes">Inflammatory</a>
           </Dropdown>
 
           <a href="/about" className="hover:text-gray-300">
             About
           </a>
+
+          <a href="/faq" className="hover:text-gray-300">
+            FAQs
+          </a>
+
         </div>
 
         {/* Mobile Menu Toggle */}

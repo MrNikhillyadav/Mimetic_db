@@ -23,9 +23,9 @@ export default function Home() {
 					<ImagePreviewer
 						src="/Flowchart.png"
 						alt="Flowchart"
-						width={1200}
-						height={1200}
-						className="rounded-lg p-8 shadow-md border border-gray-300"
+						width={1300}
+						height={1300}
+						className="p-0"
 					/>
 
 			</div>

@@ -5,7 +5,7 @@ import { Linkedin } from "lucide-react";
 const teamMembers = [
     {
         name: "Akanksha Kulshreshtha",
-        image: '/assets/1.png',
+        image: '/assets/4.png',
         title: "Assistant Professor",
         department: "Department of Biological Sciences and Engineering",
         institution: "Netaji Subhas University of Technology (NSUT)",
