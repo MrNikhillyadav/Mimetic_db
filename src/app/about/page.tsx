@@ -58,7 +58,7 @@ const TeamPage: FC = () => {
             Research in carbohydrate and protein mimetics for targeted therapeutic interventions in cancer, diabetes, and beyond..
             </p>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-2">
                 {teamMembers.map((member, index) => (
                     <div 
                         key={index} 
@@ -70,11 +70,9 @@ const TeamPage: FC = () => {
                                 alt={`${member.name} profile`}
                                 width={300}
                                 height={224}
-                                style={{ objectFit: "cover", width: "100%", height: "224px" }}
+                                style={{ objectFit: "cover", width: "100%", height: "280px" }}
                                 className="w-full"
                                 />
-
-
                         </div>
                         <div className="p-6">
                             <h2 className="text-xl font-semibold text-gray-800 mb-2">
