@@ -8,13 +8,15 @@ export default function Home() {
 						Welcome to database on Carbohydrate and Protein Mimetics.
 					</h1>
 					<p className="mb-6">
-						A comprehensive resource for researchers and scientists exploring the fascinating world of molecular mimicry. Carbohydrate-mimetic peptides (CMPs) and protein mimetics represent a cutting-edge approach in drug discovery and vaccine development, offering exciting new therapeutic opportunities.
+						A comprehensive resource for researchers and scientists exploring the fascinating world of molecular mimicry. This curated database spans 25 years (1999–2023), featuring three major classes: carbohydrate mimetics, protein mimetics, and carbohydrate-mimetic peptides (CMPs). These innovative molecules represent a cutting-edge approach in drug discovery and vaccine development, unlocking new therapeutic possibilities.
+
 					</p>
 					<p className="mb-6">
-						These mimetics are designed to emulate the bioactive functions of carbohydrates and proteins while addressing the limitations of their natural counterparts, such as low activity and insufficient drug-like properties. By mimicking the three-dimensional interaction schemes of native carbohydrate and protein antigens, these compounds can interfere with sugar-protein and sugar-nucleic acid interactions, opening up new avenues for targeted therapies.
+						Designed to replicate the functional properties of natural carbohydrates and proteins, these mimetics help overcome challenges like low biological activity and limited drug-like behavior. Their unique ability to modulate key biological interactions makes them powerful candidates for precision medicine.
+
 					</p>
 					<p>
-						Our database serves as a vital tool for those involved in the rational design of glycomimetics and protein mimetics, providing detailed information on binding characteristics and potential applications in fields ranging from cancer treatment to combating infectious diseases.
+						Our database serves as a vital tool for those engaged in the rational design of mimetics, offering detailed insights into classification, functional activity, and therapeutic applications. These include cancer, cardiovascular diseases, infectious diseases, diabetes, inflammatory disorders, and other complex conditions where molecular mimicry holds promise.
 					</p>
 				</div>
 

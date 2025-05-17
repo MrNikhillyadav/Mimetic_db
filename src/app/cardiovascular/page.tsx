@@ -15,7 +15,7 @@ const page: FC<pageProps> = ({}) => {
 		DOI: { displayName: "DOI", dataType: "string" },
 		"Carbohydrate/Protein Mimetic": {displayName : " Carbohydrate/Protein Mimetic", dataType : "string"},
 		"Category": {
-			displayName: "Category ",
+		displayName: "Category",
 			dataType: "string",
 		},
 		"Mimic of which Protein/Carbohydrate": { displayName: "Mimic of which protein/carbodydrate", dataType: "string" },
