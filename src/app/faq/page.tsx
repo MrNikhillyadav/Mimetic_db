@@ -58,7 +58,7 @@ const faqs = [
 
 export default function Faqs() {
   return (
-    <div className="min-h-6xl bg-white flex flex-col mx-auto items-center py-12 px-2">
+    <div className="min-h-6xl bg-white flex flex-col mx-auto items-center py-12 px-2 rounded-lg">
       <div className="max-w-5xl w-full  rounded-lg  p-8">
         <h1 className="text-4xl font-extrabold text-black text-center mb-10">
           Frequently Asked Questions
