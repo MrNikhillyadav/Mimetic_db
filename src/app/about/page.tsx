@@ -41,11 +41,20 @@ const teamMembers = [
 
 const TeamPage: FC = () => {
     return (
-        <div className="max-w-6xl rounded-t-lg mx-auto px-6  py-16 bg-gray-50">
-            <h1 className="text-center text-4xl font-bold text-gray-900 mb-8">
+        <div className="max-w-6xl rounded-t-lg mx-auto px-6  py-10 bg-gray-50">
+             <div className="flex flex-col justify-center items-center gap-2">
+                <Image
+                                src={'/assets/nsutLogo.png'}
+                                alt={`nsut logo`}
+                                width={50}
+                                height={50}
+                                style={{ objectFit: "contain", width: "50%", height: "120px" }}
+                                />
+            <h1 className="text-center text-4xl font-bold text-gray-900 mb-2">
                 We are the people who make up Our Team
             </h1>
-            <p className="text-center text-lg text-gray-700 mb-12">
+             </div>
+            <p className="text-center text-lg text-gray-700 mb-10">
             Research in carbohydrate and protein mimetics for targeted therapeutic interventions in cancer, diabetes, and beyond..
             </p>
 
@@ -89,7 +98,7 @@ const TeamPage: FC = () => {
                                 </a>
                                 {member.linkedin && (
                                     <div className="text-gray-500 p-1 max-w-fit shadow-md cursor-pointer hover:scale-105 duration-200 text-sm mt-1">
-                                       <a href={`${member.linkedin}`}>  <Linkedin/> </a>
+                                       <a href={`${member.linkedin}`}>  <Linkedin className="text-blue-600"/> </a>
                                     </div>
                                 )}
                             </div>
