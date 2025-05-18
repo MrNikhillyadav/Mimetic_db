@@ -70,7 +70,7 @@ const TeamPage: FC = () => {
                                 alt={`${member.name} profile`}
                                 width={300}
                                 height={224}
-                                style={{ objectFit: "cover", width: "100%", height: "280px" }}
+                                style={{ objectFit: "cover", width: "100%", height: "200px" }}
                                 className="w-full"
                                 />
                         </div>
