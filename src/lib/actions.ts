@@ -6,16 +6,18 @@ import type { DocumentData } from "@/types";
 import { filterMatch } from "./utils";
 
 async function applyFilters(data: Object[], filters: Record<string, Condition[]>) {
-	for (const field in filters) {
-		const conditions = filters[field];
-		conditions.forEach((condition) => {
-			data = data.filter((row) => {
-				return filterMatch(field, row, condition);
-			});
-		});
-	}
+  let filteredData = [...data];
+  
+  for (const field in filters) {
+    const conditions = filters[field];
+    if (conditions.length === 0) continue;
+    
+    filteredData = filteredData.filter((row) => {
+      return conditions.some(condition => filterMatch(field, row, condition));
+    });
+  }
 
-	return data;
+  return filteredData;
 }
 
 async function paginateData(data: DocumentData[], page: number) {

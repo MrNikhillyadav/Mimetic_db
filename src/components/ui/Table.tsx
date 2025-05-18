@@ -33,9 +33,56 @@ const Table: FC<TableProps> = ({
   const [data, setData] = useState<DocumentData[]>([]);
   const [length, setLength] = useState(0);
   const [loading, setLoading] = useState(true);
+  const [allFilteredData, setAllFilteredData] = useState<DocumentData[]>([]);
 
   const headers = Object.keys(headerMap);
   const numPages = Math.ceil(length / ROW_PER_PAGE);
+
+  useEffect(() => {
+    (async () => {
+      try {
+        setLoading(true);
+        const totalPages = Math.ceil(length / ROW_PER_PAGE);
+        let allData: DocumentData[] = [];
+        
+        for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
+          const pageData = await loadData(pageNum, filters);
+          allData = [...allData, ...pageData];
+        }
+        
+        setAllFilteredData(allData);
+      } catch (error) {
+        console.error('Error loading all filtered data:', error);
+      } finally {
+        setLoading(false);
+      }
+    })();
+  }, [filters, loadData, length]);
+
+  const downloadFilteredData = () => {
+    if (loading) return; 
+    
+    const csvHeader = headers.map(header => `"${headerMap[header].displayName}"`).join(',');
+    
+    const csvRows = allFilteredData.map(row => {
+      return headers.map(header => {
+        const value = row[header]?.toString() || '';
+        return `"${value.replace(/"/g, '""')}"`;
+      }).join(',');
+    });
+
+    const csvContent = [csvHeader, ...csvRows].join('\n');
+    
+    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    const url = URL.createObjectURL(blob);
+    link.setAttribute('href', url);
+    link.setAttribute('download', `filtered_${filePath}.csv`); 
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    URL.revokeObjectURL(url); 
+  };
 
   useEffect(() => {
     (async () => {
@@ -100,14 +147,14 @@ const Table: FC<TableProps> = ({
           {/* Buttons */}
           <div className="w-full md:w-auto flex flex-col md:flex-row space-y-2 md:space-y-0 items-stretch md:items-center md:space-x-3 flex-shrink-0">
             <div className="flex items-center space-x-3 w-full md:w-auto">
-              <a
-                href={`/data/${filePath}`}
+              <button
+                onClick={downloadFilteredData}
                 id="step6"
                 className="cursor-pointer w-full md:w-auto flex items-center justify-center py-2 px-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200"
               >
                 Download
                 <ArrowBigDown className="h-4 w-4 ml-1 text-gray-400" fill="currentColor" />
-              </a>
+              </button>
             </div>
           </div>
         </div>
