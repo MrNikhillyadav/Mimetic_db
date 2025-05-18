@@ -11,7 +11,7 @@ interface pageProps {}
 
 const page: FC<pageProps> = ({}) => {
 	const headerMap: Record<string, Header> = {
-		"Paper publish year": { displayName: "Paper Publish Year", dataType: "number" },
+		"Paper Publish Year": { displayName: "Paper Publish Year", dataType: "number" },
 		DOI: { displayName: "DOI", dataType: "string" },
 		"Category (Protein Mimetic)": {
 			displayName: "Category (Protein Mimetic)",
