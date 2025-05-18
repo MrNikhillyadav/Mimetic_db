@@ -18,8 +18,8 @@ const page: FC<pageProps> = ({}) => {
 			dataType: "string",
 		},
 		"Mimic of which Protein": { displayName: "Mimic of which Protein", dataType: "string" },
-		"Name of the Protein mimetic": {
-			displayName: "Name of the Protein mimetic",
+		"Name of the Protein Mimetic": {
+			displayName: "Name of the Protein Mimetic",
 			dataType: "string",
 		},
 		Functions: { displayName: "Functions", dataType: "string" },
