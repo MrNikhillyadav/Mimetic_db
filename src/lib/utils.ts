@@ -8,26 +8,26 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export function filterMatch(field: string, row: DocumentData, condition: Condition) {
-	switch (condition.relation) {
-		case "equals":
-			// Handle both string and number comparisons
-			if (typeof row[field] === 'number') {
-				return Number(row[field]) === Number(condition.value);
-			}
-			return String(row[field]).trim().toLowerCase() === String(condition.value).trim().toLowerCase();
-		case "contains":
-			return String(row[field]).trim().toLowerCase().includes(String(condition.value).trim().toLowerCase());
-		case "starts-with":
-			return String(row[field]).trim().toLowerCase().startsWith(String(condition.value).trim().toLowerCase());
-		case "ends-with":
-			return String(row[field]).trim().toLowerCase().endsWith(String(condition.value).trim().toLowerCase());
-		case "greater-than":
-			return Number(row[field]) > Number(condition.value);
-		case "less-than":
-			return Number(row[field]) < Number(condition.value);
-		default:
-			return true;
-	}
+  switch (condition.relation) {
+    case "equals":
+      // Compare as numbers if both are numbers, else as strings
+      if (!isNaN(Number(row[field])) && !isNaN(Number(condition.value))) {
+        return Number(row[field]) === Number(condition.value);
+      }
+      return row[field] === condition.value;
+    case "contains":
+      return row[field]?.includes(condition.value);
+    case "starts-with":
+      return row[field]?.startsWith(condition.value);
+    case "ends-with":
+      return row[field]?.endsWith(condition.value);
+    case "greater-than":
+      return Number(row[field]) > Number(condition.value);
+    case "less-than":
+      return Number(row[field]) < Number(condition.value);
+    default:
+      return true;
+  }
 }
 
 export const generateHandle = (title: string): string => {

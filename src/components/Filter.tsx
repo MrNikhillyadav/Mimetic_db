@@ -11,6 +11,14 @@ import { Button } from "@/components/ui/button";
 import { ListFilter, Plus, Trash2, X, Check } from "lucide-react";
 import { type FC, useRef, useState, useEffect } from "react";
 
+type StringRelation = "equals" | "contains" | "starts-with" | "ends-with";
+type NumberRelation = "equals" | "less-than" | "greater-than";
+
+export interface Condition {
+  relation: StringRelation | NumberRelation;
+  value: string;
+}
+
 const DefaultCondition: Condition = { relation: "equals", value: "" };
 
 interface FilterProps {
@@ -58,8 +66,15 @@ const Filter: FC<FilterProps> = ({
   }
 
   function saveConditions() {
-    // Filter out empty conditions
-    const validTempConditions = tempConditions.filter(c => c.value.trim() !== "");
+    const validTempConditions = tempConditions.filter(c => {
+      if (typeof c.value === "string") {
+        return c.value.trim() !== "";
+      }
+      if (typeof c.value === "number") {
+        return !isNaN(c.value);
+      }
+      return false;
+    });
     
     const newConditions = [...conditions, ...validTempConditions];
     setConditions(newConditions);
@@ -174,14 +189,6 @@ const Filter: FC<FilterProps> = ({
   );
 };
 
-type StringRelation = "equals" | "contains" | "starts-with" | "ends-with";
-type NumberRelation = "equals" | "less-than" | "greater-than";
-
-export interface Condition {
-  relation: StringRelation | NumberRelation;
-  value: string;
-}
-
 interface ConditionItemProps {
   dataType: "string" | "number";
   condition: Condition;
@@ -207,7 +214,8 @@ const ConditionItem: FC<ConditionItemProps> = ({
   function handleValueChange(e: React.ChangeEvent<HTMLInputElement>) {
     updateCondition({
       ...condition,
-      value: e.target.value,
+      //@ts-ignore
+      value: dataType === "number" ? Number(e.target.value) : e.target.value,
     });
   }
 

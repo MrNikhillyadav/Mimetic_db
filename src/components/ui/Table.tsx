@@ -181,7 +181,7 @@ const Table: FC<TableProps> = ({
 
                           {showFilters && (
                             <Filter
-                              field={headerMap[header].displayName}
+                              field={header} 
                               dataType={headerMap[header].dataType}
                               updateFilters={updateFilters}
                             />
