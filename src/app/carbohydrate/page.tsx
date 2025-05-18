@@ -30,7 +30,7 @@ const page: FC<pageProps> = ({}) => {
 		<main className='max-w-6xl bg-white mx-auto py-8 rounded-t-lg container'>
 			<article className='space-y-6'>
 				<h1 className='scroll-m-20 text-black text-center text-4xl font-extrabold tracking-tight lg:text-5xl'>
-					carbodydrate Data
+					Carbodydrate Data
 				</h1>
 			</article>
 

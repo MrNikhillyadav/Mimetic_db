@@ -19,7 +19,7 @@ const teamMembers = [
         institution: "Netaji Subhas University of Technology (NSUT)",
         location: "New Delhi-110078, India",
         email: "avinash.pandey.ug21@nsut.ac.in",
-        linkedin : "https://github.com/MrNikhillyadav"
+        linkedin : "https://www.linkedin.com/in/aryabhatoham24/"
     },
     {
         name: "Aditi Gupta",
