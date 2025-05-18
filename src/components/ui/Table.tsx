@@ -1,7 +1,6 @@
 "use client";
 
 import { ROW_PER_PAGE } from "@/config";
-import { cn } from "@/lib/utils";
 import type { DocumentData } from "@/types";
 import { ArrowBigDown, Loader2 } from "lucide-react";
 import { type FC, useEffect, useState } from "react";

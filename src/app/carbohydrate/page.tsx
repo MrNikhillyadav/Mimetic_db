@@ -35,7 +35,7 @@ const page: FC<pageProps> = ({}) => {
 			</article>
 
 			<Table
-				filePath='carbodydrate.csv'
+				filePath='carbohydrate.csv'
 				headerMap={headerMap}
 				loadData={getCarbohydrateData}
 				getLength={getCarbohydrateDataLength}
