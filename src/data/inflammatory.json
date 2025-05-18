@@ -16,8 +16,8 @@
     "Category": "acylaminosugar",
     "Mimic of which Protein/Carbohydrate": "N-glycoproteins",
     "Name of the Mimetic": "acetamido derivative of GlcNAc\tThe acetamido derivative of GlcNAc functions as a simple model of the N-glycoprotein linkage region, used as an acceptor in transglycosylation and reversed hydrolysis catalyzed by β-N-acetylhexosaminidases\tOsteoarthritis: Modulates glycosaminoglycan synthesis for joint health",
-    "Functions": "",
-    "Activity": ""
+    "Functions": "N-glycoproteins help proteins fold correctly and maintain their stability. They enable cells to recognize each other by mimicking specific carbohydrate signals. Pathogens use N-glycoproteins to imitate host sugars and avoid immune detection. Engineered N-glycoproteins can improve the effectiveness and lifespan of therapeutic proteins.",
+    "Activity": "N-glycoproteins regulate the activity of enzymes and receptors on cell surfaces. They transmit signals between and within cells. In infections, N-glycoproteins facilitate the entry of pathogens into host cells."
   },
   {
     "Paper Publish Year": 2007,
