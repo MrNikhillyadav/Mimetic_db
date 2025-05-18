@@ -10,17 +10,21 @@ export function cn(...inputs: ClassValue[]) {
 export function filterMatch(field: string, row: DocumentData, condition: Condition) {
 	switch (condition.relation) {
 		case "equals":
-			return row[field] === condition.value;
+			// Handle both string and number comparisons
+			if (typeof row[field] === 'number') {
+				return Number(row[field]) === Number(condition.value);
+			}
+			return String(row[field]).trim().toLowerCase() === String(condition.value).trim().toLowerCase();
 		case "contains":
-			return row[field].includes(condition.value);
+			return String(row[field]).trim().toLowerCase().includes(String(condition.value).trim().toLowerCase());
 		case "starts-with":
-			return row[field].startsWith(condition.value);
+			return String(row[field]).trim().toLowerCase().startsWith(String(condition.value).trim().toLowerCase());
 		case "ends-with":
-			return row[field].endsWith(condition.value);
+			return String(row[field]).trim().toLowerCase().endsWith(String(condition.value).trim().toLowerCase());
 		case "greater-than":
-			return row[field] > condition.value;
+			return Number(row[field]) > Number(condition.value);
 		case "less-than":
-			return row[field] < condition.value;
+			return Number(row[field]) < Number(condition.value);
 		default:
 			return true;
 	}
