@@ -94,7 +94,7 @@ const Tabs: FC<TabsProps> = ({ children }) => {
 				headers[i].removeEventListener("click", listeners[i]);
 			}
 		};
-	}, []);
+	}, [activeIndex,setActiveIndex]);
 
 	return (
 		<div className='space-y-6 my-6'>

@@ -27,7 +27,7 @@ const Regions: FC<RegionsProps> = ({ array }) => {
 
 			chart.draw(data, options);
 		}
-	}, []);
+	}, [array]);
 
 	return <section id='regions' />;
 };

@@ -27,7 +27,7 @@ const PieChart: FC<PieChartProps> = ({ title, array, is3D = false }) => {
 
 			chart.draw(data, options);
 		}
-	}, []);
+	}, [array,is3D,title]);
 
 	return <div id='piechart' className='h-full w-full bg-white overflow-clip' />;
 };

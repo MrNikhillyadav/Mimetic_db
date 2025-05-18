@@ -112,7 +112,7 @@ export const DriverProvider = ({ children }: DriverProviderProps) => {
 		return () => {
 			clearTimeout(timeout);
 		};
-	}, [currentStep, setCurrentStep]);
+	}, [currentStep, setCurrentStep, setTourCompleted, tourCompleted]);
 
 	return <DriverContext.Provider value={null}>{children}</DriverContext.Provider>;
 };

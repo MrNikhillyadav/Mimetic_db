@@ -25,7 +25,7 @@ const ColumnChart: FC<ColumnChartProps> = ({ title, array }) => {
 			const chart = new window.google.charts.Bar(document.getElementById("coulmchart"));
 			chart.draw(data, window.google.charts.Bar.convertOptions(options));
 		}
-	}, []);
+	}, [array,title]);
 
 	return <div className='h-full w-full bg-white overflow-clip' id='coulmchart' />;
 };
