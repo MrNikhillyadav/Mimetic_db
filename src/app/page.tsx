@@ -32,7 +32,7 @@ const ResearchLandingPage = () => {
               Explore Research
             </a>
             <a 
-              href="/about" 
+              href="/" 
               className="border border-black px-6 py-3 rounded-md hover:bg-black hover:text-white transition"
             >
               About Us
