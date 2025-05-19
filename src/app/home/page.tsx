@@ -2,7 +2,7 @@ import ImagePreviewer from "@/components/ui/ImagePreviewer";
 
 export default function Home() {
 	return (
-		<main className=" max-w-6xl mx-auto px-8 border flex flex-col lg:flex-row rounded-t-lg justify-between items-center md:items-start gap-16 container py-16 bg-gray-50">
+		<main className=" max-w-6xl mx-auto px-8  flex flex-col lg:flex-row rounded-t-lg justify-between items-center md:items-start gap-16 container py-16 bg-gray-50">
 				<div className="lg:w-[55%] text-left leading-7 text-gray-600">
 					<h1 className="text-4xl font-bold text-gray-800 mb-6">
 						Welcome to Database on Carbohydrate and Protein Mimetics.

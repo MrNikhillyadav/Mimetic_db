@@ -30,27 +30,22 @@ const faqs = [
       "Yes, you can share your suggestions or contributions by reaching out via the contact form or messaging me on LinkedIn.",
   },
   {
-    question: "7. How can I connect with the database maintainer?",
-    answer:
-      "You can connect with Ms. Akanksha Kulshreshtha via email at akankshak@nsut.ac.in or visit the About section on this website to learn more.",
-  },
-  {
-    question: "8. Is this database free to access?",
+    question: "7. Is this database free to access?",
     answer:
       "Yes, it is publicly accessible for academic and non-commercial use.",
   },
   {
-    question: "9. How do I search for specific mimetics or therapeutic applications?",
+    question: "8. How do I search for specific mimetics or therapeutic applications?",
     answer:
       "You can use the search and filter tools available on the website to find mimetics by class, function, activity, therapeutic area, and publish year - enhancing the user experience and helping you find relevant data quickly.",
   },
   {
-    question: "10. Can I use the data from this database in my research or publications?",
+    question: "9. Can I use the data from this database in my research or publications?",
     answer:
       "Yes, the data can be used for academic and non-commercial research purposes. Please cite this database appropriately in your work.",
   },
   {
-    question: "11. Is it possible to download the data in Excel or CSV format?",
+    question: "10. Is it possible to download the data in Excel or CSV format?",
     answer:
       "Yes, you can download the database entries in Excel (.xlsx) or CSV (.csv) file formats for offline use and analysis.",
   },

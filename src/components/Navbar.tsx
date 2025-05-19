@@ -103,7 +103,7 @@ export default function Navbar() {
             <a href="/proteins">Protein</a>
           </Dropdown>
 
-          <Dropdown Label="Therapeutics Actions">
+          <Dropdown Label="Therapeutic Actions">
             <a href="/cancer">Cancer</a>
             <a href="/cardiovascular">Cardiovascular disease (CVD)</a>
             <a href="/diabetes">Diabetes</a>
@@ -111,9 +111,6 @@ export default function Navbar() {
             <a href="/inflammatory">Inflammatory</a>
           </Dropdown>
 
-          <a href="/about" className="hover:text-gray-300">
-            About
-          </a>
 
           <a href="/faq" className="hover:text-gray-300">
             FAQs

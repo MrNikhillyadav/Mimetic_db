@@ -45,7 +45,7 @@ export default function RootLayout({
 				<DriverProvider>
 					<div className="max-w-6xl  mx-auto px-8 "> 
 					{children}
-					<Footer/>
+					{/* <Footer/> */}
 					</div>
 				</DriverProvider>
 				<Script
